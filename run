@@ -3,26 +3,24 @@
 set -eou pipefail
 
 simple_fields=()
+simple_fields_boilerplate=()
 simple_fields+=('.created')
 simple_fields+=('.updated')
 simple_fields+=('.meta.slug')
+simple_fields_boilerplate+=('.meta.slug')
 simple_fields+=('.title')
 simple_fields+=('.book_state')
 simple_fields+=('.salesforce_abbreviation')
 simple_fields+=('.salesforce_name')
 simple_fields+=('.salesforce_book_id')
-simple_fields+=('.book_subjects[0].subject_name') # [].subject_name
-# simple_fields+=('.book_categories') # [].subject_name
+simple_fields+=('.book_subjects[0].subject_name')
 simple_fields+=('.is_ap')
-simple_fields+=('.description')
 simple_fields+=('.cover_url')
 simple_fields+=('.title_image_url')
 simple_fields+=('.cover_color')
 simple_fields+=('.book_cover_text_color')
 simple_fields+=('.reverse_gradient')
-# simple_fields+=('.book_student_resources')
 simple_fields+=('.publish_date')
-# simple_fields+=('.authors')
 simple_fields+=('.print_isbn_10')
 simple_fields+=('.print_isbn_13')
 simple_fields+=('.print_softcover_isbn_10')
@@ -33,28 +31,25 @@ simple_fields+=('.ibook_isbn_10')
 simple_fields+=('.ibook_isbn_13')
 simple_fields+=('.ibook_volume_2_isbn_10')
 simple_fields+=('.ibook_volume_2_isbn_13')
-simple_fields+=('.license_text')
-simple_fields+=('.license_name')
-simple_fields+=('.license_version')
+simple_fields_boilerplate+=('.license_text')
+simple_fields_boilerplate+=('.license_name')
+simple_fields_boilerplate+=('.license_version')
 simple_fields+=('.license_url')
 simple_fields+=('.high_resolution_pdf_url')
 simple_fields+=('.low_resolution_pdf_url')
-# simple_fields+=('.free_stuff_instructor')
-# simple_fields+=('.free_stuff_student')
-simple_fields+=('.community_resource_heading')
-simple_fields+=('.community_resource_logo_url')
+simple_fields_boilerplate+=('.community_resource_heading')
+simple_fields_boilerplate+=('.community_resource_logo_url')
 simple_fields+=('.community_resource_url')
-simple_fields+=('.community_resource_cta')
-simple_fields+=('.community_resource_blurb')
+simple_fields_boilerplate+=('.community_resource_cta')
+simple_fields_boilerplate+=('.community_resource_blurb')
 simple_fields+=('.community_resource_feature_link_url')
 simple_fields+=('.community_resource_feature_text')
-# simple_fields+=('.webinar_content')
 simple_fields+=('.ibook_link')
 simple_fields+=('.ibook_link_volume_2')
 simple_fields+=('.webview_link')
 simple_fields+=('.webview_rex_link')
-simple_fields+=('.rex_callout_title')
-simple_fields+=('.rex_callout_blurb')
+simple_fields_boilerplate+=('.rex_callout_title')
+simple_fields_boilerplate+=('.rex_callout_blurb')
 simple_fields+=('.enable_study_edge')
 simple_fields+=('.bookshare_link')
 simple_fields+=('.amazon_coming_soon')
@@ -63,28 +58,25 @@ simple_fields+=('.kindle_link')
 simple_fields+=('.chegg_link')
 simple_fields+=('.chegg_link_text')
 simple_fields+=('.bookstore_coming_soon')
-# simple_fields+=('.bookstore_content')
 simple_fields+=('.comp_copy_available')
-# simple_fields+=('.comp_copy_content')
-simple_fields+=('.errata_content')
+simple_fields_boilerplate+=('.errata_content')
 simple_fields+=('.tutor_marketing_book')
-simple_fields+=('.partner_list_label')
-simple_fields+=('.partner_page_link_text')
-simple_fields+=('.customization_form_heading')
-simple_fields+=('.customization_form_subheading')
-simple_fields+=('.customization_form_disclaimer')
-simple_fields+=('.customization_form_next_steps')
-# simple_fields+=('.videos')
-# simple_fields+=('.translations')
+simple_fields_boilerplate+=('.partner_list_label')
+simple_fields_boilerplate+=('.partner_page_link_text')
+simple_fields_boilerplate+=('.customization_form_heading')
+simple_fields_boilerplate+=('.customization_form_subheading')
+simple_fields_boilerplate+=('.customization_form_disclaimer')
+simple_fields_boilerplate+=('.customization_form_next_steps')
 simple_fields+=('.seo_title')
 simple_fields+=('.search_description')
 # simple_fields+=('.promote_image') .meta.download_url
 simple_fields+=('.last_updated_pdf')
-simple_fields+=('.featured_resources_header')
-simple_fields+=('.support_statement')
+simple_fields_boilerplate+=('.featured_resources_header')
+simple_fields_boilerplate+=('.support_statement')
 simple_fields+=('.adoptions')
 simple_fields+=('.savings')
 simple_fields+=('.cnx_id')
+simple_fields+=('.description')
 
 
 make_file() {
@@ -109,8 +101,12 @@ make_file() {
 
 printf -v joined '%s,' "${simple_fields[@]}"
 echo "${joined%,}" > ./output/_books.csv
-
 jq_selector="${joined%,}"
+
+printf -v joined '%s,' "${simple_fields_boilerplate[@]}"
+echo "${joined%,}" > ./output/_books.boilerplate.csv
+jq_selector_boilerplate="${joined%,}"
+
 
 
 
@@ -126,6 +122,9 @@ for book_id in $book_ids; do
 
     output_line=$(jq -r "[ $jq_selector ] | @csv" < "$book_json")
     echo "$output_line" >> ./output/_books.csv
+
+    output_line=$(jq -r "[ $jq_selector_boilerplate ] | @csv" < "$book_json")
+    echo "$output_line" >> ./output/_books.boilerplate.csv
 
     # Write book-specific CSV files out
     book_slug=$(jq -r ".meta.slug" < "$book_json")
