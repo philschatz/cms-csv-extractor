@@ -93,10 +93,13 @@ make_file() {
     jq_sel_root=$3
     jq_sel_fields=$4
     out_file="output/$book_slug.$jq_sel_root.csv"
-    echo $jq_sel_fields > $out_file
+
     # https://stackoverflow.com/questions/54495664/using-jq-to-create-csv-file
     output_lines=$(jq -r ".$jq_sel_root | to_entries[] | [ $jq_sel_fields ] | @csv" < "$book_json")
-    echo "$output_lines" >> $out_file
+    if [[ $output_lines != '' ]]; then # Only write the file if we have results
+        echo "$jq_sel_fields" > $out_file
+        echo "$output_lines" >> $out_file
+    fi
 }
 
 [[ -d ./output/ ]] && rm -rf ./output/ # First remove the output directory
@@ -127,7 +130,21 @@ for book_id in $book_ids; do
     # Write book-specific CSV files out
     book_slug=$(jq -r ".meta.slug" < "$book_json")
 
+    echo "Working on $book_id $book_slug"
+
     make_file $book_json $book_slug 'book_student_resources'    '.value.resource_heading, .value.resource_description, .value.resource_unlocked, .value.resource_icon, .value.link_external, .value.link_page, .value.link_document_url, .value.link_document_title, .value.link_text, .value.coming_soon_text, .value.updated, .value.print_link, .value.display_on_k12'
     make_file $book_json $book_slug 'authors'                   '.value.value.name, .value.value.university, .value.value.country, .value.value.senior_author, .value.value.display_at_top'
-    # make_file $book_json $book_slug 'book_subjects'             '.value.subject_name'
+
+    make_file $book_json $book_slug 'free_stuff_instructor'     '.value.value.heading, .value.value.content, .value.value.content_logged_in, .value.value.button_text, .value.value.button_url'
+    make_file $book_json $book_slug 'free_stuff_student'        '.value.value.heading, .value.value.content, .value.value.content_logged_in, .value.value.button_text, .value.value.button_url'
+    
+    # make_file $book_json $book_slug 'webinar_content'           '.value.value.heading, .value.value.content, .value.value.content_logged_in, .value.value.button_text, .value.value.button_url'
+    # make_file $book_json $book_slug 'bookstore_content'         '.value.value.heading, .value.value.content, .value.value.content_logged_in, .value.value.button_text, .value.value.button_url'
+    # make_file $book_json $book_slug 'comp_copy_content'         '.value.value.heading, .value.value.content, .value.value.content_logged_in, .value.value.button_text, .value.value.button_url'
+    
+    # make_file $book_json $book_slug 'videos[0].value'             '.value.title, .value.description, .value.embed'
+
+    make_file $book_json $book_slug 'translations'              '.value.value[0].locale, .value.value[0].slug'
+    # promote_image
+
 done
