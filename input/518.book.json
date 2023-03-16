@@ -1,0 +1,623 @@
+{
+    "id": 518,
+    "meta": {
+        "slug": "american-government-3e",
+        "seo_title": "",
+        "search_description": "",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/518/",
+        "html_url": "https://openstax.org/details/books/american-government-3e",
+        "show_in_menus": false,
+        "first_published_at": "2021-07-06T16:02:12.632000-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "American Government 3e",
+    "created": "2021-07-08T13:51:35.990000-05:00",
+    "updated": "2023-02-24T22:24:00-06:00",
+    "book_state": "live",
+    "cnx_id": "30e47181-f52c-4a91-9c11-33380c428268",
+    "salesforce_abbreviation": "American Government",
+    "salesforce_name": "American Government 3e",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 249,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Social Sciences",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 53,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Social Sciences",
+            "subject_category": "American Government"
+        }
+    ],
+    "k12book_subjects": [
+        {
+            "id": 19,
+            "meta": {
+                "type": "books.K12BookSubjects"
+            },
+            "subject_name": "American Government",
+            "subject_category": "Social Studies"
+        }
+    ],
+    "is_ap": false,
+    "description": "<p data-block-key=\"gzr9x\"><i>American Government 3e</i> aligns with the topics and objectives of many government courses. Faculty involved in the project have endeavored to make government workings, issues, debates, and impacts meaningful and memorable to students while maintaining the conceptual coverage and rigor inherent in the subject. With this objective in mind, the content of this textbook has been developed and arranged to provide a logical progression from the fundamental principles of institutional design at the founding, to avenues of political participation, to thorough coverage of the political structures that constitute American government. The book builds upon what students have already learned and emphasizes connections between topics as well as between theory and applications. The goal of each section is to enable students not just to recognize concepts, but to work with them in ways that will be useful in later courses, future careers, and as engaged citizens.</p><p data-block-key=\"72bsq\">In order to help students understand the ways that government, society, and individuals interconnect, the revision includes more examples and details regarding the lived experiences of diverse groups and communities within the United States. The authors and reviewers sought to strike a balance between confronting the negative and harmful elements of American government, history, and current events, while demonstrating progress in overcoming them. In doing so, the approach seeks to provide instructors with ample opportunities to open discussions, extend and update concepts, and drive deeper engagement.<br/></p><p data-block-key=\"8ssd7\">Changes made in <i>American Government 3e</i> are described in the preface to help instructors transition to the third edition. The second edition of <i>American Government</i> by OpenStax is available in web view <a href=\"https://openstax.org/books/american-government-2e/pages/1-introduction\">here</a>.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/american_government_3e_web_card.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/american_government_3e.svg",
+    "cover_color": "light-blue",
+    "book_cover_text_color": "red",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1248,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1251,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1252,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1352,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "American Government 3e Audiobook",
+            "resource_description": "<p data-block-key=\"uh3iw\">Brian Barrick of Los Angeles Harbor College and Sarah Arya of California State University, Long Beach created an audiobook of OpenStax&#x27;s <i>American Government 3e</i>. You will find podcast feeds, Canvas resources, and more at the link below.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "https://www.openaudio.us/",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3567,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3568,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3569,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Answer Guide",
+            "resource_description": "<p data-block-key=\"pwp3a\">Get detailed solutions to all the end-of-chapter questions in your OpenStax book. No students allowed!<br/></p><p data-block-key=\"d86hg\"><br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/AmericanGovernment3e_IAG.docx",
+            "link_document_title": "American Government 3e Instructor Answer Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3570,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Third Edition Transition Guide",
+            "resource_description": "<p>This summary of the key changes from 2e to 3e is designed to assist faculty and course designers in using the new edition. It includes general and thematic changes, as well as detailed lists of revisions.</p>",
+            "resource_unlocked": true,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_American_Government_2e_to_3e_Transition_Guide.pdf",
+            "link_document_title": "AmericanGovernment3e_TransitionGuide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3571,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Lecture Slides",
+            "resource_description": "<p data-block-key=\"l4l76\">These lecture slides include selected graphics from the text, key concepts and definitions, and examples.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/american-government-3e-lecture-slides_SnqYNPU.zip",
+            "link_document_title": "american-government-3e-lecture-slides",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3573,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "D2L Course Cartridge",
+            "resource_description": "<p data-block-key=\"hri6m\">Minnesota State University, Mankato created a course cartridge for this title to integrate your OpenStax book into the D2L learning management system. Download this file and read the attached help article to import this resource into D2L. Please note that to use the book&#x27;s highlighting and note-taking feature in D2L, you and your students will need to be logged into your individual OpenStax accounts on openstax.org.</p><p data-block-key=\"eebq3\"></p><p data-block-key=\"hmqxo\"><a href=\"https://help.openstax.org/s/article/How-to-import-the-D2L-Course-Cartridge\">Instructions</a> for importing the D2L Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/D2LExport_13657_Am_Gov_3e_20219119.zip",
+            "link_document_title": "American Government 3e D2L Cartridge",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3574,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Canvas Course Cartridge",
+            "resource_description": "<p data-block-key=\"9curp\">The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system. Download this course file and read the attached help article to import this resource into Canvas.</p><p data-block-key=\"3r6s2\"><a href=\"https://help.openstax.org/s/article/Importing-Canvas-Cartridges\">Instructions</a> for importing the Canvas Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/american-government-3e-export.imscc",
+            "link_document_title": "American Government Canvas Course Cartridge",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3703,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/american-government-3e.zip",
+            "link_document_title": "american-government-3e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3895,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "American Government 3e Audiobook",
+            "resource_description": "<p data-block-key=\"3tm91\">Brian Barrick of Los Angeles Harbor College and Sarah Arya of California State University, Long Beach created an audiobook of OpenStax&#x27;s <i>American Government 3e</i>. You will find podcast feeds, Canvas resources, and more at the link below.</p>",
+            "resource_unlocked": true,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "https://www.openaudio.us/",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2021-07-28",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Glen Krutz",
+                "university": "Oklahoma State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "a82081eb-3d24-4ecf-b667-2e529e6e761c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sylvie Waskiewicz, PhD",
+                "university": "",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "4c12e059-7835-4ea1-8ba6-6dc60a9684b2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Prosper Bernard, Jr.",
+                "university": "City University of New York",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "6cf27758-aeab-488d-bf27-32051522a6de"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jennifer Danley-Scott",
+                "university": "Texas Woman’s University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "9842107d-d4ec-436b-b9f7-a4c142425f78"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ann Kordas",
+                "university": "Johnson & Wales University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4e151188-5513-4c58-9914-a06feed923d5"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Christopher Lawrence",
+                "university": "Middle Georgia State College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "7a6a9640-c1e3-402a-a13d-e44114a3e120"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Tonya Neaves",
+                "university": "George Mason University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d67cf477-d1ce-4db3-973c-1e24960477b6"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Adam Newmark",
+                "university": "Appalachian State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "fbd475a0-7973-4317-ba4e-72daf35e0e8c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Brooks D. Simpson",
+                "university": "Arizona State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "67f2c745-ad6a-43e0-818f-791a30b80529"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Joel Webb",
+                "university": "Tulane University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "33c60c82-6ff4-46ab-bbff-2ee61bdbd3cc"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Abram Trosky",
+                "university": "US Army War College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "e0ebec7a-a905-4367-9222-767c5fba68b3"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Shawn Williams",
+                "university": "Campbellsville University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4cdc76a4-277f-44bc-bec2-3dff61e01342"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rhonda Wrzenski",
+                "university": "Indiana University Southeast",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8453c15e-2187-481a-9802-9719d0a1a8cb"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-711493-96-1",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-711493-95-4",
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-1-951693-38-1",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "Attribution 4.0 International (CC BY 4.0)",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/AmericanGovernment3e-WEB.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "8f662536-8768-464e-bb28-ecc2da60efcd"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "3da55d00-e3cc-424c-bad8-a0445bb02fa3"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-american-government/1093/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our American government book. Submit a resource to help us get started!",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "2d87d537-fa7e-48ec-a3ea-44493effcdfb"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "bc25df67-f0fa-4937-91ab-edd94415ad15"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/30e47181-f52c-4a91-9c11-33380c428268",
+    "webview_rex_link": "https://openstax.org/books/american-government-3e/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": true,
+    "amazon_link": "https://buyprint.openstax.org/american-government-3e",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": "Read on Chegg",
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "link",
+            "value": "",
+            "id": "25405212-f9aa-4674-b120-d997287082ab"
+        }
+    ],
+    "comp_copy_available": true,
+    "comp_copy_content": [
+        {
+            "type": "link_text",
+            "value": "iBooks comp copy request",
+            "id": "bfcbd528-3a31-4d60-aa41-07f59fa7a5e7"
+        }
+    ],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1277,
+        "meta": {
+            "width": 975,
+            "height": 450,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1277/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/AmericanGov2e_NoUtChV.jpeg"
+        },
+        "title": "AmericanGov2e.jpeg"
+    },
+    "last_updated_pdf": "2021-07-19T14:00:00-05:00",
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

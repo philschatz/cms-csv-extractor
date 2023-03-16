@@ -1,0 +1,447 @@
+{
+    "id": 623,
+    "meta": {
+        "slug": "world-history-volume-2",
+        "seo_title": "",
+        "search_description": "",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/623/",
+        "html_url": "https://openstax.org/details/books/world-history-volume-2",
+        "show_in_menus": false,
+        "first_published_at": "2022-12-02T12:13:13.241697-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "World History, Volume 2: from 1400",
+    "created": "2022-12-02T12:13:12.936000-06:00",
+    "updated": null,
+    "book_state": "live",
+    "cnx_id": "685e3163-1032-4529-bb3a-f97a54412704",
+    "salesforce_abbreviation": "World History",
+    "salesforce_name": "World History",
+    "salesforce_book_id": "a0Z6f00000RIs42EAD",
+    "book_subjects": [
+        {
+            "id": 315,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Humanities",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 93,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Humanities",
+            "subject_category": "World History"
+        }
+    ],
+    "k12book_subjects": [
+        {
+            "id": 37,
+            "meta": {
+                "type": "books.K12BookSubjects"
+            },
+            "subject_name": "World History",
+            "subject_category": "Social Studies"
+        }
+    ],
+    "is_ap": false,
+    "description": "<p data-block-key=\"ko1gu\"><i>World History, Volume 2: from 1400</i> is designed to meet the scope and sequence of a world history course from 1400 offered at both two-year and four-year institutions. Suitable for both majors and non majors <i>World History, Volume 2: from 1400</i> introduces students to a global perspective of history couched in an engaging narrative. Concepts and assessments help students think critically about the issues they encounter so they can broaden their perspective of global history. A special effort has been made to introduce and juxtapose people’s experiences of history for a rich and nuanced discussion. Primary source material represents the cultures being discussed from a firsthand perspective whenever possible. <i>World History, Volume 2: from 1400</i> also includes the work of diverse and underrepresented scholars to ensure a full range of perspectives.</p><p data-block-key=\"7nfem\"></p><p data-block-key=\"dr0ka\">Print copies of this book will be available for the fall 2023 semester. You can <a href=\"https://www.xanedu.com/openstax-pre-order\">sign up to be notified when print copies are available</a>.<br/></p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/World_History_volume_2_WebCard_uh6dUHf.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/World_History_volume_2_TitleCard_8mPT7KE.svg",
+    "cover_color": "deep-green",
+    "book_cover_text_color": "white",
+    "reverse_gradient": false,
+    "book_student_resources": [],
+    "book_faculty_resources": [],
+    "publish_date": "2022-12-14",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Ann Kordas",
+                "university": "Johnson & Wales University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "e9908a16-2a07-4dd5-8141-cd03f938a126"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ryan J. Lynch",
+                "university": "Columbus State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "e049fd82-ea1e-4479-ad0c-829c86f408b8"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Brooke Nelson",
+                "university": "formerly California State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "1cf54533-17f5-4ca2-884e-79ce63d400f3"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Julie Tatlock",
+                "university": "Mount Mary University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "9a6d1203-45f5-4623-b797-c88632d9f74c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Chris Bingley",
+                "university": "UCLA",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0ae9ff6f-0190-4aac-a5d2-50af7b7d7678"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Celeste Chamberland",
+                "university": "Roosevelt University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8ed39521-bc07-4633-8a41-26a5ee7be5b4"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Scott Corbett",
+                "university": "Ventura College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "88bb8e7e-f5f2-4b4e-984c-e9ea188ec9fa"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rick Gianni",
+                "university": "Grand Canyon University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "1ebf6929-a1d3-431c-be9c-bf41d6a62930"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jennifer Lawrence",
+                "university": "Tarrant County College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f44dae37-4050-4b90-a147-c6f9fac424c3"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jamie McCandless",
+                "university": "Kennesaw State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "611ab850-daec-4f74-bb78-3cdf33372d3e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Cristina Mehrtens",
+                "university": "University of Massachusetts Dartmouth",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "18dc2fe3-883c-456c-a2a0-fafcb856db8c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Anthony Miller",
+                "university": "Hanover College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "96b079b5-0866-4a10-8fc5-d1ae7815aadf"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Abigail Owen",
+                "university": "Carnegie Mellon University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "1c7298ca-6dde-46b6-a9f8-97b025d712df"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Price",
+                "university": "Santa Fe College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "e553fab4-857e-4d3e-8a37-a3b38135ae7c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kim Richardson",
+                "university": "University of South Carolina Lancaster",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "2fd57b6e-7f53-462b-a63a-013581729faa"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Chris Rose",
+                "university": "The University of Texas at Austin",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8fe12b97-e4fa-4768-8775-c8b22b6e511f"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Joseph Snyder",
+                "university": "Southeast Missouri State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b05ea264-6491-47ef-8b5a-f0c6f14500d5"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Christopher Thrasher",
+                "university": "National Park College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a842a2c2-55e7-4d81-a17b-20573612a176"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Toye",
+                "university": "Northeast State Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "6347f845-d1e3-4057-a921-d519913eadb6"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Alexander Wathen",
+                "university": "University of Houston-Downtown",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4f9c3258-96c1-44c9-a498-336436edb5f8"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Grace Hunt Watkinson",
+                "university": "Kennesaw State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8f0fa98d-5603-4337-857e-f843a0da5537"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Joel Webb",
+                "university": "Auburn University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "7c183643-8453-40fd-9197-b4298dcdea96"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-7114714-3-3",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-711471-44-0",
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-1-951693-62-6",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "Attribution 4.0 International  (CC BY 4.0)",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/World_History_Volume_2-WEB.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "78bee0fc-743e-44db-9434-931ccd2f29ec"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "dd8c20b4-862c-430f-bf65-9ea0751c2d35"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpeg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-world-history/12485/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our world history book, like the recorded lectures and lecture notes below. Find more resources and submit your own.",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "e1b27a5c-78d2-4f7f-be26-1af9e20d360b"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "3efd4d58-ba54-481c-b761-be0c9fe5ca42"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/685e3163-1032-4529-bb3a-f97a54412704",
+    "webview_rex_link": "https://openstax.org/books/world-history-volume-2/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 5,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Order options",
+                "button_url": "https://openstax.org/bookstore-suppliers"
+            },
+            "id": "cfc25e08-a5f9-4b91-8f7b-9022d48c0196"
+        },
+        {
+            "type": "link",
+            "value": "",
+            "id": "a342c292-3486-4d89-8c99-2792ff584936"
+        }
+    ],
+    "comp_copy_available": true,
+    "comp_copy_content": [],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1511,
+        "meta": {
+            "width": 324,
+            "height": 217,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1511/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/OSX_WorldHist_B01_02_Hagia3.jpg"
+        },
+        "title": "World History Promote Image"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": "Resources for taking your course online",
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

@@ -1,0 +1,425 @@
+{
+    "id": 190,
+    "meta": {
+        "slug": "fizyka-dla-szkół-wyższych-tom-1",
+        "seo_title": "",
+        "search_description": "",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/190/",
+        "html_url": "https://openstax.org/details/books/fizyka-dla-szkół-wyższych-tom-1",
+        "show_in_menus": false,
+        "first_published_at": "2017-12-05T14:46:42.214564-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Fizyka dla szkół wyższych. Tom 1",
+    "created": "2017-12-05T14:46:18.947000-06:00",
+    "updated": "2022-09-28T10:00:00-05:00",
+    "book_state": "live",
+    "cnx_id": "4eaa8f03-88a8-485a-a777-dd3602f6c13e",
+    "salesforce_abbreviation": null,
+    "salesforce_name": null,
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 4,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Science",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p data-block-key=\"a4h0z\"><i>Fizyka dla szkół wyższych. Tom 1</i> dopasowana jest pod względem zakresu i układu treści do typowych kursów wprowadzających z fizyki ogólnej opartych na analizie matematycznej. Podręcznik kładzie nacisk na powiązania między teorią a praktycznymi zastosowaniami, wyjaśniając zagadnienia fizyczne w ciekawy i zrozumiały sposób, lecz z zachowaniem niezbędnego rygoru matematycznego. Liczne, dobrze dobrane przykłady pokazują, jak podejść do zadania, jak wykorzystać wzory i wreszcie jak sprawdzić i uogólnić wynik. Pytania prosimy wysyłać na adres <a href=\"mailto:kontakt@openstax.pl\">kontakt@openstax.pl</a>.<br/><br/><a href=\"https://openstax.org/blog/openstax-partners-katalyst-deliver-free-textbooks-poland\">OpenStax has partnered with Katalyst Education</a> to bring free, peer-reviewed, openly licensed textbooks to Poland as part of a new effort to internationalize OpenStax’s free open textbook model. <i>Fizyka dla szkół wyższych</i> is the first Polish title to be published under this agreement. Click <a href=\"https://openstax.org/details/books/university-physics-volume-1\">here</a> for the English version of University Physics Volume 1.</p><p data-block-key=\"gxggl\"></p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/university_physics_book_card_outlined.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Head_FizykaTom1_moeDPTS.svg",
+    "cover_color": "green",
+    "book_cover_text_color": "dark_blue",
+    "reverse_gradient": false,
+    "book_student_resources": [],
+    "book_faculty_resources": [],
+    "publish_date": "2017-12-05",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "William Moebs",
+                "university": "Formerly of Loyola Marymount University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "17faeabb-13e4-46ea-8ff5-e2950db1bc46"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Anna Błachowicz",
+                "university": "Politechnika Śląska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0271fc77-ed0e-4475-9848-bd6b8ac1084b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Tomasz Błachowicz",
+                "university": "Politechnika Śląska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c3c7172a-7138-4877-989a-54a3955f721d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Beata Bochentyn",
+                "university": "Politechnika Gdańska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "91663e09-c3a8-4e5b-be81-37fa482aabc2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Bartosz Brzostowski",
+                "university": "Uniwersytet Zielonogórski",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0154b92c-e8ea-41b8-b7e8-1211a3b37161"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Gotard Burdziński",
+                "university": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "2b6688c6-a12d-4c85-b4b1-2f5fbf1ccffa"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Roman Gołębiewski",
+                "university": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "1595cb30-7c69-45e9-9959-2dd69f720b4b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Krzysztof Grygiel",
+                "university": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f9ee543e-2f49-42b7-857f-17d4806592f7"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Piotr Grygiel",
+                "university": "Politechnika Gdańska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8a05f8eb-c892-4947-a938-3affd52278e7"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Aleksandra Mielewczyk-Gryń",
+                "university": "Politechnika Gdańska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b08eecb2-4aa0-4734-86ca-643647e52220"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Brygida Mielewska",
+                "university": "Politechnika Gdańska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f4988f61-eeea-4a38-af9f-085c3ea2087f"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Samuel J. Ling",
+                "university": "Truman State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "85b1c811-f847-42fc-919f-c20cb6cc0c05"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jeff Sanny",
+                "university": "Loyola Marymount University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "a9645577-e213-4cab-8e7a-47bc9dd86138"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Tadeusz Miruszewski",
+                "university": "Politechnika Gdańska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4c29b87b-c67c-4e0b-8c97-553d2a33b397"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jarosław Piskorski",
+                "university": "Uniwersytet Zielonogórski",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a495f67b-3b84-4678-b2c7-0b28c6bfbac3"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Włodzimierz Salejda",
+                "university": "Politechnika Wrocławska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "cf0fbe49-abc5-435c-9829-de8b11623b26"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kazimierz Sierański",
+                "university": "Politechnika Wrocławska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "bd411f05-e6bd-497a-a144-776f1518d204"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Radosław Strzałka",
+                "university": "Akademia Górniczo-Hutnicza w Krakowie",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "6fbb47f1-b782-4e37-b113-f3d6d635c5ed"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jan Szatkowski",
+                "university": "Politechnika Wrocławska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "16c7425b-f5c5-415d-9353-f5ac1480e804"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Agnieszka Tomaszewska",
+                "university": "Akademia im. Jana Długosza w Częstochowie",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "1001243c-4bc7-4268-87f6-b56cc61e900a"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Bartłomiej Toroń",
+                "university": "Politechnika Śląska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "5923fb86-492f-4d1f-ae15-f195414f9c71"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sebastian Wachowski",
+                "university": "Politechnika Gdańska",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a47aa73f-60d7-4c31-90eb-b47d6a42cc4b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Antoni Wójcik",
+                "university": "Uniwersytet im. Adama Mickiewicza w Poznaniu",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "ee47717f-0ec1-4566-9a94-d01ac4d4fae1"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": null,
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": null,
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-83-948838-1-2",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Fizyka_dla_szko%C5%82_wyzszych_Tom_1_6Ok9XZL.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "6ca56202-9949-407c-b845-ad329254ed0d"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "ae81e335-97a9-4380-a2fe-3df3e880c0e6"
+        }
+    ],
+    "community_resource_heading": null,
+    "community_resource_logo_url": null,
+    "community_resource_url": "",
+    "community_resource_cta": null,
+    "community_resource_blurb": "",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "9785d030-a45d-4dcf-b2b5-221033f97153"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "b678bf4f-96d9-4470-8771-98030c2312f2"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/4eaa8f03-88a8-485a-a777-dd3602f6c13e",
+    "webview_rex_link": "https://openstax.org/books/fizyka-dla-szk%C3%B3%C5%82-wy%C5%BCszych-tom-1/pages/1-wstep",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": null,
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [],
+    "comp_copy_available": false,
+    "comp_copy_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 7,
+                "heading": "iBooks comp copy request",
+                "content": "",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "574ffa38-6e31-4b5b-b8a3-0305fc2aa76c"
+        }
+    ],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": null,
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": 7937
+}

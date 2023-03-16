@@ -1,0 +1,768 @@
+{
+    "id": 47,
+    "meta": {
+        "slug": "college-physics-ap-courses",
+        "seo_title": "Free AP Physics Collection Available for Download",
+        "search_description": "Study AP Physics online free by downloading OpenStax's AP Physics Collection textbook and using our accompanying AP Physics study guide.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/47/",
+        "html_url": "https://openstax.org/details/books/college-physics-ap-courses",
+        "show_in_menus": false,
+        "first_published_at": "2016-03-09T10:01:26.391128-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "The AP Physics Collection",
+    "created": "2016-03-09T10:01:26.011000-06:00",
+    "updated": "2023-02-17T09:24:00-06:00",
+    "book_state": "deprecated",
+    "cnx_id": "8d04a686-d5e8-4798-a27d-c608e4d0e187",
+    "salesforce_abbreviation": "AP Physics",
+    "salesforce_name": "AP Physics",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 44,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Science",
+            "subject_page_content": "",
+            "subject_search_description": null
+        },
+        {
+            "id": 107,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "K12",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 50,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Science",
+            "subject_category": "Physics"
+        },
+        {
+            "id": 87,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "K12",
+            "subject_category": "Physics"
+        }
+    ],
+    "k12book_subjects": [],
+    "is_ap": true,
+    "description": "<p data-block-key=\"lh19k\">The <i>AP Physics Collection</i> is a free, turnkey solution for your AP<sup>®</sup> Physics course, brought to you through a collaboration between OpenStax and Rice Online Learning. The integrated collection features the OpenStax <i>College Physics for AP</i><i><sup>®</sup></i><i> Courses</i> text, Concept Trailer videos, instructional videos, problem solution videos, and a correlation guide to help you align all of your free content.<br/><br/>The <i>College Physics for AP</i><i><sup>®</sup></i><i> Courses</i> text is designed to engage students in their exploration of physics and help them apply these concepts to the Advanced Placement<sup>®</sup> test. This book is Learning List-approved for AP<sup>®</sup> Physics courses.</p><p data-block-key=\"3c9um\"><b>Creators of Rice Online Learning instructional videos and problem solution videos:<br/></b> Jason Hafner,<br/> Gigi Nevils-Noe, and<br/> Matt Wilson</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/college_physics_for_ap_course_book_card.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Head_CollegePhysicsAP.svg",
+    "cover_color": "blue",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 545,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Instructional Videos, Concept Trailers, and Problem Solution Videos",
+            "resource_description": "<p data-block-key=\"7fkrv\">Access the videos of the AP® Physics Collection, organized in playlists by chapter on the OpenStax YouTube channel. </p><p data-block-key=\"elgn1\">Instructional videos feature AP® teachers and Rice professors teaching core material; Concept Trailers are Hollywood studio-produced videos that bring key physics concepts to life; and problem solution videos feature instructors walking through example problems from the text.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "http://www.youtube.com/openstax",
+            "link_page": null,
+            "link_text": "Access on OpenStax's YouTube Channel",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 546,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Solution Guide",
+            "resource_description": "<p data-block-key=\"krk29\">Need help studying? Access detailed solutions to problems and exercises in your OpenStax book.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/APPhys-SSM.zip",
+            "link_document_title": "Ap Phys SSM",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 698,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide_3XA7W8Y.pdf",
+            "link_document_title": "Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 753,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 843,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 930,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "AP® Lab Manual",
+            "resource_description": "<p data-block-key=\"qfr2y\">Click here to access our lab manual containing 20+ lab activities to guide students understanding of AP® concepts.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/STUDENT_-_AP_Physics_Lab_Manual_Full.pdf",
+            "link_document_title": "AP Physics Lab Manuals Student",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": "https://www.amazon.com/dp/171149335X/",
+            "display_on_k12": true
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 1481,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "AP Physics Collection Correlation Guide",
+            "resource_description": "<p data-block-key=\"2ux82\">Use this correlation guide to see how each element of the AP Physics Collection integrates with the content in OpenStax College Physics for AP<sup>®</sup> Courses.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/AP_Physics_Correlation_Guide_FINAL.pdf",
+            "link_document_title": "AP Physics Correlation Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 1483,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Solutions Manual",
+            "resource_description": "<p data-block-key=\"v5k04\">The instructor solutions manual contains the instructor-facing answers to the problems and exercises within the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/AP_College_Physics_-_Instructor_Solutions_Manual_H2ArTUQ.zip",
+            "link_document_title": "College Physics for AP Courses Instructor Solution Manual",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 1482,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"c9ta8\">Let us make lectures a little easier for you. We’ve got PowerPoint slides with all the images from the book, organized by chapter.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/APPhysics-PowerPoints_5o8yYFn.zip",
+            "link_document_title": "APPhysics-PowerPoints.zip",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 1485,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Sample Syllabus Language",
+            "resource_description": "<p data-block-key=\"ddzyk\">You can opt to use this sample language in your syllabus to direct students to their FREE OpenStax textbook!</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Syllabus_Language_-_College_Physics_for_AP_Courses_wcvyZbi.txt",
+            "link_document_title": "Syllabus Language - College Physics for AP Courses",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2010,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 1488,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Errata Release Notes",
+            "resource_description": "<p data-block-key=\"uqko0\">Throughout the year, subject matter experts comb through all queries from our readers. These release notes cover the errata updates in our most recent summer PDF release.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/CollegePhysicsforAPCourses-ReleaseNotes-2017.pdf",
+            "link_document_title": "College Physics for AP® Courses Release Notes",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2108,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "OpenStax Crosswalk",
+            "resource_description": "<p data-block-key=\"69dmj\">Click here for a document that aligns the topics from the College Board&#x27;s Course and Exam Description with the OpenStax textbook.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/AP_Crosswalks_-_AP_Physics_1_and_2.zip",
+            "link_document_title": "OpenStax Physics for AP Courses Crosswalk",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 1625,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide.pdf",
+            "link_document_title": "OpenStax AP® Instructor Getting Started Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2140,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Blackboard Course Package",
+            "resource_description": "<p data-block-key=\"eyg89\">San Jacinto College created a course package for this title to integrate your OpenStax books into the Blackboard learning management system. Download this file and work with your campus Blackboard administrator to add to your course.</p><p data-block-key=\"910lm\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Ultra-Course-Package\">Instructions</a> for using the package with Blackboard Ultra</p><p data-block-key=\"4r5qs\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Learn-Course-Package\">Instructions</a> for using the package with Blackboard Learn</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/ExportFile_OpenStax_College_Physics_for_AP_Courses_1e.zip",
+            "link_document_title": "Blackboard Course Cartridge - AP Physics",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2204,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Canvas Course Cartridge",
+            "resource_description": "<p data-block-key=\"9curp\">The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system. Download this course file and read the attached help article to import this resource into Canvas.</p><p data-block-key=\"3r6s2\"><a href=\"https://help.openstax.org/s/article/Importing-Canvas-Cartridges\">Instructions</a> for importing the Canvas Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/CanvasImport_College_Physics_for_AP_Courses.zip",
+            "link_document_title": "CanvasImport_College Physics for AP Courses",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2213,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Google Forms",
+            "resource_description": "<p data-block-key=\"jftk2\">Access editable and assignable versions of this book’s end-of-chapter questions through Google Forms.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "https://docs.google.com/document/d/11E-mfaeD7-ObR7LvchTTPQ3sVe3xiHu-jWV26wPSr6w",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2462,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "AP® Lab Manual",
+            "resource_description": "<p data-block-key=\"vgokv\">Click here to access our lab manual containing 20+ lab activities to guide student understanding of AP® concepts.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/TEACHER_-_AP_Physics_Lab_Manual_Full.pdf",
+            "link_document_title": "AP Physics Lab Manuals Teacher",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2606,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Concept Trailers",
+            "resource_description": "<p data-block-key=\"sy5v8\">Bring key physics concepts to life with these professionally-produced, free 1-1.5 minute videos.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "https://www.youtube.com/playlist?list=PLCF-Lie6gOOTx_CUIBUUXkhH2ezY8zcJB&spfreload=10",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2602,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Physics Concept Trailer Instructor Notes",
+            "resource_description": "<p>These teaching notes support implementation of the OpenStax Physics  Concept Trailers. The notes contain tips for usage, clarifications of  coverage, and guidance on how to use the trailers in different  educational situations.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Concept_Trailer_Instructors_Notes.docx",
+            "link_document_title": "OpenStax Concept Trailer Instructors' Notes",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2015-08-12",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Gregg Wolfe",
+                "university": "Avonworth High School",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "eac0695e-cd2a-46fb-bc25-d86c0f003da7"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Erika Gasper",
+                "university": "Science Writer, MA, University of California, Santa Cruz",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "dae9a798-426a-448f-88f7-cccd9308feb8"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "John Stoke",
+                "university": "Science Writer, MS, University of Chicago",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "06afa247-133a-4152-b002-732a9c69ed51"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Julie Kretchman",
+                "university": "Science Writer, BS, University of Toronto",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "6053add2-b4a3-4760-ba0c-b2b6b59069cc"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Anderson",
+                "university": "Science Writer, PhD, College of William and Mary",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "fde8e653-f81b-40bc-8e85-d5d43af46a92"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Nathan Czuba",
+                "university": "Sabio Academy",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "62d06ebe-f212-4da1-b6a5-8a618a66db9a"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sudhi Oberoi",
+                "university": "Raman Research Institute",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "645925cc-c306-4e37-8947-057ffbbe9ecd"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Liza Pujji",
+                "university": "Manukau Institute of Technology",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "d85aa808-7c33-4532-9841-5965ff5e4579"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Irina Lyublinskaya",
+                "university": "CUNY College of Staten Island",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "0c72037a-4a20-4339-a683-5b48d7aa0a26"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Douglas Ingram",
+                "university": "Texas Christian University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "61ef0631-fa5d-4d0d-be81-e277901046ac"
+        }
+    ],
+    "print_isbn_10": "1-938168-93-3",
+    "print_isbn_13": "978-1-938168-93-2",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": null,
+    "digital_isbn_10": "1-947172-17-4",
+    "digital_isbn_13": "978-1-947172-17-3",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/APCollegePhysics-OP_js6ZFp7.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "b622f508-7a0c-4578-8267-04463954c45a"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "285129d5-dac3-43a5-9a9b-54859a9b7662"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-college-physics-for-ap-courses/1055/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our AP® physics book. Find more resources and submit your own.",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "6c1790de-ab0b-46c0-8bab-e860de678388"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "2d8a5eb1-39d0-4807-9831-e53253d3def9"
+        }
+    ],
+    "ibook_link": "https://itunes.apple.com/us/book/college-physics-for-ap-courses/id1101270869",
+    "ibook_link_volume_2": "https://itunes.apple.com/us/book/college-physics-for-ap-courses/id1101311472",
+    "webview_link": "https://cnx.org/contents/8d04a686-d5e8-4798-a27d-c608e4d0e187",
+    "webview_rex_link": "https://openstax.org/books/college-physics-ap-courses/pages/1-connection-for-ap-r-courses",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": true,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "https://buyprint.openstax.org/college-physics-ap-courses",
+    "kindle_link": "https://amzn.to/3bFvCYb",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "d98f1f7e-ba88-415b-9e68-dc741114c6f0"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "13a4dd7d-812d-49df-8f92-5f54f9743b5b"
+        }
+    ],
+    "comp_copy_available": true,
+    "comp_copy_content": [
+        {
+            "type": "link_text",
+            "value": "iBooks comp copy request",
+            "id": "9d93b0fb-ff2a-4cc2-92a7-34775cf98753"
+        }
+    ],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. This book has a new edition available, and errata are no longer being accepted for the old edition. Please find the newest edition of this book on openstax.org/subjects.",
+    "tutor_marketing_book": true,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1241,
+        "meta": {
+            "width": 975,
+            "height": 518,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1241/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/HSphysics.jpeg"
+        },
+        "title": "HSphysics.jpeg"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": "Resources for taking your course online",
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": 1501,
+    "savings": 23014032
+}

@@ -1,0 +1,797 @@
+{
+    "id": 155,
+    "meta": {
+        "slug": "principles-microeconomics-2e",
+        "seo_title": "Free Principles of Microeconomics 2e Book for Download",
+        "search_description": "Study microeconomics online free by downloading OpenStax's Principles of Microeconomics 2e textbook and using our accompanying online resources.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/155/",
+        "html_url": "https://openstax.org/details/books/principles-microeconomics-2e",
+        "show_in_menus": false,
+        "first_published_at": "2017-06-28T11:30:43.785365-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Principles of Microeconomics 2e",
+    "created": "2017-06-28T11:04:58.451000-05:00",
+    "updated": "2022-06-27T11:21:00-05:00",
+    "book_state": "deprecated",
+    "cnx_id": "5c09762c-b540-47d3-9541-dda1f44f16e5",
+    "salesforce_abbreviation": "Micro Econ",
+    "salesforce_name": "Principles of Microeconomics 2e",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 240,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Social Sciences",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 59,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Social Sciences",
+            "subject_category": "Economics"
+        }
+    ],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p data-block-key=\"8hpfk\"><i>Principles of Microeconomics 2e</i> covers the scope and sequence of most introductory microeconomics courses. The text includes many current examples, which are handled in a politically equitable way. The outcome is a balanced approach to the theory and application of economics concepts. The second edition has been thoroughly revised to increase clarity, update data and current event impacts, and incorporate the feedback from many reviewers and adopters.<br/></p><p data-block-key=\"9bu3c\">Changes made in <i>Principles of Microeconomics 2e</i> are described in the preface and the transition guide to help instructors transition to the second edition. The first edition of <i>Principles of Microeconomics</i> by OpenStax is available in web view <a href=\"https://openstax.org/books/principles-microeconomics/pages/1-introduction\">here</a>.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/micro_economics_2e.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Head_PrinciplesMicroeconomics2e.svg",
+    "cover_color": "gray",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1224,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1225,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1226,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1227,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Key Terms Quizlet",
+            "resource_description": "<p data-block-key=\"j0nug\">Practice key terms for each chapter using a curated set of flashcards on Quizlet&#x27;s platform.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "https://quizlet.com/OER_Creator/folders/openstax-principles-of-microeconomics-key-terms/sets",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3487,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3488,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Enhanced Lecture PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"t0jmm\">These lecture slides include selected graphics from the text, key concepts and definitions, examples, and discussion questions.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/EnhancedPowerPoints_y2YHFAp.zip",
+            "link_document_title": "Microeconomics2e_Enhanced_PowerPoints",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3489,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Solution Guide",
+            "resource_description": "<p data-block-key=\"slgbf\"><br/>The instructor solutions guide contains the instructor-facing answers to the problems and exercises within the textbook.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Microeconomics2e-IASG.zip",
+            "link_document_title": "Microeconomics2e-IASG",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3490,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Transition Guide",
+            "resource_description": "<p data-block-key=\"bb5co\">This summary of the key changes from 1e to 2e is designed to assist faculty in using the new edition.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Microeconomics2e-TransitionGuide.pdf",
+            "link_document_title": "Microeconomics2e-TransitionGuide.pdf",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3491,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Sample Syllabus Language",
+            "resource_description": "<p data-block-key=\"ddzyk\">You can opt to use this sample language in your syllabus to direct students to their FREE OpenStax textbook!</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Syllabus_Language_-_Microeconomics_2e_xScaM4h.txt",
+            "link_document_title": "Syllabus Language - Principles of Microeconomics 2e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3492,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Apple iBooks Comp Copy",
+            "resource_description": "<p data-block-key=\"eo161\">We don&#x27;t give out print copies, but instructors can get an enhanced, interactive version of the textbook with an Apple iBooks comp copy.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "http://www.openstax.org/comp-copy",
+            "link_page": null,
+            "link_text": "Request your copy",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3493,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Errata Release Notes",
+            "resource_description": "<p data-block-key=\"uqko0\">Throughout the year, subject matter experts comb through all queries from our readers. These release notes cover the errata updates in our most recent summer PDF release.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Microeconomics2e-ReleaseNotes.pdf",
+            "link_document_title": "Microeconomics2e-ReleaseNotes.pdf",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3494,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Test Bank",
+            "resource_description": "<p data-block-key=\"z3sra\">The test bank contains multiple choice, short answer, and essay questions for each chapter of the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Microeconomics2e-TestBank_12qnclw.zip",
+            "link_document_title": "Microeconomics2e-TestBank",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3495,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3496,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "NEW Premium Canvas Course Shell",
+            "resource_description": "<p data-block-key=\"2nxt0\">Preloaded into your Premium Canvas Course Shell are a wealth of assessments, activities, discussion prompts, readings, and other assignable material. Logically organized to match the way you manage your course, with pre-lecture, synchronous, and post-lecture experiences. Activities and assessments are designed so that the answers are not easily found via online searches. Completely free and flexible so you can easily customize to fit your course. Work with your campus administrator to import this file into an empty course shell in Canvas.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles-of-microeconomics-2e-export_3.imscc",
+            "link_document_title": "principles-of-microeconomics-2e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3500,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "NEW Premium D2L Course Shell",
+            "resource_description": "<p data-block-key=\"prfay\">Preloaded into your Premium D2L Course Shell are a wealth of assessments, activities, discussion prompts, readings, and other assignable material. Logically organized to match the way you manage your course, with pre-lecture, synchronous, and post-lecture experiences. Activities and assessments are designed so that the answers are not easily found via online searches. Completely free and flexible so you can easily customize to fit your course. Work with your campus administrator to import this file into an empty course shell in D2L.<br/><br/> <a href=\"https://help.openstax.org/s/article/How-to-import-the-D2L-Course-Cartridge\">Instructions</a> for importing the D2L Cartridge.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/D2LExport_MICROECON_OpenStax.zip",
+            "link_document_title": "D2LExport_MICROECON",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3501,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Video Guide",
+            "resource_description": "<p data-block-key=\"uu8dq\">This Video Guide is a collection of videos recommended by instructors and grouped topically by OpenStax textbook chapters.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "https://docs.google.com/document/d/14VrUOkQbmJEg_PyG2YmU_E3e-zW4E7n0ETSUtbHwt-I/edit?usp=sharing",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3502,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Polling Questions",
+            "resource_description": "<p data-block-key=\"atjza\">Spark discussion and support in-class learning and engagement using this set of polling questions. Survey students&#x27; understanding by a raise of hands or by pairing these questions with your polling technology. 3-4 questions are provided for each chapter.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Polling_Questions_Micro_Econ_2e.pptx",
+            "link_document_title": "Polling_Questions_Micro_Econ_2e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3503,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Polling Question Solutions",
+            "resource_description": "<p data-block-key=\"pa9mc\">This solution manual provides answers to the Polling Questions slide deck. We ask that you not post these questions and answers on any publicly available websites.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Polling_Question_Solutions_Micro_Econ_2e.docx",
+            "link_document_title": "Polling Question Solutions_Micro_Econ_2e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3606,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Key Terms Quizlet",
+            "resource_description": "<p>Practice key terms for each chapter using a curated set of flashcards on Quizlet&#x27;s platform.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "https://quizlet.com/OER_Creator/folders/openstax-principles-of-microeconomics-key-terms/sets",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3504,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Discussion Questions with Instructor Notes",
+            "resource_description": "<p data-block-key=\"46kxg\">Mix, match, and modify these prompts to engage students and fit your course! Discussions are organized by chapter and fall into three categories: Economics and You, Economics and Policy, and Economics and Theory.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Discussion_Questions_with_Instructor_Notes_Micro_Econ_2e.zip",
+            "link_document_title": "Discussion Questions with Instructor Notes_Micro_Econ_2e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3640,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "NEW Premium BlackBoard Course Shell",
+            "resource_description": "<p data-block-key=\"7j8tl\">Preloaded into your Premium BlackBoard Course Shell are a wealth of assessments, activities, discussion prompts, readings, and other assignable material. Logically organized to match the way you manage your course, with pre-lecture, synchronous, and post-lecture experiences. Activities and assessments are designed so that the answers are not easily found via online searches. Completely free and flexible so you can easily customize to fit your course. Work with your campus administrator to import this package into an empty course shell in BlackBoard.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Blackboard_Premium_Microeconomics2e.zip",
+            "link_document_title": "Premium Blackboard Course Shell Microeconomics2e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3794,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/microeconomics-2e-docx.zip",
+            "link_document_title": "microeconomics-2e-docx",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2017-09-15",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Cynthia Gamez",
+                "university": "University of Texas at El Paso",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "e1ab6b7c-6cd8-4c65-b5a8-7a71701e4f81"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Andres Jauregui",
+                "university": "Columbus State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8f5029af-d4c8-4299-861d-3cba8e47dd1d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Diane Keenan",
+                "university": "Cerritos College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a50d4980-6645-4e13-a3eb-ae592d8c0cb4"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Dan MacDonald",
+                "university": "California State University, San Bernardino",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d08bd17c-37f3-4cfb-b2ff-55fbd05ce805"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Amyaz Moledina",
+                "university": "The College of Wooster",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "07143850-2ffb-4c0b-899e-1eaec5f81b65"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Craig Richardson",
+                "university": "Winston-Salem State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "09b1e32f-2c00-4b48-956e-8cf9189b46fd"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ralph Sonenshine",
+                "university": "American University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d77e6d80-4d2c-414c-a220-7be5d04657d5"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Steven A. Greenlaw",
+                "university": "University of Mary Washington",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "8efe74b9-9732-45a9-b34c-ffc2da22b78e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Eric Dodge",
+                "university": "Hanover College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "87de9ec7-69aa-43d9-8483-743322bedc05"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Shapiro",
+                "university": "Pennsylvania State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "7f5b0ef4-c1c8-41c6-b063-2872f078c99d"
+        }
+    ],
+    "print_isbn_10": "1-947172-34-4",
+    "print_isbn_13": "978-1-947172-34-0",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-50669-987-5",
+    "digital_isbn_10": "1-947172-35-2",
+    "digital_isbn_13": "978-1-947172-35-7",
+    "ibook_isbn_10": "1-947172-49-2",
+    "ibook_isbn_13": "978-1-947172-49-4",
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Microeconomics2e-OP.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "d27df8e8-4e72-464c-9cee-fc639bdf3afa"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "201c75d9-d350-4e89-aa7d-45eda50b565d"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-principles-of-microeconomics/1059/?__hub_id=27",
+    "community_resource_cta": "Visit the hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with Principles of Microeconomics. Submit a resource to help us get started!",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "861afbe4-00aa-498c-89a3-ef2df1369d37"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "3cd84600-33b1-4229-a8be-9cc674fe1fdd"
+        }
+    ],
+    "ibook_link": "https://itunes.apple.com/us/book/principles-of-microeconomics-2e/id1344964192?ls=1&mt=13",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/5c09762c-b540-47d3-9541-dda1f44f16e5",
+    "webview_rex_link": "https://openstax.org/books/principles-microeconomics-2e/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": true,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "https://buyprint.openstax.org/principles-microeconomics-2e",
+    "kindle_link": "https://amzn.to/3qiVNYU",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "3e7bcf1c-f237-481a-9dca-0d2ff8aae16a"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "623cb664-deeb-43eb-8de4-f2bd7d118d06"
+        }
+    ],
+    "comp_copy_available": false,
+    "comp_copy_content": [],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. This book has a new edition available, and errata are no longer being accepted for the old edition. Please find the newest edition of this book on openstax.org/subjects.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1233,
+        "meta": {
+            "width": 780,
+            "height": 437,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1233/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/Econ2e.jpeg"
+        },
+        "title": "Econ2e.jpeg"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": "Resources for taking your course online",
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

@@ -1,0 +1,936 @@
+{
+    "id": 34,
+    "meta": {
+        "slug": "concepts-biology",
+        "seo_title": "Free Concepts of Biology Book Available for Download",
+        "search_description": "Study biology online free by downloading OpenStax's Concepts of Biology book and using our accompanying online resources including a biology study guide.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/34/",
+        "html_url": "https://openstax.org/details/books/concepts-biology",
+        "show_in_menus": false,
+        "first_published_at": "2016-03-09T09:47:29.653246-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Concepts of Biology",
+    "created": "2016-03-09T09:47:29.281000-06:00",
+    "updated": "2023-01-20T16:21:00-06:00",
+    "book_state": "live",
+    "cnx_id": "b3c1e1d2-839c-42b0-a314-e119a8aafbdd",
+    "salesforce_abbreviation": "Concepts of Bio (non-majors)",
+    "salesforce_name": "Concepts of Biology",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 229,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Science",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 40,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Science",
+            "subject_category": "Biology"
+        }
+    ],
+    "k12book_subjects": [
+        {
+            "id": 6,
+            "meta": {
+                "type": "books.K12BookSubjects"
+            },
+            "subject_name": "Biology",
+            "subject_category": "Science"
+        }
+    ],
+    "is_ap": false,
+    "description": "<p data-block-key=\"2nvyi\"><i>Concepts of Biology</i> is designed for the typical introductory biology course for nonmajors, covering standard scope and sequence requirements. The text includes interesting applications and conveys the major themes of biology, with content that is meaningful and easy to understand. The book is designed to demonstrate biology concepts and to promote scientific literacy.<br/><br/></p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/concpets_biology_eZrc8yQ.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Head_ConceptsofBiology.svg",
+    "cover_color": "orange",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1183,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1184,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Solution Manual",
+            "resource_description": "<p data-block-key=\"5qrmb\">The Student Solution Manuals contains solutions to a subset of the problems and exercises in the text.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/ConceptsofBiology-SSM.pdf",
+            "link_document_title": "ConceptsofBiology-SSM.pdf",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1185,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1186,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3378,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3379,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"c9ta8\">Let us make lectures a little easier for you. We’ve got PowerPoint slides with all the images from the book, organized by chapter.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/PowerPoints-ConceptsofBiology_z8ba94c.zip",
+            "link_document_title": "ConceptsofBiology_PowerPointSlides",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3380,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Answer Guide",
+            "resource_description": "<p data-block-key=\"pwp3a\">Get detailed solutions to all the end-of-chapter questions in your OpenStax book. No students allowed!<br/></p><p data-block-key=\"d86hg\"><br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/ConceptsofBiology-IAG.docx",
+            "link_document_title": "ConceptsofBiology-IAG.zip",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3381,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Supplemental Test Items",
+            "resource_description": "<p data-block-key=\"ehgl3\">These test items are provided by Lumen Learning and fulfill a set of independently developed learning objectives. While OpenStax has correlated the available questions with our textbook, the test bank is not entirely aligned with the book. We recommend instructors review the questions before assigning them.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Concepts_of_Biology_Lumen_Learning20150923.zip",
+            "link_document_title": "Supplemental Test Items - Concepts of Bio",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3382,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Sample Syllabus Language",
+            "resource_description": "<p data-block-key=\"ddzyk\">You can opt to use this sample language in your syllabus to direct students to their FREE OpenStax textbook!</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Syllabus_Language_-_Concepts_of_Biology_XlYlNcH.txt",
+            "link_document_title": "Syllabus Language - Concepts of Biology",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3383,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Canvas Course Cartridge",
+            "resource_description": "<p data-block-key=\"9curp\">The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system. Download this course file and read the attached help article to import this resource into Canvas.</p><p data-block-key=\"3r6s2\"><a href=\"https://help.openstax.org/s/article/Importing-Canvas-Cartridges\">Instructions</a> for importing the Canvas Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/CanvasImport_Concepts_of_Biology.zip",
+            "link_document_title": "CanvasImport_Concepts of Biology",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3384,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Errata Release Notes",
+            "resource_description": "<p data-block-key=\"uqko0\">Throughout the year, subject matter experts comb through all queries from our readers. These release notes cover the errata updates in our most recent summer PDF release.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Concepts_of_Biology_Release_Notes_2016.pdf",
+            "link_document_title": "Concepts of Biology Errata Release Notes",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3385,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3386,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "TEKS Alignment",
+            "resource_description": "<p data-block-key=\"xy7o1\">This shows how the textbook aligns with the 2018 Texas Essential Knowledge and Skills standards.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Concepts_of_Biology_-_Standards_Alignment_-_TX_Essential_Knowledge__S_fBUz4X4.pdf",
+            "link_document_title": "TEKS Alignment - Concepts of Biology",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": true,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3387,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Blackboard Course Package",
+            "resource_description": "<p data-block-key=\"eyg89\">San Jacinto College created a course package for this title to integrate your OpenStax books into the Blackboard learning management system. Download this file and work with your campus Blackboard administrator to add to your course.</p><p data-block-key=\"910lm\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Ultra-Course-Package\">Instructions</a> for using the package with Blackboard Ultra</p><p data-block-key=\"4r5qs\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Learn-Course-Package\">Instructions</a> for using the package with Blackboard Learn</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/ExportFile_OpenStax_Concepts_of_Biology_1e.zip",
+            "link_document_title": "Blackboard Course Cartridge - Concepts of Biology",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3389,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "D2L Course Cartridge",
+            "resource_description": "<p data-block-key=\"hri6m\">Minnesota State University, Mankato created a course cartridge for this title to integrate your OpenStax book into the D2L learning management system. Download this file and read the attached help article to import this resource into D2L. Please note that to use the book&#x27;s highlighting and note-taking feature in D2L, you and your students will need to be logged into your individual OpenStax accounts on openstax.org.</p><p data-block-key=\"eebq3\"></p><p data-block-key=\"hmqxo\"><a href=\"https://help.openstax.org/s/article/How-to-import-the-D2L-Course-Cartridge\">Instructions</a> for importing the D2L Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/D2LExport_Concepts_of_Biology.zip",
+            "link_document_title": "Concepts of Biology D2L Course Cartridge",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3736,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/concepts-biology.zip",
+            "link_document_title": "Concepts of Biology Book Customization",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2013-04-25",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Nick Reeves",
+                "university": "Mt. San Jacinto College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "43a7e5f8-b526-4318-a4ad-3f9c7c585f1f"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jean DeSaix",
+                "university": "University of North Carolina at Chapel Hill",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b7b2a1d7-c8c2-432e-b75d-e6eac49a3a52"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Barbara Kuehner",
+                "university": "Hawaii Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "86a6f98a-92aa-45eb-98ab-4986137f9163"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Brenda Leady",
+                "university": "University of Toledo",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "861c9cf8-2199-4eee-90cc-d40092f4f9fe"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Lisa Boggs",
+                "university": "Southwestern Oklahoma State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "fd7a39df-962b-4d48-8e55-558d9e3ae5bf"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sherryl Broverman",
+                "university": "Duke University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "e6206616-c77a-446e-abb9-48e449edbf32"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Byres",
+                "university": "Florida State College at Jacksonville",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d318f961-867f-47a5-bde4-97e6b90800c9"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Bernie Marcus",
+                "university": "Genesee Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f9057cb2-6229-42bb-b56b-056d5462c0b0"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Flora Mhlanga",
+                "university": "Lipscomb University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "ea138002-ecab-4ef0-9ac4-5996d3b5633f"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Madeline Mignone",
+                "university": "Dominican College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "6bc9cc5e-5e10-48f9-9b5a-f19393c7c880"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Elizabeth Nash",
+                "university": "Long Beach City College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "cfb84674-5ee2-41cc-ba37-f7d78d2b325c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Mark Newton",
+                "university": "San Jose City College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "7771a568-3ff3-4188-af36-9622849cafe0"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Diana Oliveras",
+                "university": "University of Colorado Boulder",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "1d2fd3d0-9775-41bb-a748-90ef4e3ac291"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Joel Piperberg",
+                "university": "Millersville University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "2d0da332-8726-4cad-b0fe-61fa1bd34a2e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ann Reisenauer",
+                "university": "San Jose State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "9c323858-a9d1-4247-8072-f9c72c93ea9d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Lynn Rumfelt",
+                "university": "Gordon College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "e26eae2f-efc8-4e4b-a980-0ca4f3332213"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Samantha Fowler",
+                "university": "Clayton State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "2f7f6cc0-b468-4803-af18-f38a1a784a57"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rebecca Roush",
+                "university": "Sandhills Community College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "1664f49f-2de4-4cef-a90d-10586c155987"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "James Wise",
+                "university": "Hampton University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "800ffd74-9a8e-48e7-a862-f883a41e954a"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Mark Belk",
+                "university": "Brigham Young University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "589a9a3e-d5e8-4093-aef2-07196a3ca339"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Aaron Cassill",
+                "university": "The University of Texas at San Antonio",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "70ba206d-adf8-4088-bee0-fa6a4486ea9c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Karen Champ",
+                "university": "College of Central Florida",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "552d8e2b-5d23-41a5-9dac-624516e6d7b3"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sue Chaplin",
+                "university": "University of St. Thomas",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "3c6e56bd-e1bd-40c2-8e2c-084b02eda6f9"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Diane Day",
+                "university": "Clayton State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c88e5a61-f33f-4889-a8ef-cfc98ad7f72c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Michael Rutledge",
+                "university": "Middle Tennessee State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "2162ee47-f4a3-4551-bfd4-f55a801c8221"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ann Paterson",
+                "university": "Williams Baptist College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a1a3f647-851d-499e-bb93-60da66e68dbf"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Donald Slish",
+                "university": "SUNY Plattsburgh",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a00cf527-9698-4749-a90e-3847cb216bfd"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Hunnicutt",
+                "university": "St. Norbert College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d2c560dc-4e83-43b3-9055-70a4f258bd3f"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Edward Saiff",
+                "university": "Ramapo College of New Jersey",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "1494791f-3191-4f69-beb0-8ebe24492a3a"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Brian Shmaefsky",
+                "university": "Kingwood College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "90886601-d30e-4d85-8757-23815e8cf952"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Gary Shultz",
+                "university": "Marshall University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "950fb149-a8f0-4fdb-9576-d93b07d2e676"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Anh-Hue Tu",
+                "university": "Georgia Southwestern State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "ace0d2dc-1cfd-4382-96b2-6ad8cf3e4e58"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Elena Zoubina",
+                "university": "Bridgewater State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8664edb0-6aad-4398-8fba-750dcb033b37"
+        }
+    ],
+    "print_isbn_10": "1938168119",
+    "print_isbn_13": "978-1-938168-11-6",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-50669-653-9",
+    "digital_isbn_10": "1-947172-03-4",
+    "digital_isbn_13": "978-1-947172-03-6",
+    "ibook_isbn_10": "1-938168-22-4",
+    "ibook_isbn_13": "978-1-938168-22-2",
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/ConceptsBiology-OP_Jyx0DT8.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "5ddc4989-d279-4e2b-92ce-2568bca5f807"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "6e5dcd2d-1eaf-4d1a-b56a-3965a1271101"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-concepts-of-biology/1053/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our concepts of biology book, like the instructor's guide below. Find more resources, and submit your own.",
+    "community_resource_feature_link_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Instructors_Guide_to_Concepts_of_Biology_Chapters_12-21_9pZklM7.pdf",
+    "community_resource_feature_text": "Instructor's Guide to Concepts of Biology, Ch. 12-21",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "afcb166c-c72e-449e-a95a-a1a520467208"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "17f45deb-c8b3-4b68-acd3-5919eb24734e"
+        }
+    ],
+    "ibook_link": "https://itunes.apple.com/us/book/concepts-of-biology/id746742790",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/b3c1e1d2-839c-42b0-a314-e119a8aafbdd",
+    "webview_rex_link": "https://openstax.org/books/concepts-biology/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": true,
+    "bookshare_link": "http://www.bookshare.org/browse/book/751423",
+    "amazon_coming_soon": false,
+    "amazon_link": "https://buyprint.openstax.org/concepts-biology",
+    "kindle_link": "https://amzn.to/3qeBcos",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "f34c98a9-0334-4143-91fe-541c575c5fec"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "5587581e-5c80-4691-8c81-339836c6cb4d"
+        }
+    ],
+    "comp_copy_available": true,
+    "comp_copy_content": [
+        {
+            "type": "link_text",
+            "value": "iBooks comp copy request",
+            "id": "88e04113-2fb8-4319-8bb8-76ab43d36ed4"
+        }
+    ],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1236,
+        "meta": {
+            "width": 1118,
+            "height": 600,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1236/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/bio2e.jpeg"
+        },
+        "title": "bio2e.jpeg"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": "Resources for taking your course online",
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

@@ -1,0 +1,584 @@
+{
+    "id": 622,
+    "meta": {
+        "slug": "principles-macroeconomics-3e",
+        "seo_title": "Free Principles of Macroeconomics 3e Book for Download",
+        "search_description": "Study macroeconomics online free by downloading OpenStax's Principles of Macroeconomics 3e textbook and using our accompanying online resources.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/622/",
+        "html_url": "https://openstax.org/details/books/principles-macroeconomics-3e",
+        "show_in_menus": false,
+        "first_published_at": "2022-12-01T17:04:42.990821-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Principles of Macroeconomics 3e",
+    "created": "2022-12-01T17:04:42.252000-06:00",
+    "updated": "2023-03-15T12:18:51.659638-05:00",
+    "book_state": "live",
+    "cnx_id": "aff0c733-b223-4dfb-aad6-297bd361bdcf",
+    "salesforce_abbreviation": null,
+    "salesforce_name": null,
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 293,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Social Sciences",
+            "subject_page_content": "",
+            "subject_search_description": null
+        },
+        {
+            "id": 294,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Business",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 58,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Social Sciences",
+            "subject_category": "Economics"
+        },
+        {
+            "id": 76,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Business",
+            "subject_category": "Economics"
+        }
+    ],
+    "k12book_subjects": [
+        {
+            "id": 10,
+            "meta": {
+                "type": "books.K12BookSubjects"
+            },
+            "subject_name": "Economics",
+            "subject_category": "Social Studies"
+        }
+    ],
+    "is_ap": false,
+    "description": "<p data-block-key=\"8ckdy\"><i>Principles of Macroeconomics 3e</i> covers the scope and sequence of most one semester introductory macroeconomics courses. The third edition takes a balanced approach to the theory and application of macroeconomics concepts. The text uses conversational language and ample illustrations to explore economic theories, and provides a wide array of examples using both fictional and real-world scenarios. The third edition has been carefully and thoroughly updated to reflect current data and understanding, as well as to provide a deeper background in diverse contributors and their impacts on economic thought and analysis. For example, the third edition highlights the research and views of a broader group of economists. Brief references and deeply explored socio-political examples have also been updated to showcase the critical – and sometimes unnoticed – ties between economic developments and topics relevant to students.</p><p data-block-key=\"b0bo1\">A fuller list of changes made in <i>Principles of Macroeconomics 3e</i> are described in the preface and the transition guide to help instructors transition to the third edition.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles-macroeconomics-3e-web-card.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles-macroeconomics-3e-title-card.svg",
+    "cover_color": "blue",
+    "book_cover_text_color": "green_white",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1333,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1334,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3823,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3824,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3882,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Third Edition Transition Guide",
+            "resource_description": "<p>This summary of the key changes from 2e to 3e is designed to assist faculty and course designers in using the new edition. It includes general and thematic changes, as well as detailed lists of revisions.</p>",
+            "resource_unlocked": true,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Economics.2e.to.3e.Transition.Guide.pdf",
+            "link_document_title": "OpenStax.Economics.2e.to.3e.Transition.Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3893,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Macroeconomics3e_docx.zip",
+            "link_document_title": "Macroeconomics3e_docx",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3828,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Video Guide",
+            "resource_description": "<p data-block-key=\"uu8dq\">This Video Guide is a collection of videos recommended by instructors and grouped topically by OpenStax textbook chapters.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "https://docs.google.com/document/d/1ITkbUnHvE9G92axqlros4qMSExxpXoRiL5t2vdMHdQo/edit?usp=sharing",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3825,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Solution Guide",
+            "resource_description": "<p data-block-key=\"slgbf\"><br/>The instructor solutions guide contains the instructor-facing answers to the problems and exercises within the textbook.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Macroeconomics3e-ISG.docx",
+            "link_document_title": "Macroeconomics3e-ISG",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3827,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Test Bank",
+            "resource_description": "<p data-block-key=\"z3sra\">The test bank contains multiple choice, short answer, and essay questions for each chapter of the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Macroeconomics3e_TestBank.zip",
+            "link_document_title": "Macroeconomics3e_TestBank",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3835,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Discussion Questions with Instructor Notes",
+            "resource_description": "<p data-block-key=\"46kxg\">Mix, match, and modify these prompts to engage students and fit your course! Discussions are organized by chapter and fall into three categories: Economics and You, Economics and Policy, and Economics and Theory.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Macroeconomics3e_Discussion-Questions-Instructor-Notes.docx",
+            "link_document_title": "Macroeconomics3e_Discussion-Questions-Instructor-Notes",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3899,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Enhanced Lecture PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"t0jmm\">These lecture slides include selected graphics from the text, key concepts and definitions, examples, and discussion questions.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Macroeconomics3e_Enhanced-Lecture.zip",
+            "link_document_title": "Macroeconomics3e_Enhanced-Lecture",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2022-12-14",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "David Shapiro",
+                "university": "Pennsylvania State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "e2176517-4ef9-4988-9447-8d62d9cee31b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Daniel MacDonald",
+                "university": "California State University, San Bernardino",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "7e07f60c-c924-4d20-8a0e-753e394e2771"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Steven A. Greenlaw",
+                "university": "University of Mary Washington",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "99cfd1c1-bfc7-44cb-8f97-b74ffc42860d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Eric Dodge",
+                "university": "Hanover College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "fa6cccce-e7a2-4db6-8e06-b562538ba576"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Cynthia Gamez",
+                "university": "University of Texas at El Paso",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "310287a5-5851-48c4-8843-aa114476ef2c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Andres Jauregui",
+                "university": "Columbus State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b29b4049-095e-4dcb-b511-76ce377724aa"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Diane Keenan",
+                "university": "Cerritos College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "de8de096-6cd1-43c5-85c4-99dd0bdf1f79"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Amyaz Moledina",
+                "university": "The College of Wooster",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "de345c3b-d3da-4222-9e5a-f7c6bd1dcfce"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Craig Richardson",
+                "university": "Winston-Salem State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c45a3dc3-baec-4566-894f-56a29b6c4ae9"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ralph Sonenshine",
+                "university": "American University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "10efbadf-bf62-4612-abad-00795b09c3d6"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-711471-47-1",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-711471-48-8",
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-1-951693-64-0",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "Attribution 2.0 Generic (CC BY 2.0)",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Macroeconomics3e-WEB.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "a073c2b2-e0d3-43dc-88d4-ad761a87e0d2"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "230e88ff-da3b-47a7-a9ce-97e84c341598"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpeg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-principles-of-macroeconomics/1058/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with Introduction to Macroeconomics. Find resources and submit your own.",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "b8560413-f254-48dd-b827-83fc0f2e5f61"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "93b1bb64-95a4-4802-b7e4-fa58d0ebb16a"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/aff0c733-b223-4dfb-aad6-297bd361bdcf",
+    "webview_rex_link": "https://openstax.org/books/principles-macroeconomics-3e/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "72783a05-3d69-4b81-8def-d61292c925d5"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "619398da-499f-48be-840f-457909b13ed7"
+        }
+    ],
+    "comp_copy_available": false,
+    "comp_copy_content": [],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1510,
+        "meta": {
+            "width": 780,
+            "height": 437,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1510/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/economics_3e.jpeg"
+        },
+        "title": "economics_3e"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

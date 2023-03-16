@@ -1,0 +1,132 @@
+#!/bin/bash
+
+set -eou pipefail
+
+simple_fields=()
+simple_fields+=('.id')
+simple_fields+=('.created')
+simple_fields+=('.updated')
+simple_fields+=('.meta.slug')
+simple_fields+=('.title')
+simple_fields+=('.book_state')
+simple_fields+=('.salesforce_abbreviation')
+simple_fields+=('.salesforce_name')
+simple_fields+=('.salesforce_book_id')
+# simple_fields+=('.book_subjects') # [].subject_name
+# simple_fields+=('.book_categories') # [].subject_name
+simple_fields+=('.is_ap')
+simple_fields+=('.description')
+simple_fields+=('.cover_url')
+simple_fields+=('.title_image_url')
+simple_fields+=('.cover_color')
+simple_fields+=('.book_cover_text_color')
+simple_fields+=('.reverse_gradient')
+# simple_fields+=('.book_student_resources')
+simple_fields+=('.publish_date')
+# simple_fields+=('.authors')
+simple_fields+=('.print_isbn_10')
+simple_fields+=('.print_isbn_13')
+simple_fields+=('.print_softcover_isbn_10')
+simple_fields+=('.print_softcover_isbn_13')
+simple_fields+=('.digital_isbn_10')
+simple_fields+=('.digital_isbn_13')
+simple_fields+=('.ibook_isbn_10')
+simple_fields+=('.ibook_isbn_13')
+simple_fields+=('.ibook_volume_2_isbn_10')
+simple_fields+=('.ibook_volume_2_isbn_13')
+simple_fields+=('.license_text')
+simple_fields+=('.license_name')
+simple_fields+=('.license_version')
+simple_fields+=('.license_url')
+simple_fields+=('.high_resolution_pdf_url')
+simple_fields+=('.low_resolution_pdf_url')
+# simple_fields+=('.free_stuff_instructor')
+# simple_fields+=('.free_stuff_student')
+simple_fields+=('.community_resource_heading')
+simple_fields+=('.community_resource_logo_url')
+simple_fields+=('.community_resource_url')
+simple_fields+=('.community_resource_cta')
+simple_fields+=('.community_resource_blurb')
+simple_fields+=('.community_resource_feature_link_url')
+simple_fields+=('.community_resource_feature_text')
+# simple_fields+=('.webinar_content')
+simple_fields+=('.ibook_link')
+simple_fields+=('.ibook_link_volume_2')
+simple_fields+=('.webview_link')
+simple_fields+=('.webview_rex_link')
+simple_fields+=('.rex_callout_title')
+simple_fields+=('.rex_callout_blurb')
+simple_fields+=('.enable_study_edge')
+simple_fields+=('.bookshare_link')
+simple_fields+=('.amazon_coming_soon')
+simple_fields+=('.amazon_link')
+simple_fields+=('.kindle_link')
+simple_fields+=('.chegg_link')
+simple_fields+=('.chegg_link_text')
+simple_fields+=('.bookstore_coming_soon')
+# simple_fields+=('.bookstore_content')
+simple_fields+=('.comp_copy_available')
+# simple_fields+=('.comp_copy_content')
+simple_fields+=('.errata_content')
+simple_fields+=('.tutor_marketing_book')
+simple_fields+=('.partner_list_label')
+simple_fields+=('.partner_page_link_text')
+simple_fields+=('.customization_form_heading')
+simple_fields+=('.customization_form_subheading')
+simple_fields+=('.customization_form_disclaimer')
+simple_fields+=('.customization_form_next_steps')
+# simple_fields+=('.videos')
+# simple_fields+=('.translations')
+simple_fields+=('.seo_title')
+simple_fields+=('.search_description')
+# simple_fields+=('.promote_image') .meta.download_url
+simple_fields+=('.last_updated_pdf')
+simple_fields+=('.featured_resources_header')
+simple_fields+=('.support_statement')
+simple_fields+=('.adoptions')
+simple_fields+=('.savings')
+simple_fields+=('.cnx_id')
+
+
+make_file() {
+    book_json=$1
+    book_slug=$2
+    jq_sel_root=$3
+    jq_sel_fields=$4
+    out_file="output/$book_slug.$jq_sel_root.csv"
+    echo $jq_sel_fields > $out_file
+    # https://stackoverflow.com/questions/54495664/using-jq-to-create-csv-file
+    output_lines=$(jq -r ".$jq_sel_root | to_entries[] | [ $jq_sel_fields ] | @csv" < "$book_json")
+    echo "$output_lines" >> $out_file
+}
+
+[[ -d ./output/ ]] && rm -rf ./output/ # First remove the output directory
+[[ -d ./input/ ]] || mkdir ./input/
+[[ -d ./output/ ]] || mkdir ./output/
+
+
+printf -v joined '%s,' "${simple_fields[@]}"
+echo "${joined%,}" > ./output/_books.csv
+
+jq_selector="${joined%,}"
+
+
+
+[[ -f ./input/subjects.json ]] || curl --progress-bar --output ./input/subjects.json https://openstax.org/apps/cms/api/v2/pages/subjects/?format=json
+
+book_ids=$(jq ".books[].id" < ./input/subjects.json)
+
+for book_id in $book_ids; do
+
+    book_json="./input/$book_id.book.json"
+
+    [[ -f "$book_json" ]] || curl --progress-bar --output "$book_json" https://openstax.org/apps/cms/api/v2/pages/$book_id/?format=json
+
+    output_line=$(jq -r "[ $jq_selector ] | @csv" < "$book_json")
+    echo "$output_line" >> ./output/_books.csv
+
+    # Write book-specific CSV files out
+    book_slug=$(jq -r ".meta.slug" < "$book_json")
+
+    make_file $book_json $book_slug 'book_student_resources'    '.value.resource_heading, .value.resource_description, .value.resource_unlocked, .value.resource_icon, .value.link_external, .value.link_page, .value.link_document_url, .value.link_document_title, .value.link_text, .value.coming_soon_text, .value.updated, .value.print_link, .value.display_on_k12'
+done

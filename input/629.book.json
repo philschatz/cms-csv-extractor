@@ -1,0 +1,533 @@
+{
+    "id": 629,
+    "meta": {
+        "slug": "principles-marketing",
+        "seo_title": "Free Principles of Marketing Book for Download",
+        "search_description": "Study introduction to marketing online free by downloading OpenStax's Principles of Marketing textbook and using our accompanying online resources.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/629/",
+        "html_url": "https://openstax.org/details/books/principles-marketing",
+        "show_in_menus": false,
+        "first_published_at": "2023-01-06T14:26:50.727627-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Principles of Marketing",
+    "created": "2023-01-06T14:26:50.228000-06:00",
+    "updated": "2023-03-15T12:20:00.411121-05:00",
+    "book_state": "live",
+    "cnx_id": "2731eee8-0eb1-4d80-ae83-01b4af642ff6",
+    "salesforce_abbreviation": "Principles of Marketing",
+    "salesforce_name": "Principles of Marketing",
+    "salesforce_book_id": "a0Z6f00000R27HiEAJ",
+    "book_subjects": [
+        {
+            "id": 301,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Business",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 83,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Business",
+            "subject_category": "Marketing"
+        }
+    ],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p data-block-key=\"yuzwh\"><i>Principles of Marketing</i> is designed to meet the scope and sequence for a one-semester marketing course for undergraduate business majors and minors. <i>Principles of Marketing</i> provides a solid grounding in the core concepts and frameworks of marketing theory and analysis so that business students interested in a major or minor in marketing will also be prepared for more rigorous, upper-level elective courses. Concepts are further reinforced through detailed, diverse, and realistic company and organization scenarios and examples from various industries and geographical locations. To illuminate the meaningful applications and implications of marketing ideas, the book incorporates a modern approach providing connections between topics, solutions, and real-world problems. <i>Principles of Marketing</i> is modular, allowing flexibility for courses with varied learning outcomes and coverage.</p><p data-block-key=\"3b0uo\">Print copies of this book will be available for the fall 2023 semester. You can <a href=\"https://www.xanedu.com/openstax-pre-order\">sign up to be notified when print copies are available</a>.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles.marketing.web.card.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles.marketing.titlecard.svg",
+    "cover_color": "light-blue",
+    "book_cover_text_color": "yellow_white",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1350,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide_3XA7W8Y.pdf",
+            "link_document_title": "Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1351,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3884,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3885,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3886,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Lecture Slides",
+            "resource_description": "<p data-block-key=\"l4l76\">These lecture slides include selected graphics from the text, key concepts and definitions, and examples.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Principles-Marketing_lecture-slides.zip",
+            "link_document_title": "Principles-Marketing_lecture-slides",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3887,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Test Bank",
+            "resource_description": "<p data-block-key=\"z3sra\">The test bank contains multiple choice, short answer, and essay questions for each chapter of the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Principles-Marketing_test-bank.zip",
+            "link_document_title": "Principles-Marketing_test-bank",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3898,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor's Manual",
+            "resource_description": "<p data-block-key=\"ysgx5\">Developed in response to numerous suggestions from instructors teaching this course, this Instructor’s Manual is designed to provide maximum guidance for delivering the book’s content in an interesting and dynamic manner.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Principles-Marketing_instructor-manual.zip",
+            "link_document_title": "Principles-Marketing_instructor-manual",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3889,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Canvas Course Cartridge",
+            "resource_description": "<p data-block-key=\"9curp\">The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system. Download this course file and read the attached help article to import this resource into Canvas.</p><p data-block-key=\"3r6s2\"><a href=\"https://help.openstax.org/s/article/Importing-Canvas-Cartridges\">Instructions</a> for importing the Canvas Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "http://openstax.org",
+            "link_page": null,
+            "link_text": "Download",
+            "coming_soon_text": "The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system.",
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3890,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Blackboard Course Package",
+            "resource_description": "<p data-block-key=\"eyg89\">San Jacinto College created a course package for this title to integrate your OpenStax books into the Blackboard learning management system. Download this file and work with your campus Blackboard administrator to add to your course.</p><p data-block-key=\"910lm\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Ultra-Course-Package\">Instructions</a> for using the package with Blackboard Ultra</p><p data-block-key=\"4r5qs\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Learn-Course-Package\">Instructions</a> for using the package with Blackboard Learn</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "http://openstax.org",
+            "link_page": null,
+            "link_text": "Download",
+            "coming_soon_text": "San Jacinto College created a course package for this title to integrate your OpenStax books into the Blackboard learning management system. Download this file and work with your campus Blackboard administrator to add to your course.",
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3897,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles-marketing_docx.zip",
+            "link_document_title": "principles-marketing_docx",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2023-01-25",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Dr. Maria Gomez Albrecht",
+                "university": "University of Texas at Dallas",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "996d9e60-c436-43c3-a713-8ff38451769c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Dr. Mark Green",
+                "university": "Simpson College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "9f5eab72-86ea-4af9-9b5a-0296bc4f5b94"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Linda Hoffman",
+                "university": "Ivy Tech Community College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "5a8e5c7c-34e0-48be-8677-7c20e1fe46e0"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jacqueline Babb",
+                "university": "Northwestern University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f4b844a5-2da9-4e7d-b7e9-c1cde027b25a"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Lauren M. Donovan",
+                "university": "Delaware County Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a284f4e9-ab2c-4847-aa86-d2108df85cdb"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Debra Ellerbrook",
+                "university": "Concordia University Wisconsin",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c6719d2c-74ef-46f0-8832-1fe6f16f31ce"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Lisa S. Goolsby",
+                "university": "Southern New Hampshire University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "25520807-df83-480e-86a8-833cc54fb08b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jaciel Keltgen",
+                "university": "Minnesota State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c41c737b-b851-4524-8772-6e86875aa87c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sarah M. Shepler",
+                "university": "Ivy Tech Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "ec46612b-d7b3-464a-84c1-83ae95c50352"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Deborah Toomey",
+                "university": "Northwest Missouri State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "7520d688-1fbd-47d4-9201-12356cf373af"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-711471-51-8",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-711471-52-5",
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-1-951693-88-6",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "Attribution 4.0 International (CC BY 4.0)",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Principles_Marketing-WEB.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "17a6fa02-5cca-40fd-97ef-016e4d6b8612"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "b1ba23ad-3322-4fd1-b93d-f70ca8992344"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpeg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-principles-of-marketing/12984/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with Principles of Marketing. Find more resources, and submit your own.",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "8f66160d-787e-4947-8f6e-d90b2616bea1"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "e01ce2e3-fd88-45ae-b3be-8cb5c93d9240"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/2731eee8-0eb1-4d80-ae83-01b4af642ff6",
+    "webview_rex_link": "https://openstax.org/books/principles-marketing/pages/1-unit-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "3ec9f334-a372-40e4-b9d1-9aaf59c2279e"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "bb9e3d3e-6978-4991-8fdc-a3cbb82f7f3d"
+        }
+    ],
+    "comp_copy_available": false,
+    "comp_copy_content": [],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1548,
+        "meta": {
+            "width": 1750,
+            "height": 803,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1548/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/MKT_Figure_02_Intro_001_Splash.jpg"
+        },
+        "title": "MKT_Figure_02_Intro_001_Splash"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

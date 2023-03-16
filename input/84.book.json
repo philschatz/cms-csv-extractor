@@ -1,0 +1,535 @@
+{
+    "id": 84,
+    "meta": {
+        "slug": "american-government",
+        "seo_title": "Free American Government Textbook for Download",
+        "search_description": "Study American Government online free by downloading OpenStax's American Government textbook and using our accompanying online resources.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/84/",
+        "html_url": "https://openstax.org/details/books/american-government",
+        "show_in_menus": false,
+        "first_published_at": "2016-05-13T16:29:19.973695-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "American Government",
+    "created": "2016-05-13T16:29:19.913000-05:00",
+    "updated": "2019-10-14T15:40:00-05:00",
+    "book_state": "retired",
+    "cnx_id": "5bcc0e59-7345-421d-8507-a1e4608685e8",
+    "salesforce_abbreviation": "American Government",
+    "salesforce_name": "American Government",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 160,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Social Sciences",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p><i>American Government</i> is designed to meet the scope and sequence requirements of the single-semester American government course. This title includes innovative features designed to enhance student learning, including Insider Perspective features and a Get Connected Module that shows students how they can get engaged in the political process. The book provides an important opportunity for students to learn the core concepts of American government and understand how those concepts apply to their lives and the world around them. <i>American Government</i> includes updated information on the 2016 presidential election.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/american_government.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Head_AmericanGovernment_1.svg",
+    "cover_color": "light-blue",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 919,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 920,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 947,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 2547,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2548,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"c9ta8\">Let us make lectures a little easier for you. We’ve got PowerPoint slides with all the images from the book, organized by chapter.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/AmericanGovernment-Powerpoints.zip",
+            "link_document_title": "PowerPoint Slides - American Government",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2549,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Answer Guide",
+            "resource_description": "<p data-block-key=\"pwp3a\">Get detailed solutions to all the end-of-chapter questions in your OpenStax book. No students allowed!<br/></p><p data-block-key=\"d86hg\"><br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/AmericanGovernment-IAG.zip",
+            "link_document_title": "AmericanGovernment-IAG.zip",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2550,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Sample Syllabus Language",
+            "resource_description": "<p data-block-key=\"ddzyk\">You can opt to use this sample language in your syllabus to direct students to their FREE OpenStax textbook!</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Syllabus_Language_-_American_Government.txt",
+            "link_document_title": "Sample Syllabus Language - American Government",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2551,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Canvas Course Cartridge",
+            "resource_description": "<p data-block-key=\"9curp\">The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system. Download this course file and read the attached help article to import this resource into Canvas.</p><p data-block-key=\"3r6s2\"><a href=\"https://help.openstax.org/s/article/Importing-Canvas-Cartridges\">Instructions</a> for importing the Canvas Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "https://lor.instructure.com/resources/28723150ece2483689f6eb233502cbcd",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2552,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Apple iBooks Comp Copy",
+            "resource_description": "<p data-block-key=\"eo161\">We don&#x27;t give out print copies, but instructors can get an enhanced, interactive version of the textbook with an Apple iBooks comp copy.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "http://openstax.org/comp-copy",
+            "link_page": null,
+            "link_text": "Request your copy",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2553,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Errata Release Notes",
+            "resource_description": "<p data-block-key=\"uqko0\">Throughout the year, subject matter experts comb through all queries from our readers. These release notes cover the errata updates in our most recent summer PDF release.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/AmGov-ReleaseNotes.pdf",
+            "link_document_title": "American Government Errata Release Notes",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2016-07-14",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Joel Webb",
+                "university": "Tulane University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c7714af3-1b58-4c53-bb8e-8c076ddc3841"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Shawn Williams",
+                "university": "Campbellsville University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d6a1ff43-d419-4e89-ac5a-8b8548c76698"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rhonda Wrzenski",
+                "university": "Indiana University Southeast",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "18a9812f-71ee-47cc-9661-c74dc0ac0703"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Tonya Neaves",
+                "university": "George Mason University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0f04950b-b7a9-4418-8479-f1a24c328173"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Adam Newmark",
+                "university": "Appalachian State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "6e6092b8-fa5d-41fc-89eb-ed4b729930e1"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Brooks D. Simpson",
+                "university": "Arizona State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "7cdb7ab2-49fe-4a39-a4d1-455f2c410c59"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Glen Krutz (Content Lead)",
+                "university": "University of Oklahoma",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "eaf2a2b0-0eb9-4170-afa5-638076549871"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sylvie Waskiewicz, PhD (Lead Editor)",
+                "university": "",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "11573007-eb69-4606-958e-50e40f7a33a0"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Prosper Bernard, Jr.",
+                "university": "City University of New York",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "307748da-9c95-422b-bbe3-7b8fb37053c1"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ann Kordas",
+                "university": "Johnson & Wales University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "21d16573-9ece-4a20-b814-3d3c7028c26c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jennifer Danley-Scott",
+                "university": "Texas Woman’s University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "ffa7f78d-9414-4541-b2bb-6dd410c312c6"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Christopher Lawrence",
+                "university": "Middle Georgia State College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8f4da4d4-3040-4d10-b659-766239338cba"
+        }
+    ],
+    "print_isbn_10": "1-938168-17-8",
+    "print_isbn_13": "978-1-938168-17-8",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": null,
+    "digital_isbn_10": "1-947172-19-0",
+    "digital_isbn_13": "978-1-947172-19-7",
+    "ibook_isbn_10": "1-938168-05-4",
+    "ibook_isbn_13": "978-1-938168-05-5",
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/AmericanGovernment-OP.pdf",
+    "low_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/AmericanGovernment-LR.pdf",
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "7cf5dcc4-6b31-48fa-b473-0a824c59af45"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "a6e31ca5-5b92-4d07-a05e-dd923a34841f"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-american-government/1093/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our American government book. Submit a resource to help us get started!",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "5ec154c8-b782-4790-8f14-f9825ea0c9d9"
+        },
+        {
+            "type": "link",
+            "value": "https://openstax.org/blog/upcoming-openstax-webinars",
+            "id": "a1e80913-c408-4c4f-b86d-bc92fd25ca59"
+        }
+    ],
+    "ibook_link": "https://itunes.apple.com/us/book/american-government/id1161875541?mt=13",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/5bcc0e59-7345-421d-8507-a1e4608685e8",
+    "webview_rex_link": "",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": null,
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "https://www.amazon.com/American-Government-Glen-Krutz-ebook/dp/B075FC3H1K/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1487972159&sr=1-26",
+    "chegg_link": "https://www.chegg.com/etextbooks/american-government-1st-edition-9781947172197-1947172190?trackid=18c265bd2690&strackid=0471cf28b793",
+    "chegg_link_text": "Read on Chegg",
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "2564ca78-58ee-41d3-aeda-c2b4bf46d300"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "2162a622-c2b2-479f-8f1f-c310420c3f4c"
+        }
+    ],
+    "comp_copy_available": true,
+    "comp_copy_content": [
+        {
+            "type": "link_text",
+            "value": "iBooks comp copy request",
+            "id": "77411a87-27d6-444c-96dd-03a0f1709bf8"
+        }
+    ],
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": null,
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

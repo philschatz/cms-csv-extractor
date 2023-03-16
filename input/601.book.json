@@ -1,0 +1,537 @@
+{
+    "id": 601,
+    "meta": {
+        "slug": "introduction-philosophy",
+        "seo_title": "Introduction to Philosophy",
+        "search_description": "",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/601/",
+        "html_url": "https://openstax.org/details/books/introduction-philosophy",
+        "show_in_menus": false,
+        "first_published_at": "2022-05-31T16:16:00.566000-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Introduction to Philosophy",
+    "created": "2022-06-02T11:32:28.121000-05:00",
+    "updated": "2023-03-09T09:09:48.508455-06:00",
+    "book_state": "live",
+    "cnx_id": "fe58be6f-3b61-4e16-b3b6-db6924f0b2f2",
+    "salesforce_abbreviation": "Introduction to Philosophy",
+    "salesforce_name": "Introduction to Philosophy",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 280,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Humanities",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 67,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Humanities",
+            "subject_category": "Philosophy"
+        }
+    ],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p data-block-key=\"3z0sx\">Designed to meet the scope and sequence of your course, <i>Introduction to Philosophy</i> surveys logic, metaphysics, epistemology, theories of value, and history of philosophy thematically. To provide a strong foundation in global philosophical discourse, diverse primary sources and examples are central to the design, and the text emphasizes engaged reading, critical thinking, research, and analytical skill-building through guided activities.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/introduction_to_philosophy_webcard.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/introduction_to_philosophy_titlecard.svg",
+    "cover_color": "blue",
+    "book_cover_text_color": "white",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1301,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1302,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1319,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3664,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3665,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3666,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor's Manual",
+            "resource_description": "<p data-block-key=\"ysgx5\">Developed in response to numerous suggestions from instructors teaching this course, this Instructor’s Manual is designed to provide maximum guidance for delivering the book’s content in an interesting and dynamic manner.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Philosophy_Instructor_Manual.zip",
+            "link_document_title": "Philosophy Instructor Manual",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3667,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Test Bank",
+            "resource_description": "<p data-block-key=\"z3sra\">The test bank contains multiple choice, short answer, and essay questions for each chapter of the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Test_Bank-Philosophy.zip",
+            "link_document_title": "Philosophy Test Bank",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3668,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Lecture Slides",
+            "resource_description": "<p data-block-key=\"l4l76\">These lecture slides include selected graphics from the text, key concepts and definitions, and examples.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Lecture_Slides-Philosophy.zip",
+            "link_document_title": "Philosophy Lecture Slides",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3740,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/introduction-philosophy.zip",
+            "link_document_title": "Introduction to Philosophy Book Customization",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2022-06-15",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Nathan Smith",
+                "university": "Houston Community College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "bf5c24bd-b7f0-4a6d-891c-d296a5abae36"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Gregory Browne",
+                "university": "Eastern Michigan University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b6b0c246-c8b9-4729-b4dd-ef51408eb2e7"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Parish Conkling",
+                "university": "Houston Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "76d1d2b1-18ae-4003-904c-914a8a741ebd"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Naomi Friedman",
+                "university": "University of North Carolina, Asheville",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "94fed2ca-41a4-4320-930c-486eeff25bf1"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Allison Fritz",
+                "university": "Chadron State College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "cad302aa-1db9-4cac-beff-079d0d4c0475"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Daniel Garro",
+                "university": "Rider University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d5b1a752-c802-4d60-afe4-de20f3f5becf"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jeremy Gallegos",
+                "university": "Friends University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "6f8f6a8c-2904-4040-9e8a-3c4d3ca9ec1c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jon Gill",
+                "university": "Gustavus Adolphus College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "2955a72b-4dd4-4954-9169-c1eb56588455"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Gayle Horton",
+                "university": "Santa Fe College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "76d1333d-3eea-464a-83e8-fe858131f82f"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Maryellen Lo Bosco",
+                "university": "Suffolk Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "1df86887-115a-4900-be3a-1912d91b774b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rebecca A. Longtin",
+                "university": "State University of New York, New Paltz",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "76ec5739-0be4-4e4d-872c-497d8a7dbaf6"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Corey McCall",
+                "university": "The Cornell Prison Education Program",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d2a79056-1ba7-4974-a6b6-8a1d03c06d16"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kurt Stuke",
+                "university": "New England College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0aaf06b1-b13c-4bc8-9a85-7bdcb212df5f"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-711470-79-5",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-711470-78-8",
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-1-951693-59-6",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Introduction_to_Philosophy-WEB_cszrKYp.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "a163c697-2e8d-42a4-bf69-ec27041efcaf"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "4fcea823-5d63-474d-b7a1-f9655d438a79"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": null,
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-introduction-to-philosophy/11573/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our introduction to philosophy book. Find resources and submit your own!",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "78ecf2e2-943c-4ca1-a532-158659c296b6"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "371ff022-f6ad-4d95-9d5b-73e4807daeef"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/fe58be6f-3b61-4e16-b3b6-db6924f0b2f2",
+    "webview_rex_link": "https://openstax.org/books/introduction-philosophy/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "link",
+            "value": "",
+            "id": "a3cbd192-8370-4808-bec0-bb2b6d973d69"
+        }
+    ],
+    "comp_copy_available": true,
+    "comp_copy_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 7,
+                "heading": "iBooks comp copy request",
+                "content": "",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "85cb803a-5161-4147-b2f3-afd56e3e3319"
+        }
+    ],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1437,
+        "meta": {
+            "width": 1750,
+            "height": 803,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1437/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/PHIL_Figure_02_Intro_001_Splash.jpg"
+        },
+        "title": "IntroPhilosophy_Splash"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

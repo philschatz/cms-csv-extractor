@@ -1,0 +1,1698 @@
+{
+    "id": 585,
+    "meta": {
+        "slug": "anatomy-and-physiology-2e",
+        "seo_title": "Free Anatomy and Physiology 2e Textbook for Download",
+        "search_description": "Learn about human anatomy and physiology online by downloading OpenStax's free Anatomy and Physiology 2e book and using our accompanying study guide.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/585/",
+        "html_url": "https://openstax.org/details/books/anatomy-and-physiology-2e",
+        "show_in_menus": false,
+        "first_published_at": "2022-03-25T10:54:32.774000-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Anatomy and Physiology 2e",
+    "created": "2022-03-25T12:23:21.046000-05:00",
+    "updated": "2023-03-16T12:28:00-05:00",
+    "book_state": "live",
+    "cnx_id": "4fd99458-6fdf-49bc-8688-a6dc17a1268d",
+    "salesforce_abbreviation": "Anatomy & Physiology",
+    "salesforce_name": "Anatomy & Physiology 2e",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 274,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Science",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 35,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Science",
+            "subject_category": "Anatomy and Physiology"
+        }
+    ],
+    "k12book_subjects": [
+        {
+            "id": 20,
+            "meta": {
+                "type": "books.K12BookSubjects"
+            },
+            "subject_name": "Anatomy & Physiology",
+            "subject_category": "Science"
+        }
+    ],
+    "is_ap": false,
+    "description": "<p data-block-key=\"u7ecw\"><i>Anatomy and Physiology 2e</i> is developed to meet the scope and sequence for a two-semester human anatomy and physiology course for life science and allied health majors. The book is organized by body systems. The revision focuses on inclusive and equitable instruction and includes new student support. Illustrations have been extensively revised to be clearer and more inclusive. The web-based version of <i>Anatomy and Physiology 2e</i> also features links to surgical videos, histology, and interactive diagrams. Please learn more about the changes by previewing the preface.</p><p data-block-key=\"e6jpb\">The first edition of <i>Anatomy and Physiology</i> by OpenStax is available in web view <a href=\"https://openstax.org/books/anatomy-and-physiology/pages/1-introduction\">here</a>.</p><p data-block-key=\"3nbp0\">If you have encountered a white screen while accessing your OpenStax textbook, our developers suggest closing all of your <a href=\"http://openstax.org/\">OpenStax.org</a> tabs and then loading the book again.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/anatomy_and_physiology_2e_webcard.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/anatomy_and_physiology_2e_title.svg",
+    "cover_color": "orange",
+    "book_cover_text_color": "grey",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1292,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide_3XA7W8Y.pdf",
+            "link_document_title": "Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1293,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1294,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Solution Guide",
+            "resource_description": "<p data-block-key=\"krk29\">Need help studying? Access detailed solutions to problems and exercises in your OpenStax book.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Anatomy_and_Physiology_2e_-_Student_Solution_Guide.zip",
+            "link_document_title": "Anatomy and Physiology 2e - Student Solution Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1314,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3646,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3647,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Solution Guide",
+            "resource_description": "<p data-block-key=\"slgbf\"><br/>The instructor solutions guide contains the instructor-facing answers to the problems and exercises within the textbook.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Anatomy_and_Physiology_2e_-_Instructor_Answer_Guide_3B7tyWA.zip",
+            "link_document_title": "Anatomy and Physiology 2e - Instructor Answer Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3648,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"c9ta8\">Let us make lectures a little easier for you. We’ve got PowerPoint slides with all the images from the book, organized by chapter.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Anatomy_and_Physiology_2e_-_PowerPoints_Yj1lZYl.zip",
+            "link_document_title": "Anatomy and Physiology 2e - PowerPoints",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3649,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Testable Images",
+            "resource_description": "<p data-block-key=\"h4dfh\">This .ZIP contains many images from the book with their labels covered so that they can be used for quizzes and tests.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Anatomy_and_Physiology_2e_-_Testable_Images_xsYO6Pt.zip",
+            "link_document_title": "Anatomy and Physiology 2e - Testable Images",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3650,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Guided Lecture Notes",
+            "resource_description": "<p data-block-key=\"x0rjb\">These resources contain chapter outlines with key concepts, terms, and questions. They are designed to provide a note-taking framework and enhance student understanding in reading and course sessions.</p>",
+            "resource_unlocked": true,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Anatomy_Physiology_2e_Lecture_Notes.docx",
+            "link_document_title": "Anatomy & Physiology Guided Lecture Notes",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3651,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3696,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Anatomy_and_Physiology_2e_Docx_customization.zip",
+            "link_document_title": "Anatomy and Physiology 2e_Docx customization",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3732,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Transition Guide",
+            "resource_description": "<p data-block-key=\"bb5co\">This summary of the key changes from 1e to 2e is designed to assist faculty in using the new edition.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Anatomy.and.Physiology.2e.Transition.Guide.pdf",
+            "link_document_title": "Anatomy.and.Physiology.2e.Transition.Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2022-04-20",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "J. Gordon Betts",
+                "university": "Tyler Junior College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "c2da06f9-36b2-49bf-9cd1-dea4fb6f6561"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kelly A. Young",
+                "university": "California State University, Long Beach",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "0a3a3ce7-b524-44af-bb75-0ce05df9ef1d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "James A. Wise",
+                "university": "Hampton University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "29923d1f-3f5e-471a-9197-158831b16ac9"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Eddie Johnson",
+                "university": "Central Oregon Community College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "7c2343b5-dcf3-47e0-83b2-dcf40c2f448f"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Brandon Poe",
+                "university": "Springfield Technical Community College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "5e49bc5a-2589-4f8b-9e3e-8b6b5bf43257"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Dean H. Kruse",
+                "university": "Portland Community College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "c408b1e2-8cd0-487d-8e98-c46ec5031bf0"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Oksana Korol",
+                "university": "Aims Community College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "a1bd7707-2c70-402b-b4a2-590a0bd5c629"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jody E. Johnson",
+                "university": "Arapahoe Community College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "ce33c1e9-383a-444c-aa47-947bd85b1c60"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Mark Womble",
+                "university": "Youngstown State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "ff59b8f1-af4d-4f57-89a9-0269ad306e31"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Peter DeSaix",
+                "university": "University of North Carolina at Chapel Hill",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "0e900baa-7448-45f3-b71a-f5a6dfc0cf94"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "William Blaker",
+                "university": "Furman University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "83fc6daa-3f77-42e8-aa13-2213c2a86137"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Julie Bowers",
+                "university": "East Tennessee State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "697188ed-6b42-4dfb-953e-74562f5f9195"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Matthew Barlow",
+                "university": "Eastern New Mexico University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "dd6a0dca-62f4-49ac-a228-5903a5e140f2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Michael Hortsch",
+                "university": "University of Michigan",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "56b7fc5a-f03b-45b8-95db-b4b61f55f540"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Emily Bradshaw",
+                "university": "Florida Southern College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "69d72a1b-9695-4e94-ad98-0e2bc2ee7da7"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kathleen Tallman",
+                "university": "Azusa Pacific University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "667bbe5a-83e1-4c69-a0f8-2832023f120e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Boyd Campbell",
+                "university": "Southwest College of Naturopathic Medicine and Health Sciences",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "5f5efb4a-a9de-4295-8add-b2cbeac80f8a"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rohinton Tarapore",
+                "university": "University of Pennsylvania",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "61cee049-44ab-49a2-afad-a54a95a784f1"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Branko Jablanovic",
+                "university": "College of Lake County",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "7aa756bb-e4b4-4d44-b32c-a2444ba80ae5"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Pamela Dobbins",
+                "university": "Shelton State Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "23c7bcaa-84ca-4f07-bbab-1374447256a2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Brian Shmaefsky",
+                "university": "Lone Star College System",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "060ab064-600e-4ee2-9789-504484e653be"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Barbara Christie-Pope",
+                "university": "Cornell College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "3cd738d0-79ff-4c19-bbd1-74b0bb38b99d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Douglas Sizemore",
+                "university": "Bevill State Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a903d846-7302-4094-98b3-fa86c79ccba2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Maurice Culver",
+                "university": "Florida State College at Jacksonville",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0d99fcde-e821-4c57-b319-cf309a348fb8"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Debra McLaughlin",
+                "university": "University of Maryland University College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "bdce3d6d-7531-46d4-ae66-c3e03b552cdf"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Bruce Maring",
+                "university": "Daytona State College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "56fa2852-bdbc-494a-ac8f-c783daefa4d7"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Peter Dukehart",
+                "university": "Three Rivers Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "43b899e4-af00-4e4a-9319-e7a4f858d2dd"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Susan Dentel",
+                "university": "Washtenaw Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f20b2b8a-3d6b-4c19-829c-68d59448403e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Elizabeth Tattersall",
+                "university": "Western Nevada College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "71cf4fbc-d3e7-4049-8982-1780ffb82d4d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Margaret Weck",
+                "university": "St. Louis College of Pharmacy",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8890f13d-67be-47ba-84bf-fe48ad3b051b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Neil Westergaard",
+                "university": "Williston State College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "68a127c0-b721-4097-b4ef-a25e60d5699f"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Marnie Chapman",
+                "university": "University of Alaska, Sitka",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "015e71b3-7037-4f42-a7bf-bfb75bb6b910"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "William Kleinelp",
+                "university": "Middlesex County College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "74c0efac-f044-4c41-84b2-72c3fa80787c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Brenda Leady",
+                "university": "University of Toledo",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f0a7bb18-4e99-4d88-a45a-5037587bc681"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Susanna Heinze",
+                "university": "Skagit Valley College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "89c35425-06c5-44a7-b69c-0328cc954d02"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Julie May",
+                "university": "William Carey University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0a12c8a7-7654-47f1-bcc7-03583277548c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ann Caplea",
+                "university": "Walsh University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "764cf23c-61db-4fbd-ad68-65b3adaa8c29"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kim Aaronson",
+                "university": "Aquarius Institute; Triton College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "2da80678-7663-428f-b5a9-ab2d5edb3758"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Lopamudra Agarwal",
+                "university": "Augusta Technical College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "e918accc-30d6-4a4a-93bb-49a42efe89bf"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Gary Allen",
+                "university": "Dalhousie University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4fcb9d93-ed3e-4db2-a9d1-8040b60a0119"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Nishi Bryska",
+                "university": "University of North Carolina, Charlotte",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c60fe0ab-43ab-44d7-ba25-ee83cbb92d15"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Susan Caley Opsal",
+                "university": "Illinois Valley Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "39a32036-bc7e-44b3-8913-bb20bfd98009"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Norman Johnson",
+                "university": "University of Massachusetts Amherst",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "6677f58f-93df-4df4-bc3d-d4146e764208"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sarah Leupen",
+                "university": "University of Maryland, Baltimore County",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a2ddc00d-079a-44d7-8363-9941168e339e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Robert Mallet",
+                "university": "University of North Texas Health Science Center",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "088a384e-73c9-4af9-88ec-6a0f2a1d2ef5"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kenneth Crane",
+                "university": "Texarkana College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "666d5e57-7350-43d2-bf77-7e7b400fb781"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Heather Cushman",
+                "university": "Tacoma Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "3a73003e-d4ab-42f5-b3f0-9e4525c7819c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Chaya Gopalan",
+                "university": "St. Louis College of Pharmacy",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "7c8fd01a-4659-4045-abbd-5dd3a971279b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Mark Hubley",
+                "university": "Prince George's Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "86a8c712-5c4d-4027-b1c8-866e673bc547"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Dale Horeth",
+                "university": "Tidewater Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "24652101-4a20-4927-94ef-d0e98df24a64"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kathleen Weiss",
+                "university": "George Fox University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "306c6fa8-5bba-4e93-9f90-cc7f78e3e0db"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sharon Ellerton",
+                "university": "Queensborough Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "321d2324-9935-4825-a357-6d413f7bf826"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Janis Thompson",
+                "university": "Lorain County Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "bb951810-bad5-4970-bac6-32d4dbdb8001"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rita Thrasher",
+                "university": "Pensacola State College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8e1c19df-a78a-4a10-a13e-e5f6f11a608b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Nicholas Mitchell",
+                "university": "St. Bonaventure University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d3303add-04b0-4105-a3c5-c469bcc88ac2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Van Wylen",
+                "university": "St. Olaf College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "edd8491f-72a8-458c-b532-3cfa6d199228"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Elisabeth Martin",
+                "university": "College of Lake County",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "20210374-dd76-487b-a9b2-3ea428404165"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ivan Paul",
+                "university": "John Wood Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "40437fa7-6dd1-4ef6-a942-86275ee517c3"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Lihua Liang",
+                "university": "Johns Hopkins University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d39c48e8-49a8-44be-ae0f-aceeb0b80058"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Wortham",
+                "university": "West Georgia Technical College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "49f8043b-5c7c-4e8e-8012-d2d80b6f4f40"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Shobhana Natarajan",
+                "university": "Alcon Laboratories, Inc.",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "368cd452-71c4-489d-8ed6-980c3de5afae"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Betsy Ott",
+                "university": "Tyler Junior College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "efa27eac-17a1-45d2-865c-5c169326fc88"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sondra Dubowsky",
+                "university": "McLennan Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b96cada3-bf20-42b4-82f6-fe67702e111e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Mary Jane Niles",
+                "university": "University of San Francisco",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "7d352fc9-a667-4602-8d04-af71cadef40e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Mark Thomas",
+                "university": "University of Northern Colorado",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "28825c5f-596c-4261-a637-d55527e729e5"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Mike Pyle",
+                "university": "Olivet Nazarene University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "252938a7-7d75-4864-99ce-012c6060ce39"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Umesh Yadav",
+                "university": "University of Texas Medical Branch",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "960e5bb8-195a-4c00-a3b2-bc14575fcd94"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ann Henninger",
+                "university": "Wartburg College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "5cbd7eee-d5c5-47d1-bed5-cf5a0c8e9e75"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Elizabeth DuPriest",
+                "university": "Warner Pacific College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "32af6c7d-976f-4013-b7f2-d80af9b92b51"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Timothy Ballard",
+                "university": "University of North Carolina Wilmington",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b39c78a2-611d-421f-ad70-64acd964448b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Phillip Nicotera",
+                "university": "St. Petersburg College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "80fce064-e8cd-4c72-83cf-82d687549724"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Michael Giangrande",
+                "university": "Oakland Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a533f773-ea98-4908-b95e-21cca556a95e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Natalie Maxwell",
+                "university": "Carl Albert State College, Sallisaw",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "cc72110b-48ea-4bad-89b5-f531619027a1"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Cameron Perkins",
+                "university": "South Georgia College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "29d885b0-59dc-4a40-b056-a7595f4dc14b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Robert Rawding",
+                "university": "Gannon University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8e264145-6611-4377-bae4-163e1fedb4c1"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Lynn Gargan",
+                "university": "Tarant County College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "51c77954-f0db-40bd-9f87-01f368cafe1b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jeff Keyte",
+                "university": "College of Saint Mary",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "58e92cc0-ae16-49bd-822e-8bdba596d504"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Victor Greco",
+                "university": "Chattahoochee Technical College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b21f9a11-cd7b-4158-88cf-5f03a5e60049"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Robert Allison",
+                "university": "McLennan Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c59e1dd3-b877-4998-8a50-3862e8fb6daf"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Heather Armbruster",
+                "university": "Southern Union State Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8ac9dfb5-6b81-46e7-a6d9-f7b31d285d55"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Lynn Wandrey",
+                "university": "Mott Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "fc0ac66e-145a-4812-afc7-d6156322f6c8"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Pfeiffer",
+                "university": "University of Alaska, Anchorage",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4ffef9fc-a35b-4797-9114-c965691858cb"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Mark Jonasson",
+                "university": "North Arkansas College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d31044d9-19e9-4614-8504-a78354a5ab6d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Susan Spencer",
+                "university": "Mount Hood Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "36759318-651f-46f5-9038-4b7317a17588"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Leigh Kleinert",
+                "university": "Grand Rapids Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "bea82b44-bac5-4d80-bbe8-99f480f40722"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jason Schreer",
+                "university": "State University of New York at Potsdam",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "bec903c8-a659-4914-b6b7-039ecc266456"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Thomas Pilat",
+                "university": "Illinois Central College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0bd4692f-c3da-4db8-a199-84224c8d8dc8"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ikemefuna Nwosu",
+                "university": "Parkland College; Lake Land College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "ea365817-07ae-468c-b551-27389cb2f669"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Patty Dolan",
+                "university": "Pacific Lutheran University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "9a778efe-9d95-4f0f-b265-78e73b438e43"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ellen DuPré",
+                "university": "Central College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "971cf31a-5a4a-4f35-a7b7-c72872e1c795"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "John Lepri",
+                "university": "University of North Carolina, Greensboro",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b8f932ac-1af3-40eb-ab1e-d85d7e8f6ed7"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Carla Endres",
+                "university": "Utah State University - College of Eastern Utah: San Juan Campus",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f95d1114-1116-4067-92ac-55018c306b23"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Eileen Preston",
+                "university": "Tarrant County College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "caebaddb-e969-4785-9b71-7a050f1c210f"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Eric Sun",
+                "university": "Middle Georgia State College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "af5ccf72-6ca5-4586-b05b-f84b25784515"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Tom Swenson",
+                "university": "Ithaca College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f987f084-f006-4c74-9c7f-447182d16050"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Tony Yates",
+                "university": "Oklahoma Baptist University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "6f148312-5074-471b-a648-c7597baa4981"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Justin York",
+                "university": "Glendale Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "9180d367-a955-486c-98ac-2b3fea05a96a"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Cheri Zao",
+                "university": "North Idaho College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "5f0bc7dc-9f23-45cf-a4bd-5eb7672f0b34"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Elena Zoubina",
+                "university": "Bridgewater State University; Massasoit Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4263dc9d-12c0-419c-80cb-9e326e4b54c8"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Noelle Cutter",
+                "university": "Molloy College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "6ce85485-6e12-4c00-93f5-862f53c3ec8f"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Lynnette Danzl-Tauer",
+                "university": "Rock Valley College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "13792280-a861-4b07-8a2c-475ba6d94103"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Myriam Feldman",
+                "university": "Lake Washington Institute of Technology; Cascadia Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "764c457b-8900-4ea2-b406-2ceb0e465116"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jane Davis",
+                "university": "Aurora University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0d6f1096-c7fb-4ab4-be53-cf29f2248578"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rosemary Hubbard",
+                "university": "Marymount University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "60096e75-f9c0-4044-98da-1e047978d185"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Aaron Payette",
+                "university": "College of Southern Nevada",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c45a515b-5e9b-4e56-a0d4-0a7fd90bbca6"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Greg Fitch",
+                "university": "Avila University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "922a847b-9a79-4bdc-aca5-ed2a18e837f2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Robert Sullivan",
+                "university": "Marist College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "33cdc5e9-700b-45d7-bd43-654faeea6104"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "AnnMarie DelliPizzi",
+                "university": "Dominican College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c4285dd1-48ce-4017-99fd-451877c6ca0c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Cynthia Standley",
+                "university": "University of Arizona",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b0f42674-599d-43e8-b456-382944171073"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Shobhana Natarajan",
+                "university": "Brookhaven College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "ef671689-3f51-4ae4-948a-d5c1749fe374"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Scott Payne",
+                "university": "Kentucky Wesleyan College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "948d78a1-cf97-4fa0-8ff0-778745fa3b3e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Laird Sheldahl",
+                "university": "Mt. Hood Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "62c29781-6a70-49a4-a081-91320240b9ee"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Pam Elf",
+                "university": "University of Minnesota",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "7194933d-5eb6-4bf0-826f-07f7f7675a46"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-711494-06-7",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-711494-05-0",
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-1-951693-42-8",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "Attribution 4.0 International (CC BY 4.0)",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Anatomy_and_Physiology_2e_-_WEB_c9nD9QL.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "170c9770-6d5c-4dea-9fa2-0b8aba6d8301"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "78d80edf-95f3-4901-abc8-d8584f8c1dfc"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-anatomy-and-physiology/1054/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our anatomy and physiology book. Find resources and submit your own!",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "151aa534-f9ab-4029-96f2-427a457016e5"
+        },
+        {
+            "type": "link_text",
+            "value": "http://openstax.org/webinars",
+            "id": "2c58c355-bfa6-4d2f-9f5a-1b8df117cb3a"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/4fd99458-6fdf-49bc-8688-a6dc17a1268d",
+    "webview_rex_link": "https://openstax.org/books/anatomy-and-physiology-2e/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "link",
+            "value": "",
+            "id": "b0b978c9-c248-4cb2-a52b-a43a73ab27b5"
+        }
+    ],
+    "comp_copy_available": false,
+    "comp_copy_content": [],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1424,
+        "meta": {
+            "width": 2288,
+            "height": 900,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1424/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/c751c7ede952ee418ea3bc66673f81e97375f674.jpg"
+        },
+        "title": "c751c7ede952ee418ea3bc66673f81e97375f674"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

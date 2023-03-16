@@ -1,0 +1,226 @@
+{
+    "id": 610,
+    "meta": {
+        "slug": "mikroekonomia-podstawy",
+        "seo_title": "",
+        "search_description": "",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/610/",
+        "html_url": "https://openstax.org/details/books/mikroekonomia-podstawy",
+        "show_in_menus": false,
+        "first_published_at": "2022-08-25T11:45:18.903056-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Mikroekonomia – Podstawy",
+    "created": "2022-08-25T11:39:14.332000-05:00",
+    "updated": "2022-09-07T11:00:00-05:00",
+    "book_state": "live",
+    "cnx_id": "c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a",
+    "salesforce_abbreviation": null,
+    "salesforce_name": null,
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 284,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Social Sciences",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p data-block-key=\"57w4a\"><i>Mikroekonomia – Podstawy</i> to polska adaptacja podręcznika <i>Principles of Microeconomics 2e</i>. Publikacja przeznaczona jest dla trwających jeden semestr zajęć z podstaw mikroekonomii. Treść dopasowano pod względem zakresu i układu do praktyki dydaktycznej stosowanej na większości polskich uczelni prowadzących takie zajęcia. Ponadto polskie wydanie wzbogacono o liczne adaptacje kulturowe.</p><p data-block-key=\"474v7\">Ze względu na różnorodność terminologii z zakresu mikroekonomii obowiązującej na polskich uczelniach, we współpracy z dydaktykami z siedmiu uczelni w Polsce wprowadziliśmy synonimy terminów w sekcji Kluczowe pojęcia na końcu każdego rozdziału. Zabieg ten sprawia, że podręcznik jest uniwersalny i odnajdzie się w nim student każdej uczelni w Polsce. Mając na uwadze coraz bardziej odczuwalne skutki działalności człowieka na klimat, przygotowaliśmy także dodatkowy rozdział o wpływie katastrofy klimatycznej na rozwój przedsiębiorstw. Dla jasności przekazu i wygody studentów w obecnym wydaniu nie zostały uwzględnione te zagadnienia z Principles of Microeconomics 2e, które na polskich uczelniach typowo są prowadzone na kursie makroekonomii.</p><p data-block-key=\"eg4pn\">Publikacja przygotowana została przez OpenStax Poland we współpracy z wykładowcami: Szkoły Głównej Handlowej w Warszawie, Uniwersytetu Gdańskiego, Uniwersytetu Ekonomicznego w Poznaniu, Uniwersytetu Ekonomicznego w Krakowie, Uniwersytetu Ekonomicznego we Wrocławiu, Uniwersytetu Ekonomicznego w Katowicach, Uniwersytetu Łódzkiego oraz Akademii Leona Koźmińskiego.</p><h3 data-block-key=\"4tpo1\">Errata</h3><p data-block-key=\"4v9p9\">Wszystkie podręczniki OpenStax Poland przechodzą rygorystyczny proces recenzji. Mimo to niektóre błędy mogły zostać przeoczone, co zdarza się w każdej profesjonalnej publikacji. Nasze książki są cyfrowe, dlatego możemy uaktualniać je, gdy zachodzi taka potrzeba. By zaproponować poprawkę, prosimy skorzystać z odnośnika na stronie podręcznika na OpenStax.org. Zgłoszone poprawki są analizowane przez ekspertów i wprowadzane do publikacji przez zespół redakcyjny.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/mikroekonomia_square.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/mikroekonomia_title_card_2.svg",
+    "cover_color": "gray",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [],
+    "book_faculty_resources": [],
+    "publish_date": "2022-09-07",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Steven A. Greenlaw",
+                "university": "University of Mary Washington",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "6e3c7557-c391-4288-9903-2e78f11eaf0b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Shapiro",
+                "university": "Pennsylvania State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "d0611cad-3803-4101-8bc0-0bcc9252919c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Waldemar Karpa",
+                "university": "Akademia Leona Koźmińskiego",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "e8f3f6ce-ec2c-4111-8e60-a2d084211d36"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Piotr Maszczyk",
+                "university": "Szkoła Główna Handlowa w Warszawie",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "bbb7d249-af2f-40c4-81dc-3304b3480cb7"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-83-948838-9-8",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": null,
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-83-965824-0-9",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Mikroekonomia-Podstawy-WEB.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "9e778644-3e0c-4cff-99b0-8998dfbe9bf7"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "6539810f-e30b-4b01-b169-86367f39cb82"
+        }
+    ],
+    "community_resource_heading": null,
+    "community_resource_logo_url": null,
+    "community_resource_url": "",
+    "community_resource_cta": null,
+    "community_resource_blurb": "",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "9960e3a7-7d57-4551-b6ba-3d8a9e0170b2"
+        },
+        {
+            "type": "link",
+            "value": "https://openstax.org/blog/upcoming-openstax-webinars",
+            "id": "42817175-f8f4-42db-a6de-c55a435d6822"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/c9cbc0aa-3afa-448b-8048-3ca2e0ee2f6a",
+    "webview_rex_link": "https://openstax.org/books/mikroekonomia-podstawy/pages/1-wprowadzenie-do-rozdzialu",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": null,
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [],
+    "comp_copy_available": true,
+    "comp_copy_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 7,
+                "heading": "iBooks comp copy request",
+                "content": "",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "901f790b-f85a-43f0-9b46-cfe00232dd90"
+        }
+    ],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1450,
+        "meta": {
+            "width": 1800,
+            "height": 1011,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1450/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/CNX_Econ_C01_006.jpg"
+        },
+        "title": "CNX_Econ_C01_006"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

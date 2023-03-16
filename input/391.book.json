@@ -1,0 +1,310 @@
+{
+    "id": 391,
+    "meta": {
+        "slug": "life-liberty-and-pursuit-happiness",
+        "seo_title": "Life, Liberty, and the Pursuit of Happiness",
+        "search_description": "The Life, Liberty, and the Pursuit of Happiness textbook aligns with the curriculum guidelines for AP U.S. History from the College Board.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/391/",
+        "html_url": "https://openstax.org/details/books/life-liberty-and-pursuit-happiness",
+        "show_in_menus": false,
+        "first_published_at": "2020-06-29T12:21:35.660572-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Life, Liberty, and the Pursuit of Happiness",
+    "created": "2020-02-10T10:10:12.294000-06:00",
+    "updated": "2022-07-27T12:35:00-05:00",
+    "book_state": "live",
+    "cnx_id": "36004586-651c-4ded-af87-203aca22d946",
+    "salesforce_abbreviation": "LLPH",
+    "salesforce_name": "Life, Liberty and the Pursuit of Happiness",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 150,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Humanities",
+            "subject_page_content": "",
+            "subject_search_description": null
+        },
+        {
+            "id": 151,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "K12",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 92,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "K12",
+            "subject_category": "U.S. History"
+        }
+    ],
+    "k12book_subjects": [],
+    "is_ap": true,
+    "description": "<p data-block-key=\"foyys\"><i>Life, Liberty, and the Pursuit of Happiness</i> is produced through a collaborative publishing agreement between OpenStax and the Bill of Rights Institute. The course is designed to align with the curriculum guidelines for AP U.S. History from the College Board. The full list of authors and reviewers, with their affiliations, can be found in the Preface to the resource.</p><p data-block-key=\"4eiy4\">This content is available for students when instructors set up a course in OpenStax Tutor. Visit <a href=\"https://openstax.org/openstax-tutor\">www.openstax.org/openstax-tutor</a> to learn more.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/life_libery_and_the_pursuit_of_happiness_QFfFHz3.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/life_liberty_and_the_pursuit_of_happiness_tZrkNAC.svg",
+    "cover_color": "light-blue",
+    "book_cover_text_color": "dark_blue",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 866,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 948,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 2437,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Answer Guide",
+            "resource_description": "<p data-block-key=\"pwp3a\">Get detailed solutions to all the end-of-chapter questions in your OpenStax book. No students allowed!<br/></p><p data-block-key=\"d86hg\"><br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/LLPH_IAG.zip",
+            "link_document_title": "LLPH IAG",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2474,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "OpenStax Crosswalk",
+            "resource_description": "<p data-block-key=\"69dmj\">Click here for a document that aligns the topics from the College Board&#x27;s Course and Exam Description with the OpenStax textbook.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_-_AP_US_History_Crosswalk.pdf",
+            "link_document_title": "LLPH AP Crosswalk",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2680,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2020-07-06",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Patrick Allitt, Anthony Badger, Jeremy D. Bailey, Anthony D. Bartl, Mathieu Billings, Brad Birzer, John Bodnar, Rebecca Brannon, Patrick Breen, Jeff Broadwater, Stewart Burns, Andrew Burstein, Andrew Busch, Vincent Cannato, H. Lee Cheek, Erwin Chemerinsky, Mark Christensen, Catherine Clinton, Nicholas Cole, Jonathan Den Hartog, Paul Dickson, Brian Domitrovic, Jim Downs, Melvyn Dubofsky, Todd Estes, Andy Fisher, A. James Fuller, Frank W. Garmon, Jr., Malcolm Gaskill, Glenda Gilmore, John Steele Gordon, Allen Guelzo, Kevin Gutzman, David E. Hamilton, Phil Hamilton, John Earl Haynes, Steven Hayward, Kenneth J. Heineman, Rebeccah Heinrichs, Stephanie Hinnershitz, Maurice Isserman, Glen Jeansonne, Michael Kazin, Jennifer D. Keene, LeeAnna Keith, Thomas Kidd, Harvey Klehr, Frank Lambert, Edward G. Lengel, Gordon Lloyd, Robert McMahon, Bonnie M. Miller, Dan Monroe, John E. Moser, Barton A. Myers, Peter C. Myers, Cathal J. Nolan, Johnathan O’Neill, Mackubin Owens, Chester Pach, Michael Parrish, Jason Pierce, David Pietrusza, Joe Postell, Steve Puleo, Martin H. Quitt, Jack Rakove, James H. Read, Gregory L. Schneider, Timothy J. Shannon, Amity Shlaes, Julie Silverbrook, Brooks D. Simpson, Mark Summers, Adam Tate, Alan Taylor, Mark Thomas, Stephen Tootle, Michael Tougias, John van Atta, Artemus Ward, Benjamin Waterhouse, Jonathan W. White, W.E. White, Michael Zuckert",
+                "university": "",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": true
+            },
+            "id": "65ebae02-77c5-4813-a934-a49c04bbc095"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": null,
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": null,
+    "digital_isbn_10": null,
+    "digital_isbn_13": null,
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": null,
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "b7681b1e-892e-4068-bd1f-2babefe89afe"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "845ce96a-47ce-4956-912b-d0127167e2ed"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/life-liberty-and-the-pursuit-of-happiness/5088/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "7fd89898-69d6-474a-9ad9-fa4aeb30d693"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "5497b62f-11e5-42bf-b09b-540df113a329"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/36004586-651c-4ded-af87-203aca22d946",
+    "webview_rex_link": "https://tutor.openstax.org/",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": null,
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [],
+    "comp_copy_available": false,
+    "comp_copy_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 7,
+                "heading": "iBooks comp copy request",
+                "content": "",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "0acea78c-4237-459a-8ba5-70308d9b69f4"
+        }
+    ],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": true,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": null,
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

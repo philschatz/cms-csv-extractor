@@ -1,0 +1,607 @@
+{
+    "id": 515,
+    "meta": {
+        "slug": "introduction-sociology-3e",
+        "seo_title": "",
+        "search_description": "",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/515/",
+        "html_url": "https://openstax.org/details/books/introduction-sociology-3e",
+        "show_in_menus": false,
+        "first_published_at": "2021-05-21T14:28:29.291000-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Introduction to Sociology 3e",
+    "created": "2021-05-21T14:48:52.068000-05:00",
+    "updated": "2023-03-08T12:45:00-06:00",
+    "book_state": "live",
+    "cnx_id": "746f171e-0d6a-4ef2-b69d-367880872f4a",
+    "salesforce_abbreviation": "Introduction to Sociology",
+    "salesforce_name": "Introduction to Sociology 3e",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 279,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Social Sciences",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 65,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Social Sciences",
+            "subject_category": "Sociology"
+        }
+    ],
+    "k12book_subjects": [
+        {
+            "id": 23,
+            "meta": {
+                "type": "books.K12BookSubjects"
+            },
+            "subject_name": "Sociology",
+            "subject_category": "Social Studies"
+        }
+    ],
+    "is_ap": false,
+    "description": "<p data-block-key=\"q7jxd\"><i>Introduction to Sociology 3e</i> aligns to the topics and objectives of many introductory sociology courses. It is arranged in a manner that provides foundational sociological theories and contexts, then progresses through various aspects of human and societal interactions. The new edition is focused on driving meaningful and memorable learning experiences related to critical thinking about society and culture. The text includes comprehensive coverage of core concepts, discussions and data relevant to a diverse audience, and features that draw learners into the discipline in powerful and personal ways. Overall, <i>Introduction to Sociology 3e</i> aims to center the course and discipline as crucial elements for understanding relationships, society, and civic engagement; the authors seek to lay the foundation for students to apply what they learn throughout their lives and careers.<br/><br/></p><p data-block-key=\"s4v55\">The authors, reviewers, and the entire team worked to build understanding of the causes and impacts of discrimination and prejudice. <i>Introduction to Sociology 3e</i> contains dozens of examples of discrimination and its outcomes regarding social science, society, institutions, and individuals. The text seeks to strike a balance between confronting the damaging aspects of our culture and history and celebrating those who have driven change and overcome challenges. The core discussion of these topics are present in Chapter 11 on Race and Ethnicity, and Chapter 12 on Gender, Sex, and Sexuality, but their causes and effects are extensively discussed in the context of other topics, including education, law enforcement, government, healthcare, the economy, and so on. Together and when connected by an instructor, these elements have potential for deep and lasting effects.<br/></p><p data-block-key=\"8i3tn\">Changes made in <i>Introduction to Sociology 3e</i> are described in the preface to help instructors transition to the third edition. The second edition of <i>Introduction to Sociology</i> by OpenStax is available in web view <a href=\"https://openstax.org/books/introduction-sociology-2e/pages/1-introduction-to-sociology\">here</a>.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/introduction_to_sociology_3e_web_card.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/introduction_to_sociology_3e.svg",
+    "cover_color": "blue",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1104,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide_3XA7W8Y.pdf",
+            "link_document_title": "Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1249,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1250,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3296,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2697,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2700,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Third Edition Transition Guide",
+            "resource_description": "<p>This summary of the key changes from 2e to 3e is designed to assist faculty and course designers in using the new edition. It includes general and thematic changes, as well as detailed lists of revisions.</p>",
+            "resource_unlocked": true,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Sociology_2e_to_3e_Transition_Guide.pdf",
+            "link_document_title": "Third Edition Transition Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2834,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Enhanced Lecture PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"t0jmm\">These lecture slides include selected graphics from the text, key concepts and definitions, examples, and discussion questions.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductionSociology3e_PPTs_gBoQFY7.zip",
+            "link_document_title": "IntroductionSociology3e_PPTs",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2995,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Assessment Banks",
+            "resource_description": "<p data-block-key=\"geiw4\">These assessments include multiple choice test bank questions and reading quiz sets, as well as a document introducing the offerings. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Sociology3e_AssessmentBanks.zip",
+            "link_document_title": "Sociology3e_AssessmentBanks",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3173,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Answer Guide",
+            "resource_description": "<p data-block-key=\"pwp3a\">Get detailed solutions to all the end-of-chapter questions in your OpenStax book. No students allowed!<br/></p><p data-block-key=\"d86hg\"><br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Sociology3e_IAG_DvQmquA.zip",
+            "link_document_title": "Sociology3e_IAG",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3211,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Canvas Course Cartridge",
+            "resource_description": "<p data-block-key=\"9curp\">The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system. Download this course file and read the attached help article to import this resource into Canvas.</p><p data-block-key=\"3r6s2\"><a href=\"https://help.openstax.org/s/article/Importing-Canvas-Cartridges\">Instructions</a> for importing the Canvas Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/openstax-sociology-3e-export_5kLJBP4.imscc",
+            "link_document_title": "openstax-sociology-3e-export",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3212,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "D2L Course Cartridge",
+            "resource_description": "<p data-block-key=\"hri6m\">Minnesota State University, Mankato created a course cartridge for this title to integrate your OpenStax book into the D2L learning management system. Download this file and read the attached help article to import this resource into D2L. Please note that to use the book&#x27;s highlighting and note-taking feature in D2L, you and your students will need to be logged into your individual OpenStax accounts on openstax.org.</p><p data-block-key=\"eebq3\"></p><p data-block-key=\"hmqxo\"><a href=\"https://help.openstax.org/s/article/How-to-import-the-D2L-Course-Cartridge\">Instructions</a> for importing the D2L Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/D2LExport_13658_Sociology_3e_20219148.zip",
+            "link_document_title": "D2LExport_Sociology3e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3700,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/introduction-sociology-3e.zip",
+            "link_document_title": "introduction-sociology-3e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2021-06-03",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Tonja R. Conerly",
+                "university": "San Jacinto College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "7dec4f4f-4f83-49c5-bf54-75deb6de30ac"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kathleen Holmes",
+                "university": "Northern Essex Community College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "62608648-ed46-409d-a66a-cb2527d05fee"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Asha Lal Tamang",
+                "university": "Minneapolis Community and Technical College & North Hennepin Community College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "c8443e7b-e7fa-4eb2-b2ba-350615296cef"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jennifer Hensley",
+                "university": "Vincennes University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a355830b-15b1-44cc-8952-463dfaf89693"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jennifer L. Trost",
+                "university": "University of St. Thomas",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "5d4ddc30-61e0-435e-b1fb-e2cd24ec526e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Pamela Alcasey",
+                "university": "Central Texas College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "1ecf4764-4ead-454f-b914-3b6a099aa30e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kate McGonigal",
+                "university": "Fort Hays State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d72bbe39-e0d1-4578-a1f9-82c662d3fdb4"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Heather Griffiths",
+                "university": "Fayetteville State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a280c222-ead7-4294-885d-8763e409a00a"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Nathan Keirns",
+                "university": "Zane State College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "96edd0ce-452f-4f6f-bb2a-e2fe445a30fb"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Eric Strayer",
+                "university": "Hartnell College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "1377e544-86eb-4b66-b232-bd550992d347"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Tommy Sadler",
+                "university": "Union University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0e0cc835-63ec-460f-9100-2b5ae6cc7a38"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Susan Cody-Rydzewski",
+                "university": "Georgia Perimeter College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "28fdff94-2cd8-4c41-bf32-f88fa95544e5"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Gail Scaramuzzo",
+                "university": "Lackawanna College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "ef0beb13-d1f6-496a-8a5f-2528133fd8ea"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sally Vyain",
+                "university": "Ivy Tech Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f241373f-bd23-4dd4-a286-8fa9b9b5105d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jeff Bry",
+                "university": "Minnesota State Community and Technical College at Moorhead",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "057c9a07-87e6-4628-b403-aac234c51113"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Faye Jones",
+                "university": "Mississippi Gulf Coast Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f1c53fb3-b8dd-4857-9c0b-be0aeb757f37"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-711493-98-5",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-711493-97-8",
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-1-951693-36-7",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "Attribution 4.0 International (CC BY 4.0)",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/IntroductiontoSociology3e-WEB_9QTqRGQ.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "2c71fc3a-03fe-49d2-a85d-989ff5464b96"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "39108e67-9d5b-40c6-945b-eb22f0058ddc"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": null,
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-introduction-to-sociology-2e/1056/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our sociology book. Find resources and submit your own.",
+    "community_resource_feature_text": "",
+    "webinar_content": [],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/746f171e-0d6a-4ef2-b69d-367880872f4a",
+    "webview_rex_link": "https://openstax.org/books/introduction-sociology-3e/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": false,
+    "bookshare_link": "https://www.bookshare.org/browse/book/4778404",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "link",
+            "value": "",
+            "id": "6060fb2d-dfd8-4b1b-b2ee-32ad0e9916d2"
+        }
+    ],
+    "comp_copy_available": true,
+    "comp_copy_content": [],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": true,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": null,
+    "last_updated_pdf": null,
+    "featured_resources_header": "Resources for taking your course online",
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

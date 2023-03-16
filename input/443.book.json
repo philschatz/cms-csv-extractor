@@ -1,0 +1,363 @@
+{
+    "id": 443,
+    "meta": {
+        "slug": "college-algebra-corequisite-support",
+        "seo_title": "",
+        "search_description": "College Algebra with Corequisite Support integrates algebraic principles with foundational review and includes worked examples and guided practice.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/443/",
+        "html_url": "https://openstax.org/details/books/college-algebra-corequisite-support",
+        "show_in_menus": false,
+        "first_published_at": "2020-07-21T15:04:47.336104-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "College Algebra with Corequisite Support",
+    "created": "2020-07-21T14:52:19.640000-05:00",
+    "updated": null,
+    "book_state": "retired",
+    "cnx_id": "507feb1e-cfff-4b54-bc07-d52636cecfe3",
+    "salesforce_abbreviation": "College Algebra with Corequisite Support",
+    "salesforce_name": "College Algebra with Corequisite Support",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 222,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Math",
+            "subject_page_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p data-block-key=\"pq7d4\"><i>College Algebra with Corequisite Support</i> integrates comprehensive algebraic principles with effective foundational review. Each textbook section is paired with a thoughtfully developed, topically aligned skills module that prepares students for the course material. The modules include conceptual overviews, worked examples, and guided practice; they incorporate relevant material from OpenStax’s Developmental Math series.</p><p data-block-key=\"5de68\">To offer the most flexibility as possible, the material within <i>College Algebra with Corequisite Support</i> will be available in several formats. The skills modules can be downloaded and/or printed for use in classes, workshops, or tutoring sessions, and will be provided as both Word and PDF files.</p><p data-block-key=\"5spc3\">We have posted draft, not final, content. All draft content is subject to peer review, editorial changes, and correction. Page numbers, as well as numbering on figures, equations, examples, footnotes, etc. may not be accurate or final. Links may be missing or non-functional.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/college_algebra__with_corequisite_support_web_card.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/college_algebra_with_corequisite_support.svg",
+    "cover_color": "yellow",
+    "book_cover_text_color": "light_blue",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1147,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1148,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1149,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1150,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Corequisite Skillsheets",
+            "resource_description": "<p data-block-key=\"ssx7l\">These downloadable versions of the individual Corequisite sections allow students and instructors to use them flexibly and collaboratively. Each file is numbered according to its corresponding textbook section.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Corequisite_Skillsheets_qyAJF7b.zip",
+            "link_document_title": "Corequisite Skillsheets",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3305,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3306,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Corequisite Skillsheets",
+            "resource_description": "<p>These downloadable versions of the individual Corequisite sections allow students and instructors to use them flexibly and collaboratively. Each file is numbered according to its corresponding textbook section.</p>",
+            "resource_unlocked": true,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Corequisite_Skillsheets.zip",
+            "link_document_title": "Corequisite Skillsheets",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3307,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Solutions for Corequisite Skills Sections",
+            "resource_description": "<p data-block-key=\"c5o32\">The instructor solutions contain the the instructor-facing answers to Practice problems and Try Its within the Corequsite Skills sections that begin nearly every section of College Algebra with Corequisite Support. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Corequisite_Skills_Solutions.zip",
+            "link_document_title": "Corequisite Skills Solutions",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3308,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2020-09-23",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Jay Abramson",
+                "university": "Arizona State University",
+                "country": "United States",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "a5e90a15-bdb3-4734-bcc5-7c1c80b8f480"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sharon North",
+                "university": "St. Louis Community College",
+                "country": "United States",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "2cb05010-eac0-4b01-9d84-f249dca38945"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-975076-57-3",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-975076-56-6",
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-1-951693-27-5",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "Attribution 4.0 International (CC BY 4.0)",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/CollegeAlgCoreq-WEB.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "ac0ad427-6174-4616-a312-bb9bd095c557"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "5761ed73-6b1e-4e5e-b166-de5d6b5e206d"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-college-algebra/1046/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our books. Submit a resource to help us get started!",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "c931be14-e9d8-4e44-8dd3-142a0a71b68d"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "72a1d71e-3554-4458-8abd-ba2a2296f24d"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/507feb1e-cfff-4b54-bc07-d52636cecfe3",
+    "webview_rex_link": "https://openstax.org/books/college-algebra-corequisite-support/pages/1-introduction-to-prerequisites",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [],
+    "comp_copy_available": false,
+    "comp_copy_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 7,
+                "heading": "iBooks comp copy request",
+                "content": "",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "63005ad1-7c5e-4561-a8e8-9c2a4a0c8b93"
+        }
+    ],
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": null,
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": 28,
+    "savings": 399623
+}

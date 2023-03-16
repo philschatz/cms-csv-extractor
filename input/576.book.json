@@ -1,0 +1,646 @@
+{
+    "id": 576,
+    "meta": {
+        "slug": "astronomy-2e",
+        "seo_title": "Free Astronomy Book for Download",
+        "search_description": "",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/576/",
+        "html_url": "https://openstax.org/details/books/astronomy-2e",
+        "show_in_menus": false,
+        "first_published_at": "2022-02-18T11:36:04.150000-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Astronomy 2e",
+    "created": "2022-02-18T11:42:49.296000-06:00",
+    "updated": "2023-01-23T15:39:00-06:00",
+    "book_state": "live",
+    "cnx_id": "4c29f9e5-a53d-42c0-bdb5-091990527d79",
+    "salesforce_abbreviation": "Astronomy",
+    "salesforce_name": "Astronomy",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 269,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Science",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 37,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Science",
+            "subject_category": "Astronomy"
+        }
+    ],
+    "k12book_subjects": [
+        {
+            "id": 22,
+            "meta": {
+                "type": "books.K12BookSubjects"
+            },
+            "subject_name": "Astronomy",
+            "subject_category": "Science"
+        }
+    ],
+    "is_ap": false,
+    "description": "<p data-block-key=\"kvatc\">Designed to meet the scope and sequence of your course, <i>Astronomy 2e</i> is written in clear non-technical language, with the occasional touch of humor and a wide range of clarifying illustrations. It has many analogies drawn from everyday life to help non-science majors appreciate, on their own terms, what our modern exploration of the universe is revealing. The book can be used for either a one-semester or two-semester introductory course.</p><p data-block-key=\"8r5ii\">The second edition has been updated according to new exploration and discoveries. The second edition also includes a significant amount of new art and images. The first edition of <i>Astronomy</i> by OpenStax is available in web view <a href=\"https://openstax.org/books/astronomy/pages/1-introduction\">here</a>.</p><p data-block-key=\"2hgmc\">If you have encountered a white screen while accessing your OpenStax textbook, our developers suggest closing all of your <a href=\"http://openstax.org/\">OpenStax.org</a> tabs and then loading the book again.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/astronomy_2e_webcard.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/astronomy_2e_title.svg",
+    "cover_color": "light-blue",
+    "book_cover_text_color": "white_blue",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1279,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1280,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Brief Astronomy Videos",
+            "resource_description": "<p data-block-key=\"cpy8r\">Compiled by senior author Andrew Fraknoi, this resource includes a list of short videos (15 minutes or less) that can be used in introductory astronomy courses. It is organized by the chapter topics in the OpenStax Astronomy textbook.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Brief_Astronomy_Videos.pdf",
+            "link_document_title": "Brief Astronomy Videos",
+            "link_text": "Download",
+            "coming_soon_text": "Coming Soon!",
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1281,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1282,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3620,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3621,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3622,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"c9ta8\">Let us make lectures a little easier for you. We’ve got PowerPoint slides with all the images from the book, organized by chapter.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/PowerPoint_Slides-Astronomy_2e_Q3h3f9K.zip",
+            "link_document_title": "Astronomy 2e Powerpoints",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3623,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Answer Guide",
+            "resource_description": "<p data-block-key=\"pwp3a\">Get detailed solutions to all the end-of-chapter questions in your OpenStax book. No students allowed!<br/></p><p data-block-key=\"d86hg\"><br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Instructor_Answer_Guide-Astronomy_3e.zip",
+            "link_document_title": "Astronomy 2e Instructor Answer Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3624,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Sample Syllabus Language",
+            "resource_description": "<p data-block-key=\"ddzyk\">You can opt to use this sample language in your syllabus to direct students to their FREE OpenStax textbook!</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Sample_Syllabus_Text_Astronomy_2e.txt",
+            "link_document_title": "Sample Syllabus Language - Astronomy 2e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3625,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Astronomy Course Sequence Options",
+            "resource_description": "<p data-block-key=\"uvs8s\"></p><p data-block-key=\"1is3m\"></p><p data-block-key=\"od68x\"></p><p data-block-key=\"zdr8v\"></p><p data-block-key=\"v35mo\">This guide contains several sample course outlines for Astronomy courses of different length and orientation. </p><p data-block-key=\"ky1de\"></p><p data-block-key=\"ee4ul\"></p><p data-block-key=\"4xlz7\"></p><p data-block-key=\"6pez9\"></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/astronomy_sample_course_outlines.pdf",
+            "link_document_title": "Astronomy Course Sequence Options",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3626,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Canvas Course Cartridge",
+            "resource_description": "<p data-block-key=\"9curp\">The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system. Download this course file and read the attached help article to import this resource into Canvas.</p><p data-block-key=\"3r6s2\"><a href=\"https://help.openstax.org/s/article/Importing-Canvas-Cartridges\">Instructions</a> for importing the Canvas Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/openstax-astronomy-2e-export.imscc",
+            "link_document_title": "openstax-astronomy-2e-export",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3627,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Multiple Choice Test Bank",
+            "resource_description": "<p data-block-key=\"8yg7z\">Developed by <i>Astronomy</i>’s lead author Andrew Fraknoi, these multiple choice questions go beyond fact memorization by encouraging students to apply their understanding of the material. The questions for each chapter are arranged by section and an answer key is provided.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Astronomy2e_MultipleChoiceTestBank.zip",
+            "link_document_title": "Astronomy2e_MultipleChoiceTestBank",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3628,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Blackboard Course Package",
+            "resource_description": "<p data-block-key=\"eyg89\">San Jacinto College created a course package for this title to integrate your OpenStax books into the Blackboard learning management system. Download this file and work with your campus Blackboard administrator to add to your course.</p><p data-block-key=\"910lm\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Ultra-Course-Package\">Instructions</a> for using the package with Blackboard Ultra</p><p data-block-key=\"4r5qs\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Learn-Course-Package\">Instructions</a> for using the package with Blackboard Learn</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "http://openstax.org",
+            "link_page": null,
+            "link_text": "Download",
+            "coming_soon_text": "Coming Soon!",
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3630,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Video Guide",
+            "resource_description": "<p data-block-key=\"uu8dq\">This Video Guide is a collection of videos recommended by instructors and grouped topically by OpenStax textbook chapters.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "http://openstax.org",
+            "link_page": null,
+            "link_text": "Download",
+            "coming_soon_text": "Coming Soon!",
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3631,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "D2L Course Cartridge",
+            "resource_description": "<p data-block-key=\"hri6m\">Minnesota State University, Mankato created a course cartridge for this title to integrate your OpenStax book into the D2L learning management system. Download this file and read the attached help article to import this resource into D2L. Please note that to use the book&#x27;s highlighting and note-taking feature in D2L, you and your students will need to be logged into your individual OpenStax accounts on openstax.org.</p><p data-block-key=\"eebq3\"></p><p data-block-key=\"hmqxo\"><a href=\"https://help.openstax.org/s/article/How-to-import-the-D2L-Course-Cartridge\">Instructions</a> for importing the D2L Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "http://openstax.org",
+            "link_page": null,
+            "link_text": "Download",
+            "coming_soon_text": "Coming Soon!",
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3652,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Annotated Astronomy Lab Index",
+            "resource_description": "<p data-block-key=\"naw96\">Researched and reviewed by Dr. Andrew Fraknoi, this annotated index includes a wide range of free, online labs appropriate for introductory astronomy courses, The index is aligned to each chapter of the OpenStax Astronomy textbook. The chosen lab activities have been put on line by universities, NASA and NSF sponsored projects, and by instructors who want to share their labs with the astronomy community.  <i>Please note that licensing may vary by lab.</i></p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Lab_Exercises_for_Astro_101_Topical_Listing.pdf",
+            "link_document_title": "Lab Exercises for Astronomy Topical Listing",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3686,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Transition Guide",
+            "resource_description": "<p data-block-key=\"bb5co\">This summary of the key changes from 1e to 2e is designed to assist faculty in using the new edition.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Astronomy.1e.to.2e.Transition.Guide.pdf",
+            "link_document_title": "Astronomy 2e Transition Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3747,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/astronomy-2e.zip",
+            "link_document_title": "Astronomy 2e Book Customization",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2022-03-09",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Andrew Fraknoi",
+                "university": "Fromm Institute, University of San Francisco",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "0c131b23-a8f8-4570-b6a4-0e2b636e47d0"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Morrison",
+                "university": "NASA (Emeritus) and SETI Institute",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "0fbe562f-6ee1-4f08-bffb-1d3fffb2b092"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sidney Wolff",
+                "university": "NOIRLab (Emerita)",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "40396736-f7e0-4cdd-b6eb-b303b876514d"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-711470-57-3",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-711470-56-6",
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-1-951693-50-3",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "Attribution 4.0 International (CC BY 4.0)",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Astronomy-2e-WEB_6qnoaIc.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "e33b3684-b8f6-4efd-9fde-04e94a5312b9"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "f2d4da66-33ae-4213-8d65-65ccf6ae55ad"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-astronomy/1283/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our astronomy book, like the compilation of free lab activities below. Find more resources and submit your own.",
+    "community_resource_feature_link_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Lab_Exercises_for_Astro_101_Topical_Listing.pdf",
+    "community_resource_feature_text": "Compilation of free astronomy lab activities",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "d4de1cff-0966-4d98-aa51-99508a546ac7"
+        },
+        {
+            "type": "link",
+            "value": "https://openstax.org/webinars",
+            "id": "1e3ca207-2622-40a4-8dde-55d808612fa7"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/4c29f9e5-a53d-42c0-bdb5-091990527d79",
+    "webview_rex_link": "https://openstax.org/books/astronomy-2e/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 5,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Order options",
+                "button_url": "https://openstax.org/bookstore-suppliers"
+            },
+            "id": "63c56567-1299-4360-8fd2-6774e304d2aa"
+        },
+        {
+            "type": "link",
+            "value": "",
+            "id": "02a8b259-16fb-46dd-8a87-b539960bdbbf"
+        }
+    ],
+    "comp_copy_available": true,
+    "comp_copy_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 7,
+                "heading": "iBooks comp copy request",
+                "content": "",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "ebc8d986-3b87-4ced-b848-4394a5bf8d4b"
+        }
+    ],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1408,
+        "meta": {
+            "width": 1312,
+            "height": 553,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1408/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/splash.jpg"
+        },
+        "title": "Astronomy splash"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": 1312,
+    "savings": 55643594
+}

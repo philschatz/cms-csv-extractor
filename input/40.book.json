@@ -1,0 +1,537 @@
+{
+    "id": 40,
+    "meta": {
+        "slug": "principles-economics",
+        "seo_title": "",
+        "search_description": "Principles of Economics meets scope and sequence requirements for a two-semester introductory economics course, covering both micro- and macroeconomics.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/40/",
+        "html_url": "https://openstax.org/details/books/principles-economics",
+        "show_in_menus": false,
+        "first_published_at": "2016-03-09T09:55:09.132673-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Principles of Economics",
+    "created": "2016-03-09T09:55:08.756000-06:00",
+    "updated": "2019-10-14T15:43:00-05:00",
+    "book_state": "retired",
+    "cnx_id": "69619d2b-68f0-44b0-b074-a9b2bf90b2c6",
+    "salesforce_abbreviation": "Economics",
+    "salesforce_name": "Principles of Economics",
+    "salesforce_book_id": null,
+    "book_subjects": [],
+    "book_categories": [],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p><i>Principles of Economics</i> covers scope and sequence requirements for a two-semester introductory economics course. The authors take a balanced approach to micro- and macroeconomics, to both Keynesian and classical views, and to the theory and application of economics concepts. The text also includes many current examples, which are handled in a politically equitable way.</p><p><i>Principles of Economics</i> PDF and web view versions have been updated to include current FRED (Federal Reserve Economic) data.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/economics_8mNeBU3.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Head_PrinciplesofEconomics.svg",
+    "cover_color": "gray",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 938,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 943,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 2584,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2585,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"c9ta8\">Let us make lectures a little easier for you. We’ve got PowerPoint slides with all the images from the book, organized by chapter.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Economics-PowerPoints.zip",
+            "link_document_title": "PowerPoint Slides - Principles of Economics",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2586,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Test Bank",
+            "resource_description": "<p data-block-key=\"z3sra\">The test bank contains multiple choice, short answer, and essay questions for each chapter of the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Economics-TestBank.zip",
+            "link_document_title": "Test Bank",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2587,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Solutions Manual",
+            "resource_description": "<p data-block-key=\"v5k04\">The instructor solutions manual contains the instructor-facing answers to the problems and exercises within the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/PrinciplesofEconomics-ISM.pdf",
+            "link_document_title": "Instructor Solution Manual - Economics",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2588,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Sample Syllabus Language",
+            "resource_description": "<p data-block-key=\"ddzyk\">You can opt to use this sample language in your syllabus to direct students to their FREE OpenStax textbook!</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Syllabus_Language_-_Principles_of_Economics_hdRkZYY.txt",
+            "link_document_title": "Syllabus Language - Principles of Economics",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2589,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Supplemental Test Items",
+            "resource_description": "<p data-block-key=\"ehgl3\">These test items are provided by Lumen Learning and fulfill a set of independently developed learning objectives. While OpenStax has correlated the available questions with our textbook, the test bank is not entirely aligned with the book. We recommend instructors review the questions before assigning them.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Supplemental_Test_Items_-_Econ.zip",
+            "link_document_title": "Supplemental Test Items - Economics",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2590,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "aerSelect: Low Cost Custom Digital and Print",
+            "resource_description": "<p data-block-key=\"yzwi9\">This platform allows instructors to create custom versions of OpenStax textbooks to offer through their campus bookstore.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "http://aerselect.com/browse/book_details/id/13",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2591,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Apple iBooks Comp Copy",
+            "resource_description": "<p data-block-key=\"eo161\">We don&#x27;t give out print copies, but instructors can get an enhanced, interactive version of the textbook with an Apple iBooks comp copy.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "http://www.openstax.org/comp-copy",
+            "link_page": null,
+            "link_text": "Request your copy",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2592,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Errata Release Notes",
+            "resource_description": "<p data-block-key=\"uqko0\">Throughout the year, subject matter experts comb through all queries from our readers. These release notes cover the errata updates in our most recent summer PDF release.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Principles_of_Economics_Release_Notes_2016.pdf",
+            "link_document_title": "Principles of Economics Errata Release Notes",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2017-03-19",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Amyaz Moledina",
+                "university": "The College of Wooster",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "f774a533-dfbf-40b2-a18c-43b15e8c429a"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Craig Richardson",
+                "university": "Winston-Salem State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "5e5a31c4-0e2e-4f28-a924-1d49475fcd43"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Shapiro",
+                "university": "Pennsylvania State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "3504b7f6-1d69-40cb-9f4f-9c24dc06027d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ralph Sonenshine",
+                "university": "American University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4bcc679a-36f9-4686-81f1-d566f15a7411"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Steven A. Greenlaw",
+                "university": "University of Mary Washington",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "01aaea6d-c1ae-49a2-9301-6f2df40cc11e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Timothy Taylor",
+                "university": "Macalester College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "ca057fdc-de63-45bd-b5ed-7558b2e857be"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Eric Dodge",
+                "university": "Hanover College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "e2fbf40e-fb06-42d2-8118-f2938f8c9fa5"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Cynthia Gamez",
+                "university": "University of Texas at El Paso",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "9e8f4ad3-236a-4e43-a271-4f8e314232fa"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Andres Jauregui",
+                "university": "Columbus State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "2a736c8e-ead6-4fc9-8be7-e768c6c2d2c6"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Diane Keenan",
+                "university": "Cerritos College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "31b13386-75d2-4a92-8b3c-b93a781dbd1b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Dan MacDonald",
+                "university": "California State University San Bernardino",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "647645f6-3a89-4897-8934-081953be23b8"
+        }
+    ],
+    "print_isbn_10": "1938168232",
+    "print_isbn_13": "978-1-938168-23-9",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": null,
+    "digital_isbn_10": "1-947172-28-X",
+    "digital_isbn_13": "978-1-947172-28-9",
+    "ibook_isbn_10": "1-938168-33-X",
+    "ibook_isbn_13": "978-1-938168-33-8",
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/PrinciplesofEconomics-OP.pdf",
+    "low_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/PrinciplesofEconomics-LR.pdf",
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "5cd08f25-3618-428c-a4cf-c234a24f09e0"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "bdf6bcd0-b514-4c56-ba57-eba5866e4fea"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-principles-of-economics/1057/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with Principles of Economics, like the video assignment below. Find more resources, and submit your own.",
+    "community_resource_feature_link_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Video_Assignment_Perfect_Competition.pdf",
+    "community_resource_feature_text": "Video assignment - perfect competition",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "60fbd148-bfc3-44f2-b224-dcb9ce7774e7"
+        },
+        {
+            "type": "link",
+            "value": "https://openstax.org/blog/news/upcoming-openstax-webinars",
+            "id": "432fd15b-661c-4762-84a5-310cbe27001f"
+        }
+    ],
+    "ibook_link": "https://itunes.apple.com/us/book/principles-of-economics/id931515744",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/69619d2b-68f0-44b0-b074-a9b2bf90b2c6",
+    "webview_rex_link": "",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": null,
+    "enable_study_edge": false,
+    "bookshare_link": "https://www.bookshare.org/browse/book/891513",
+    "amazon_coming_soon": false,
+    "amazon_link": "https://www.amazon.com/Principles-Economics-OpenStax/dp/1506698131",
+    "kindle_link": "https://www.amazon.com/Principles-Economics-Timothy-Taylor-ebook/dp/B075FFN81R/ref=sr_1_21_twi_kin_1?s=books&ie=UTF8&qid=1508964001&sr=1-21&keywords=OpenStax",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 5,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Order options",
+                "button_url": "https://openstax.org/bookstore-suppliers"
+            },
+            "id": "ce4405a7-eb31-4614-94f0-1b16c6bb8fad"
+        },
+        {
+            "type": "link",
+            "value": "http://www.goindico.com/programs",
+            "id": "a99e2001-eb1a-49a1-83b9-c65fbb090f21"
+        }
+    ],
+    "comp_copy_available": true,
+    "comp_copy_content": [
+        {
+            "type": "link_text",
+            "value": "iBooks comp copy request",
+            "id": "2d1b8200-c8bb-4254-8ecf-dddd5eff98cb"
+        }
+    ],
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": null,
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

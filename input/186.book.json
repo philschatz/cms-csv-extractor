@@ -1,0 +1,649 @@
+{
+    "id": 186,
+    "meta": {
+        "slug": "principles-macroeconomics-ap-courses-2e",
+        "seo_title": "Free AP Macroeconomics Textbook for Download",
+        "search_description": "Study AP Macroeconomics online free by downloading OpenStax's AP Macroecnomics textbook and using our accompanying AP Macroeconomics study guide.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/186/",
+        "html_url": "https://openstax.org/details/books/principles-macroeconomics-ap-courses-2e",
+        "show_in_menus": false,
+        "first_published_at": "2017-11-29T11:53:53.654175-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Principles of Macroeconomics for AP® Courses 2e",
+    "created": "2017-11-28T14:00:00.348000-06:00",
+    "updated": "2021-07-27T14:35:00-05:00",
+    "book_state": "new_edition_available",
+    "cnx_id": "9117cf8c-a8a3-4875-8361-9cb0f1fc9362",
+    "salesforce_abbreviation": "AP Macro Econ",
+    "salesforce_name": "Principles of Macroeconomics for AP Courses 2e",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 170,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Social Sciences",
+            "subject_page_content": "",
+            "subject_search_description": null
+        },
+        {
+            "id": 171,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "K12",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 61,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Social Sciences",
+            "subject_category": "Economics"
+        },
+        {
+            "id": 89,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "K12",
+            "subject_category": "Economics"
+        }
+    ],
+    "k12book_subjects": [],
+    "is_ap": true,
+    "description": "<p data-block-key=\"8ch5a\"><i>Principles of Macroeconomics for AP</i><i><sup>®</sup></i><i> Courses 2e</i> covers the scope and sequence requirements for an Advanced Placement<sup>®</sup> macroeconomics course and is listed on the <a href=\"https://cb.collegeboard.org/ap-course-audit/courses/macroeconomics_textbook_list.html\">College Board’s AP® example textbook list</a>. The second edition includes many current examples and recent data from FRED (Federal Reserve Economic Data), which are presented in a politically equitable way. The outcome is a balanced approach to the theory and application of economics concepts.</p><p data-block-key=\"ejoau\"><br/>The second edition was developed with significant feedback from current users. In nearly all chapters, it follows the same basic structure of the first edition. General descriptions of the edits are provided in the preface, and a chapter-by-chapter transition guide is available for instructors. The first edition of <i>Principles of Macroeconomics for AP</i><i><sup>®</sup></i><i> Courses</i> by OpenStax is available in web view <a href=\"https://openstax.org/books/principles-macroeconomics-ap-courses/pages/1-introduction\">here</a>.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/APMacroeconomics2e-bookcard.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Head_PrinciplesMacroeconomics2eAP.svg",
+    "cover_color": "green",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 954,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 955,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 956,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 983,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Key Terms Quizlet",
+            "resource_description": "<p data-block-key=\"j0nug\">Practice key terms for each chapter using a curated set of flashcards on Quizlet&#x27;s platform.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "https://quizlet.com/OER_Curation/folders/openstax-ap-macroeconomics-2e-key-terms?x=1xqt&i=2u9kpi",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 2617,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide.pdf",
+            "link_document_title": "OpenStax AP® Instructor Getting Started Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2618,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Transition Guide",
+            "resource_description": "<p data-block-key=\"bb5co\">This summary of the key changes from 1e to 2e is designed to assist faculty in using the new edition.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/APMacroeconomics2e-TransitionGuide.pdf",
+            "link_document_title": "APMicroeconomics2e-TransitionGuide.pdf",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2619,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Sample Syllabus Language",
+            "resource_description": "<p data-block-key=\"ddzyk\">You can opt to use this sample language in your syllabus to direct students to their FREE OpenStax textbook!</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Syllabus_Language_-_Principles_of_Macroeconomics_for_AP_Courses_2e.txt",
+            "link_document_title": "Syllabus Language - Principles of Macroeconomics for AP Courses 2e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2620,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Test Bank",
+            "resource_description": "<p data-block-key=\"z3sra\">The test bank contains multiple choice, short answer, and essay questions for each chapter of the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/APMacroEconomics2e-TestBank.zip",
+            "link_document_title": "APMacroEconomics-TestBank",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2621,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Answer Guide",
+            "resource_description": "<p data-block-key=\"pwp3a\">Get detailed solutions to all the end-of-chapter questions in your OpenStax book. No students allowed!<br/></p><p data-block-key=\"d86hg\"><br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/APMacroeconomics2e-IASG.zip",
+            "link_document_title": "APMacroeconomics2e-IASG.docx",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2622,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2623,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Blackboard Course Package",
+            "resource_description": "<p data-block-key=\"eyg89\">San Jacinto College created a course package for this title to integrate your OpenStax books into the Blackboard learning management system. Download this file and work with your campus Blackboard administrator to add to your course.</p><p data-block-key=\"910lm\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Ultra-Course-Package\">Instructions</a> for using the package with Blackboard Ultra</p><p data-block-key=\"4r5qs\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Learn-Course-Package\">Instructions</a> for using the package with Blackboard Learn</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/ExportFile_OpenStax_Principles_of_Macroeconomics_for_AP_Courses_2e.zip",
+            "link_document_title": "Blackboard Course Cartridge - AP Macroeconomics",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2624,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Canvas Course Cartridge",
+            "resource_description": "<p data-block-key=\"9curp\">The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system. Download this course file and read the attached help article to import this resource into Canvas.</p><p data-block-key=\"3r6s2\"><a href=\"https://help.openstax.org/s/article/Importing-Canvas-Cartridges\">Instructions</a> for importing the Canvas Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Canvas_AP_Macroeconomics_2e.zip",
+            "link_document_title": "Canvas_AP Macroeconomics 2e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2625,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "OpenStax Crosswalk",
+            "resource_description": "<p data-block-key=\"69dmj\">Click here for a document that aligns the topics from the College Board&#x27;s Course and Exam Description with the OpenStax textbook.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_MACRO_for_AP_Courses_Crosswalk.pdf",
+            "link_document_title": "AP Macroeconomics Crosswalk",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2756,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Enhanced Lecture PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"t0jmm\">These lecture slides include selected graphics from the text, key concepts and definitions, examples, and discussion questions.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/EnhancedPowerPoints_8qO2zYn.zip",
+            "link_document_title": "AP_Macroeconomics2e_Enhanced_PowerPoints",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3793,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/ap-macroeconomics-2e-docx.zip",
+            "link_document_title": "ap-macroeconomics-2e-docx",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2017-11-29",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Craig Richardson",
+                "university": "Winston-Salem State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4b3a0c49-7ce4-4466-8e2a-ea26803419ce"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Ralph Sonenshine",
+                "university": "American University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "db0bbee6-1fee-47b1-8e10-8f20b595dce1"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Amyaz Moledina",
+                "university": "The College of Wooster",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "97f47ade-16b6-4fd3-84fe-60cec2d473b5"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Steven A. Greenlaw",
+                "university": "University of Mary Washington",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "73d052a7-fea7-4fd0-92f8-3efe3ca75203"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Shapiro",
+                "university": "Pennsylvania State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "6307e2ad-ea86-4320-a53c-5d9fd5d785d6"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Eric Dodge",
+                "university": "Hanover College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "5083a4b2-4e34-477a-904c-f65082fc7141"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Cynthia Gamez",
+                "university": "University of Texas at El Paso",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c2fa8a6a-947b-44cd-b6c0-aeb7e9f63b78"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Andres Jauregui",
+                "university": "Columbus State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4e04c2d6-4894-4b3d-a952-284a33aaa6ad"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Diane Keenan",
+                "university": "Cerritos College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "3ce374b1-f3d6-44fe-bf5f-eaba1ea93df9"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Dan MacDonald",
+                "university": "California State University, San Bernardino",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "97872f5c-bf65-4cf8-a668-e9227e6a321e"
+        }
+    ],
+    "print_isbn_10": "1-947172-42-5",
+    "print_isbn_13": "978-1-947172-42-5",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": null,
+    "digital_isbn_10": "1-947172-43-3",
+    "digital_isbn_13": "978-1-947172-43-2",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/APMacroeconomics2e-OP_7sE2Bz3.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "72d7609a-f8f2-4f9a-a158-280d249a2941"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "bbfb5454-4d33-424f-8ee2-2f5038ef3c84"
+        }
+    ],
+    "community_resource_heading": "OpenStax Community Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-principles-of-macroeconomics-for-ap-cours/1061/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with Principles of Macroeconomics for AP® Courses. Submit a resource to help us get started!",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "c7934c12-d195-4727-8a47-c3e14c27ca78"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "1bfd4f7e-dd80-4aa5-ba0e-b256c5fcf8a5"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/9117cf8c-a8a3-4875-8361-9cb0f1fc9362",
+    "webview_rex_link": "https://openstax.org/books/principles-macroeconomics-ap-courses-2e/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": true,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "https://www.amazon.com/Principles-Macroeconomics-Courses-OpenStax-paperback/dp/1593998813",
+    "kindle_link": "https://amzn.to/3bFwFr5",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "f83824d8-6e72-4509-9436-83be54fce4fd"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "cd567111-6221-4f87-a766-827cab97d756"
+        }
+    ],
+    "comp_copy_available": false,
+    "comp_copy_content": [],
+    "errata_content": "This book is scheduled for a new edition. Errata reports will be evaluated for implementation in the new edition. Click the \"Sign up to learn more\" link on your book's page to be notified of the upcoming edition and other news.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": null,
+    "last_updated_pdf": null,
+    "featured_resources_header": "Resources for taking your course online",
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

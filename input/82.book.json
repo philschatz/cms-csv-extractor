@@ -1,0 +1,829 @@
+{
+    "id": 82,
+    "meta": {
+        "slug": "university-physics-volume-1",
+        "seo_title": "Free University Physics Volume 1 Book for Download",
+        "search_description": "Study conceptual physics online free by downloading OpenStax's University Physics Volume 1 textbook and using our accompanying online resources.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/82/",
+        "html_url": "https://openstax.org/details/books/university-physics-volume-1",
+        "show_in_menus": false,
+        "first_published_at": "2016-04-22T12:13:54.743756-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "University Physics Volume 1",
+    "created": "2016-04-22T12:13:50.442000-05:00",
+    "updated": "2023-02-09T09:26:00-06:00",
+    "book_state": "live",
+    "cnx_id": "d50f6e32-0fda-46ef-a362-9bd36ca7c97d",
+    "salesforce_abbreviation": "University Physics (Calc)",
+    "salesforce_name": "University Physics",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 246,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Science",
+            "subject_page_content": "",
+            "subject_search_description": null
+        },
+        {
+            "id": 247,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Science",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 47,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Science",
+            "subject_category": "Physics"
+        }
+    ],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p data-block-key=\"ae4j7\"><i>University Physics</i> is a three-volume collection that meets the scope and sequence requirements for two- and three-semester calculus-based physics courses. <i>Volume 1</i> covers mechanics, sound, oscillations, and waves. <a href=\"https://openstax.org/details/books/university-physics-volume-2\"><i>Volume 2</i></a> covers thermodynamics, electricity and magnetism, and <a href=\"https://openstax.org/details/books/university-physics-volume-3\"><i>Volume 3</i></a> covers optics and modern physics. This textbook emphasizes connections between theory and application, making physics concepts interesting and accessible to students while maintaining the mathematical rigor inherent in the subject. Frequent, strong examples focus on how to approach a problem, how to work with the equations, and how to check and generalize the result.<br/></p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/university_physics-v1.png",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Head_UniversityPhysicsV1_2.svg",
+    "cover_color": "green",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1242,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1243,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Solution Guide",
+            "resource_description": "<p data-block-key=\"krk29\">Need help studying? Access detailed solutions to problems and exercises in your OpenStax book.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/UPhysics1_SSG_cVl2pPK.zip",
+            "link_document_title": "UPhysics1_SSG",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1244,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Expert TA Study",
+            "resource_description": "<p data-block-key=\"m1v9s\">Practice Physics with Expert TA Study. Build and take assignments using expertly-vetted problems, equipped with hints and intuitive feedback. Study for exams, or get extra practice outside of class.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "https://theexpertta.com/",
+            "link_page": null,
+            "link_text": "Explore",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1245,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 1246,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3547,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3548,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"c9ta8\">Let us make lectures a little easier for you. We’ve got PowerPoint slides with all the images from the book, organized by chapter.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/UPhysics1_PowerPoint-Slides.zip",
+            "link_document_title": "UPhysics1_PowerPoint-Slides",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3549,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Solution Guide",
+            "resource_description": "<p data-block-key=\"slgbf\"><br/>The instructor solutions guide contains the instructor-facing answers to the problems and exercises within the textbook.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/UPhysics1_ISG_6E5covX.zip",
+            "link_document_title": "UPhysics1_ISG",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3550,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Sample Syllabus Language",
+            "resource_description": "<p data-block-key=\"ddzyk\">You can opt to use this sample language in your syllabus to direct students to their FREE OpenStax textbook!</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Syllabus_Language_-_University_Physics_Volume_1_eXS64rN.txt",
+            "link_document_title": "Syllabus Language - University Physics Volume 1",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3551,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Canvas Course Cartridge",
+            "resource_description": "<p data-block-key=\"9curp\">The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system. Download this course file and read the attached help article to import this resource into Canvas.</p><p data-block-key=\"3r6s2\"><a href=\"https://help.openstax.org/s/article/Importing-Canvas-Cartridges\">Instructions</a> for importing the Canvas Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Canvas_University_Physics_Vol_1.zip",
+            "link_document_title": "Canvas_University Physics Vol 1",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3553,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Errata Release Notes",
+            "resource_description": "<p data-block-key=\"uqko0\">Throughout the year, subject matter experts comb through all queries from our readers. These release notes cover the errata updates in our most recent summer PDF release.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/University_Physics_Volume_1_Errata_Release_Notes_2021.pdf",
+            "link_document_title": "University Physics Volume 1 Errata Release Notes",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3554,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3555,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Blackboard Course Package",
+            "resource_description": "<p data-block-key=\"eyg89\">San Jacinto College created a course package for this title to integrate your OpenStax books into the Blackboard learning management system. Download this file and work with your campus Blackboard administrator to add to your course.</p><p data-block-key=\"910lm\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Ultra-Course-Package\">Instructions</a> for using the package with Blackboard Ultra</p><p data-block-key=\"4r5qs\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Learn-Course-Package\">Instructions</a> for using the package with Blackboard Learn</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/ExportFile_OpenStax_UnivPhysicsVol1_1e_20200322123330.zip",
+            "link_document_title": "Blackboard Course Cartridge - University Physics Volume 1",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3556,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Concept Trailers",
+            "resource_description": "<p data-block-key=\"sy5v8\">Bring key physics concepts to life with these professionally-produced, free 1-1.5 minute videos.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "https://www.youtube.com/playlist?list=PLCF-Lie6gOOTx_CUIBUUXkhH2ezY8zcJB&spfreload=10",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3557,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Physics Concept Trailer Instructor Notes",
+            "resource_description": "<p>These teaching notes support implementation of the OpenStax Physics  Concept Trailers. The notes contain tips for usage, clarifications of  coverage, and guidance on how to use the trailers in different  educational situations.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Concept_Trailer_Instructors_Notes.docx",
+            "link_document_title": "OpenStax Concept Trailer Instructors' Notes",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3719,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/uphysics-1-docx.zip",
+            "link_document_title": "uphysics-1-docx",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3558,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "D2L Course Cartridge",
+            "resource_description": "<p data-block-key=\"hri6m\">Minnesota State University, Mankato created a course cartridge for this title to integrate your OpenStax book into the D2L learning management system. Download this file and read the attached help article to import this resource into D2L. Please note that to use the book&#x27;s highlighting and note-taking feature in D2L, you and your students will need to be logged into your individual OpenStax accounts on openstax.org.</p><p data-block-key=\"eebq3\"></p><p data-block-key=\"hmqxo\"><a href=\"https://help.openstax.org/s/article/How-to-import-the-D2L-Course-Cartridge\">Instructions</a> for importing the D2L Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/D2LExport_University_Physics_Vol_1.zip",
+            "link_document_title": "University Physics Vol 1 D2L Course Cartridge",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2016-09-19",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Stephen D. Druger",
+                "university": "Northwestern University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "ce000c33-bb05-44aa-b16d-567990f0eb1b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "William Moebs",
+                "university": "Formerly of Loyola Marymount University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "300a35d4-26b9-459f-9205-b5003b6c80bb"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Samuel J. Ling",
+                "university": "Truman State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "8f957e32-74a5-4283-a373-7cf82517a2c2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jeff Sanny",
+                "university": "Loyola Marymount University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "a359d973-66c0-419e-ac0e-b951922f8d57"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Anderson",
+                "university": "Albion College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "9f247475-f51f-4441-bdc2-b13b7b5bf3d8"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Daniel Bowman",
+                "university": "Ferrum College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d87b6376-2856-4164-9a2d-fb9dabe5479d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Gerald Friedman",
+                "university": "Santa Fe Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "512c873c-e8b4-44be-b708-208b64a8c337"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Edw. S. Ginsberg",
+                "university": "University of Massachusetts",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "2c5c45a3-7d94-482b-aba1-db0a3768f359"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kenneth Podolak",
+                "university": "Plattsburgh State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "775123ff-ebd7-4b7c-9da9-0e74cfc63bc3"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Takashi Sato",
+                "university": "Kwantlen Polytechnic University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "bada7c64-7ffa-46ab-ab80-64f42e87b386"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Smith",
+                "university": "University of the Virgin Islands",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "643c6860-5f68-45cb-8d31-154af461e851"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Joseph Trout",
+                "university": "Richard Stockton College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8463914b-14f2-4225-9dab-55b0c5f83d45"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Kevin Wheelock",
+                "university": "Bellevue College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "ca9aee79-5940-4878-8e08-b4e9e0543066"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Dedra Demaree",
+                "university": "Georgetown University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "8d957931-421c-4e36-bc7b-384695545f4b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Richard Ludlow",
+                "university": "Daniel Webster College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "27697ddd-4387-477e-8bd5-ed9b244f341d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Patrick Motl",
+                "university": "Indiana University Kokomo",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "672ffc7d-f686-4da3-ae5c-8af3cf308025"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Lev Gasparov",
+                "university": "University of North Florida",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4dee77f1-cfab-41e6-bc75-c7045f808327"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Lee LaRue",
+                "university": "Paris Junior College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b461d3d9-c5df-4937-949d-7c9bdc3b6068"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Mark Lattery",
+                "university": "University of Wisconsin",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "63d410de-9979-4d45-b308-de4f3d8ec7d3"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Tao Pang",
+                "university": "University of Nevada, Las Vegas",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "33ad8ea0-bd99-4f92-b1d1-b7c6716f3723"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Alice Kolakowska",
+                "university": "University of Memphis",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "1a7423e4-1d5c-47c8-b013-f123131aac5b"
+        }
+    ],
+    "print_isbn_10": "1-938168-27-5",
+    "print_isbn_13": "978-1-938168-27-7",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-50669-817-5",
+    "digital_isbn_10": "1-947172-20-4",
+    "digital_isbn_13": "978-1-947172-20-3",
+    "ibook_isbn_10": "1-947172-15-8",
+    "ibook_isbn_13": "978-1-947172-15-9",
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/UniversityPhysicsVol1-WEB.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "1f0e828f-116d-48d6-8c28-25fee63b45f8"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "2c951f21-0651-43bf-9f1b-625e6a56872a"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-university-physics/1713/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with University Physics. Submit a resource to help us get started!",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "10e0f749-1218-4a9b-8c93-09ddb0ef3c42"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "eb2c9883-5494-4e78-b84a-213bd2e4a652"
+        }
+    ],
+    "ibook_link": "https://itunes.apple.com/us/book/id1229720131",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/d50f6e32-0fda-46ef-a362-9bd36ca7c97d",
+    "webview_rex_link": "https://openstax.org/books/university-physics-volume-1/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": true,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "https://buyprint.openstax.org/university-physics-volume-1",
+    "kindle_link": "https://amzn.to/35Dls6G",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "224c8bac-133c-4377-9928-f6841ec59d6c"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "b5533c6e-e346-4389-994b-d7a10365d03c"
+        }
+    ],
+    "comp_copy_available": true,
+    "comp_copy_content": [
+        {
+            "type": "link_text",
+            "value": "iBooks comp copy request",
+            "id": "fbdfb3a3-ca65-4cf8-928a-856193b53c76"
+        }
+    ],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [
+        {
+            "type": "translation",
+            "value": [
+                {
+                    "locale": "es",
+                    "slug": "física-universitaria-volumen-1"
+                }
+            ],
+            "id": "2d4d75f4-2779-4920-a4c8-f2607c06928d"
+        }
+    ],
+    "promote_image": {
+        "id": 1232,
+        "meta": {
+            "width": 975,
+            "height": 450,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1232/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/Uphysics2_csuT9kR.jpeg"
+        },
+        "title": "Uphysics2.jpeg"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": "Resources for taking your course online",
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

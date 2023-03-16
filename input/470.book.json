@@ -1,0 +1,211 @@
+{
+    "id": 470,
+    "meta": {
+        "slug": "psychologia-polska",
+        "seo_title": "",
+        "search_description": "",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/470/",
+        "html_url": "https://openstax.org/details/books/psychologia-polska",
+        "show_in_menus": false,
+        "first_published_at": "2020-10-21T10:57:08.779853-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Psychologia",
+    "created": "2020-10-21T10:57:08.693000-05:00",
+    "updated": "2020-12-17T10:52:00-06:00",
+    "book_state": "live",
+    "cnx_id": "728df0bb-e07f-489d-91e3-4734a5932f92",
+    "salesforce_abbreviation": null,
+    "salesforce_name": null,
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 250,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Social Sciences",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p data-block-key=\"a4iiv\"></p><p data-block-key=\"v3d15\"><i>Psychologia</i> powstała z myślą o studentach jednosemestralnego kursu wstęp do psychologii. Podręcznik jest obszernym omówieniem wszystkich podstawowych zagadnień w ujęciu klasycznym z uwzględnieniem wiedzy najnowszej. Książka zawiera również opis zaburzeń psychicznych i wprowadza terminologię zgodną z DSM-5 oraz ICD. Wydanie jest polską adaptacją wydania drugiego aktualizowanego <i>Psychology 2e</i> OpenStax.</p><p data-block-key=\"ycjpp\">Publikacja została dostosowana do potrzeb polskich studentów i wymogów na uczelniach w Polsce. Uwzględniona została potrzeba lokalizacji kulturowej. Szersze modyfikacje wprowadzono w rozdziałach „Badania”, „Emocje i motywacje”, „Osobowość” oraz „Psychologia społeczna”, a rozdział poświęcony psychologii pracy i organizacji został stworzony w całości na potrzeby polskiego czytelnika.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/psychologia_web_card_IbdOQGw.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/psychologia_title_card.svg",
+    "cover_color": "deep-green",
+    "book_cover_text_color": "white",
+    "reverse_gradient": false,
+    "book_student_resources": [],
+    "book_faculty_resources": [],
+    "publish_date": "2020-12-17",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Rose M. Spielman",
+                "university": "Formerly of Quinnipiac University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "d71efa13-b4d1-4704-82ff-7015ddcc1158"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "William J. Jenkins",
+                "university": "Mercer University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "5998c796-2917-4b6e-bc6f-c18e72940766"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Marilyn D. Lovett",
+                "university": "Spelman College",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "f7a914ad-d9d5-4b7c-b99d-f216c44ff50f"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Joanna Czarnota-Bojarska",
+                "university": "Uniwersytet Warszawski",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "cde5d5b1-0046-4dee-8891-e3c798eefa7b"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": null,
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": null,
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-83-948838-8-1",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "Attribution 4.0 International (CC BY 4.0)",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Psychologia_OENL2rt.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "7ecb8ed9-e1a1-4131-8026-36109b97a915"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "c49fe690-c068-481e-a35c-19786a47eb12"
+        }
+    ],
+    "community_resource_heading": null,
+    "community_resource_logo_url": null,
+    "community_resource_url": "",
+    "community_resource_cta": null,
+    "community_resource_blurb": "",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "a0dee3d6-b6b0-4388-9306-7a1d069ffa52"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/728df0bb-e07f-489d-91e3-4734a5932f92",
+    "webview_rex_link": "https://openstax.org/books/psychologia-polska/pages/1-wprowadzenie",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": null,
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [],
+    "comp_copy_available": true,
+    "comp_copy_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 7,
+                "heading": "iBooks comp copy request",
+                "content": "",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "bf2daa03-c0cf-4d4c-a7c2-052ad1d07cee"
+        }
+    ],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": null,
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": 7937
+}

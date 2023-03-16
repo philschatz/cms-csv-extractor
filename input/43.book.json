@@ -1,0 +1,657 @@
+{
+    "id": 43,
+    "meta": {
+        "slug": "chemistry",
+        "seo_title": "Free Chemistry Textbook Available for Download",
+        "search_description": "Study general chemistry online free by downloading OpenStax's Chemistry textbook and using our accompanying online resources.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/43/",
+        "html_url": "https://openstax.org/details/books/chemistry",
+        "show_in_menus": false,
+        "first_published_at": "2016-03-09T09:57:39.246931-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Chemistry",
+    "created": "2016-03-09T09:57:38.871000-06:00",
+    "updated": "2019-10-14T15:40:00-05:00",
+    "book_state": "retired",
+    "cnx_id": "85abf193-2bd2-4908-8563-90b8a7ac8df6",
+    "salesforce_abbreviation": "Chemistry",
+    "salesforce_name": "Chemistry",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 161,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Science",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p><i>Chemistry</i> is designed to meet the scope and sequence requirements of the two-semester general chemistry course. The textbook provides an important opportunity for students to learn the core concepts of chemistry and understand how those concepts apply to their lives and the world around them. The book also includes a number of innovative features, including interactive exercises and real-world applications, designed to enhance student learning.<br/></p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/chemistry.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Head_Chemistry.svg",
+    "cover_color": "orange",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 921,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Solution Guide",
+            "resource_description": "<p data-block-key=\"krk29\">Need help studying? Access detailed solutions to problems and exercises in your OpenStax book.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Student_Solution_Manual_1e.zip",
+            "link_document_title": "Chemistry Student Solution Manual",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 922,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 923,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        },
+        {
+            "id": 944,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 2554,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2555,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"c9ta8\">Let us make lectures a little easier for you. We’ve got PowerPoint slides with all the images from the book, organized by chapter.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Openstax_Chemistry_PowerPoints_20160711.zip",
+            "link_document_title": "PowerPoint Slides - Chemistry",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2556,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Chapters 1-6 Enhanced Lecture Slides",
+            "resource_description": "<p data-block-key=\"wdxd5\">These lecture slides include selected graphics from the text, key concepts and definitions, examples, and discussion questions.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Chemistry_PowerPoints_Ch1-5.pptx",
+            "link_document_title": "Chapters 1-5 Enhanced Lecture Slides",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2557,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Solutions Manual",
+            "resource_description": "<p data-block-key=\"v5k04\">The instructor solutions manual contains the instructor-facing answers to the problems and exercises within the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Chemistry_1e_Instructor_Solution_Manual.zip",
+            "link_document_title": "Chemistry 1e Instructor Solution Manual",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2558,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Supplemental Test Items",
+            "resource_description": "<p data-block-key=\"ehgl3\">These test items are provided by Lumen Learning and fulfill a set of independently developed learning objectives. While OpenStax has correlated the available questions with our textbook, the test bank is not entirely aligned with the book. We recommend instructors review the questions before assigning them.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Lumen_Test_Items.zip",
+            "link_document_title": "Lumen Test Items Chemistry 1e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2559,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Sample Syllabus Language",
+            "resource_description": "<p data-block-key=\"ddzyk\">You can opt to use this sample language in your syllabus to direct students to their FREE OpenStax textbook!</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Syllabus_Language_-_Chemistry.txt",
+            "link_document_title": "Sample Syllabus Language - Chemistry",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2560,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Canvas Course Cartridge",
+            "resource_description": "<p data-block-key=\"9curp\">The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system. Download this course file and read the attached help article to import this resource into Canvas.</p><p data-block-key=\"3r6s2\"><a href=\"https://help.openstax.org/s/article/Importing-Canvas-Cartridges\">Instructions</a> for importing the Canvas Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Chemistry-CanvasCourseCatridge.zip",
+            "link_document_title": "Chemistry-CanvasCourseCatridge.zip",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2561,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Errata Release Notes",
+            "resource_description": "<p data-block-key=\"uqko0\">Throughout the year, subject matter experts comb through all queries from our readers. These release notes cover the errata updates in our most recent summer PDF release.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Chemistry_Release_Notes_2017.pdf",
+            "link_document_title": "Chemistry Errata Release Notes",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2015-03-11",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Paul Flowers",
+                "university": "University of North Carolina at Pembroke",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "76a0f0a4-7c82-44a1-b27f-f7f55969a57b"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Don Frantz",
+                "university": "Wilfrid Laurier University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d7f39656-8288-4126-a8e8-fd32bd1b8fc1"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Paul Hooker",
+                "university": "Westminster College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "b100ff89-9ba4-46b1-b774-e49a648dfa47"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "George Kaminski",
+                "university": "Worcester Polytechnic Institute",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "da4ac9a5-a345-46a8-a414-6b8ba54d743e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jennifer Look",
+                "university": "Mercer University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "12cb6d66-0204-41c7-b881-8afe3c89bb68"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Carol Martinez",
+                "university": "Central New Mexico Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c321effb-6ea4-4936-9fdf-4f16b5d2be40"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Andrew Eklund",
+                "university": "Alfred University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "fac6811a-51c8-4c80-9434-7515fa7b80b8"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Tom Sorensen",
+                "university": "University of Wisconsin-Milwaukee",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "3440fb90-09e6-40bb-9811-db6bd652d4cb"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Allison Soult",
+                "university": "University of Kentucky",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "e412a949-cc01-4f14-8007-471bafa03e0e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Troy Milliken",
+                "university": "Jackson State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "7a68ffd8-8e22-4227-91c2-1e2b8232392d"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Vicki Moravec",
+                "university": "Trine University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "5598cfdc-f1cd-42a5-ad90-516008f9a743"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jason Powell",
+                "university": "Ferrum College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "fe7618b2-d1ce-490b-bd13-ca61eca48c06"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Emad El-Giar",
+                "university": "University of Louisiana at Monroe",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "32c1b462-f774-4e54-a74f-85b5bd4fb9b9"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Simon Bott",
+                "university": "University of Houston",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "a7a01239-12f5-4a15-a6aa-0526887b6146"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Don Carpenetti",
+                "university": "Craven Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "38fc9b6e-b4d3-45e3-9e8b-059c416fdc5a"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "William R. Robinson, PhD",
+                "university": "",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": false
+            },
+            "id": "477106ad-525a-4d11-b0fb-39dda9c2da22"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Mark Blaser",
+                "university": "Shasta College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "6cd508ce-ba32-498c-afb4-cb5498709a11"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Richard Langley",
+                "university": "Stephen F. Austin State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "62820540-d53a-423e-8a30-b6209fe26d87"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Klaus Theopold",
+                "university": "University of Delaware",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "b0e28ab1-db75-49ca-bfe3-48844a653bf0"
+        }
+    ],
+    "print_isbn_10": "1938168399",
+    "print_isbn_13": "978-1-938168-39-0",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": null,
+    "digital_isbn_10": "1-947172-09-3",
+    "digital_isbn_13": "978-1-947172-09-8",
+    "ibook_isbn_10": "1-938168-12-7",
+    "ibook_isbn_13": "978-1-938168-12-3",
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Chemistry-OP_XdqVZpQ.pdf",
+    "low_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Chemistry-LR_urLff6c.pdf",
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "48ee5f3f-55e2-4c55-9d09-3f04dc7601ab"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "051027ce-3d1a-44c6-ba40-1bcb9e259c20"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-chemistry/1064/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can use the Hub to share resources they've created with our chemistry book, like the flipped classroom reading guide below. Check out the rest of the reading guides, find more resources, and submit your own.",
+    "community_resource_feature_link_url": "https://assets.openstax.org/oscms-prodcms/media/documents/CH1_Classification_of_Matter_Study_Guide_1.docx",
+    "community_resource_feature_text": "OpenStax Chemistry Ch. 1 reading guide",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "393d0ddc-ee22-498c-bf1c-10afbf602f31"
+        },
+        {
+            "type": "link",
+            "value": "https://openstax.org/blog/upcoming-openstax-webinars",
+            "id": "d5ec09d7-3593-412f-a27f-0d9eaf36e207"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/85abf193-2bd2-4908-8563-90b8a7ac8df6",
+    "webview_rex_link": "",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": null,
+    "enable_study_edge": false,
+    "bookshare_link": "https://www.bookshare.org/browse/book/2292177?returnPath=L3NlYXJjaD9tb2R1bGVOYW1lPXB1YmxpYyZsaWJyYXJ5VG9TZWFyY2g9Ym9va3NoYXJlJmF1dGhvckZpbHRlcj1PcGVuU3RheCZhdXRob3I9T3BlblN0YXgmc29ydE9yZGVyPVJFTEVWQU5",
+    "amazon_coming_soon": false,
+    "amazon_link": "https://www.amazon.com/Chemistry-OpenStax-2015-05-04/dp/B01FKU6KZS",
+    "kindle_link": "https://www.amazon.com/Chemistry-Paul-Flowers-ebook/dp/B075FC37LZ/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1508859022&sr=8-4",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "f051a9bc-273c-4e6f-a10c-647261c094b8"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "fb264a55-ed8f-4d5e-a045-c6fd4c84b4df"
+        }
+    ],
+    "comp_copy_available": false,
+    "comp_copy_content": [
+        {
+            "type": "link_text",
+            "value": "iBooks comp copy request",
+            "id": "174e000a-62a5-4ca3-ab37-0094e42eb500"
+        }
+    ],
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": null,
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

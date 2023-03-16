@@ -1,0 +1,519 @@
+{
+    "id": 550,
+    "meta": {
+        "slug": "college-algebra-2e",
+        "seo_title": "Free College Algebra Textbook Available for Download",
+        "search_description": "Study algebra online free by downloading OpenStax's College Algebra 2e book and using our accompanying online resources including an algebra study guide.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/550/",
+        "html_url": "https://openstax.org/details/books/college-algebra-2e",
+        "show_in_menus": false,
+        "first_published_at": "2021-12-02T15:27:45.192543-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "College Algebra 2e",
+    "created": "2021-12-02T15:27:44.990000-06:00",
+    "updated": "2022-11-18T15:45:00-06:00",
+    "book_state": "live",
+    "cnx_id": "35d7cce2-48dd-4403-b6a5-e828cb5a17da",
+    "salesforce_abbreviation": "College Algebra",
+    "salesforce_name": "College Algebra",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 255,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Math",
+            "subject_page_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 6,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Math",
+            "subject_category": "College Algebra"
+        }
+    ],
+    "k12book_subjects": [
+        {
+            "id": 16,
+            "meta": {
+                "type": "books.K12BookSubjects"
+            },
+            "subject_name": "Algebra",
+            "subject_category": "Math"
+        }
+    ],
+    "is_ap": false,
+    "description": "<p data-block-key=\"3w7u3\"><i>College Algebra 2e</i> provides a comprehensive exploration of algebraic principles and meets scope and sequence requirements for a typical introductory algebra course. The modular approach and richness of content ensure that the book addresses the needs of a variety of courses. <i>College Algebra</i> <i>2e</i> offers a wealth of examples with detailed, conceptual explanations, building a strong foundation in the material before asking students to apply what they’ve learned.</p><p data-block-key=\"2p2vq\"></p><p data-block-key=\"2mtq4\">The <i>College Algebra 2e</i> revision focused on improving relevance and representation as well as mathematical clarity and accuracy. Introductory narratives, examples, and problems were reviewed and revised using a diversity, equity, and inclusion framework. Many contexts, scenarios, and images have been changed to become even more relevant to students’ lives and interests. To maintain our commitment to accuracy and precision, examples, exercises, and solutions were reviewed by multiple faculty experts. All improvement suggestions and errata updates from the first edition were considered and unified across the different formats of the text. The first edition of <i>College Algebra</i> by OpenStax is available in web view <a href=\"https://openstax.org/books/college-algebra/pages/1-introduction-to-prerequisites\">here</a>.</p><p data-block-key=\"4a98g\"></p><p data-block-key=\"46gh5\">If you have encountered a white screen while accessing your OpenStax textbook, our developers suggest closing all of your <a href=\"http://openstax.org/\">OpenStax.org</a> tabs and then loading the book again.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/college_algebra_2e_web_card.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/college_algebra_2e.svg",
+    "cover_color": "yellow",
+    "book_cover_text_color": "light_blue",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1253,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1276,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1277,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3576,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3577,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3613,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Transition Guide",
+            "resource_description": "<p data-block-key=\"bb5co\">This summary of the key changes from 1e to 2e is designed to assist faculty in using the new edition.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Algebra_and_Precalculus_Series_Transition_Guide.pdf",
+            "link_document_title": "PrecalTrio_2e_TransitionGuide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3670,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Solutions Manual",
+            "resource_description": "<p data-block-key=\"v5k04\">The instructor solutions manual contains the instructor-facing answers to the problems and exercises within the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/CollegeAlgebra2e-ISM_k0sTR7z.zip",
+            "link_document_title": "CollegeAlgebra2e-ISM",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3673,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"c9ta8\">Let us make lectures a little easier for you. We’ve got PowerPoint slides with all the images from the book, organized by chapter.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/CollegeAlgebra2e-Powerpoints.zip",
+            "link_document_title": "CollegeAlgebra2e-Powerpoints",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3704,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/college-algebra-2e_RgU7plG.zip",
+            "link_document_title": "college-algebra-2e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2021-12-21",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Jay Abramson",
+                "university": "Arizona State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "e3dcdbc8-16fe-4597-91d6-e7b346ef35a2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Valeree Falduto",
+                "university": "Palm Beach State College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "75dd70e1-b108-457b-9933-fb0909a51fcb"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rachael Gross",
+                "university": "Towson University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "42f5162b-9001-4153-acb8-320038259df2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Lippman",
+                "university": "Pierce College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "86d91600-c729-4d5e-9c41-883ac9cb9209"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Melonie Rasmussen",
+                "university": "Pierce College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "d773a879-b211-4321-81a2-da1849223a56"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rick Norwood",
+                "university": "East Tennessee State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "bd9f1581-6693-4bca-8b5a-853786ba21ed"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Nicholas Belloit",
+                "university": "Florida State College at Jacksonville",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "9e6ae962-b40e-4260-bfe3-fee204387ba8"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Harold Whipple",
+                "university": "Formerly of Columbia College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "56ec3416-26ad-4c15-ab83-cda3542e6dc6"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jean-Marie Magnier",
+                "university": "Springfield Technical Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "3964c520-5a04-466c-bc17-e4644187d74c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Christina Fernandez",
+                "university": "",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "5c4844f9-ef96-47f8-867f-c2b06c554def"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-711494-02-9",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-711494-01-2",
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-1-951693-41-1",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "Attribution 4.0 International (CC BY 4.0)",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/College-Algebra-2e-WEB.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "ef38e654-7375-462e-a490-a2ab2bca07d2"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "f134334d-96f3-4985-bef1-743636530d0a"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-college-algebra/1046/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our college algebra book. Find resources and submit your own!",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "b2f20b7f-900c-451f-957b-2f107ec0080e"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "661dfe4d-6921-469b-9152-f0d434d451a9"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/35d7cce2-48dd-4403-b6a5-e828cb5a17da",
+    "webview_rex_link": "https://openstax.org/books/college-algebra-2e/pages/1-introduction-to-prerequisites",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "1748a81c-3f76-43be-b5d3-00bdf01f90e5"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "21ff2ce9-f5fc-4b1f-986f-06cae9880702"
+        }
+    ],
+    "comp_copy_available": false,
+    "comp_copy_content": [],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": {
+        "id": 1330,
+        "meta": {
+            "width": 1396,
+            "height": 637,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1330/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/CollegeAlgebra_2e_Promote.jpeg"
+        },
+        "title": "CollegeAlgebra2e_Promote"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": "Resources for taking your course online",
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": 739,
+    "savings": 38783879
+}

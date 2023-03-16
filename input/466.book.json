@@ -1,0 +1,266 @@
+{
+    "id": 466,
+    "meta": {
+        "slug": "introduction-sociology",
+        "seo_title": "Free Intro to Sociology 1e Textbook for Download",
+        "search_description": "Study introduction to sociology online free by downloading OpenStax's Introduction to Sociology 1e textbook and using our accompanying online resources.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/466/",
+        "html_url": "https://openstax.org/details/books/introduction-sociology",
+        "show_in_menus": false,
+        "first_published_at": "2020-09-28T14:13:44.133141-05:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Introduction to Sociology",
+    "created": "2020-09-28T13:46:35.746000-05:00",
+    "updated": null,
+    "book_state": "retired",
+    "cnx_id": "afe4332a-c97f-4fc4-be27-4e4d384a32d8",
+    "salesforce_abbreviation": "Introduction to Sociology",
+    "salesforce_name": "Introduction to Sociology",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 300,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Social Sciences",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [],
+    "k12book_subjects": [],
+    "is_ap": false,
+    "description": "<p data-block-key=\"sqhge\"><i>Introduction to Sociology</i> adheres to the scope and sequence of a typical, one-semester introductory sociology course. It offers comprehensive coverage of core concepts, foundational scholars, and emerging theories. The textbook presents section reviews with rich questions, discussions that help students apply their knowledge, and features that draw learners into the discipline in meaningful ways. The second edition has been updated significantly to reflect the latest research and current, relevant examples.<br/></p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Head_IntroSociology1e.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/sociology_1e.png",
+    "cover_color": "yellow",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [],
+    "book_faculty_resources": [],
+    "publish_date": "2012-06-21",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Nathan Keirns",
+                "university": "Zane State College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": true
+            },
+            "id": "b0dfc096-c7cd-4e82-90bd-260298dc2d94"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Eric Strayer",
+                "university": "Hartnell College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": true
+            },
+            "id": "a35f1cea-8efc-49f6-938f-c9d560eb28fa"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Heather Griffiths",
+                "university": "Fayetteville State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": true
+            },
+            "id": "640667b9-3a4e-4dea-b514-4dbdd1f5cfc0"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Susan Cody-Rydzewski",
+                "university": "Georgia Perimeter College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": true
+            },
+            "id": "665c69da-8eff-475f-8b98-578862ab8c56"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Gail Scaramuzzo",
+                "university": "Lackawanna College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": true
+            },
+            "id": "516cf41d-a442-4495-8353-1cfd87cf500e"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Tommy Sadler",
+                "university": "Union University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": true
+            },
+            "id": "c2215f05-67e2-4218-8232-06c029eb3875"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Sally Vyain",
+                "university": "Ivy Tech Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": true
+            },
+            "id": "de7f8383-7ffb-4e17-894e-da10e90dbfe8"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-938168-01-7",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": null,
+    "digital_isbn_10": null,
+    "digital_isbn_13": null,
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "CC-BY",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": null,
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "349d257c-2490-4c84-bcd4-d02b92bf7d88"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "f08b151c-0d7b-4a41-9c95-4b28f573983a"
+        }
+    ],
+    "community_resource_heading": null,
+    "community_resource_logo_url": null,
+    "community_resource_url": "",
+    "community_resource_cta": null,
+    "community_resource_blurb": "",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "debef799-0a14-4c73-beba-5ffbff3ea362"
+        },
+        {
+            "type": "link",
+            "value": "https://openstax.org/webinars",
+            "id": "5cf25a9b-494a-495a-9f55-528f9898b31f"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/afe4332a-c97f-4fc4-be27-4e4d384a32d8",
+    "webview_rex_link": "",
+    "rex_callout_title": null,
+    "rex_callout_blurb": null,
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "be4fae0f-d284-478a-b1e7-3ec2dba7fb89"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "3dd44ca4-870e-41c0-bbb7-adca283dd0e2"
+        }
+    ],
+    "comp_copy_available": true,
+    "comp_copy_content": [
+        {
+            "type": "link_text",
+            "value": "iBooks comp copy request",
+            "id": "afcad599-28e0-44db-b51a-815b7a3619f0"
+        }
+    ],
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [],
+    "promote_image": null,
+    "last_updated_pdf": null,
+    "featured_resources_header": null,
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": 1704,
+    "savings": 123904491
+}

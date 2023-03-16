@@ -1,0 +1,535 @@
+{
+    "id": 551,
+    "meta": {
+        "slug": "precalculus-2e",
+        "seo_title": "Free Precalculus Textbook Available for Download",
+        "search_description": "Study precalculus online free by downloading OpenStax's Precalculus 2e textbook and using our accompanying online resources including a precalculus study guide.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/551/",
+        "html_url": "https://openstax.org/details/books/precalculus-2e",
+        "show_in_menus": false,
+        "first_published_at": "2021-12-02T15:40:23.883774-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Precalculus 2e",
+    "created": "2021-12-02T15:40:23.760000-06:00",
+    "updated": "2023-03-02T15:32:00-06:00",
+    "book_state": "live",
+    "cnx_id": "f021395f-fd63-46cd-ab95-037c6f051730",
+    "salesforce_abbreviation": "Precalc",
+    "salesforce_name": "Precalculus",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 256,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Math",
+            "subject_page_content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 11,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Math",
+            "subject_category": "Precalculus"
+        }
+    ],
+    "k12book_subjects": [
+        {
+            "id": 21,
+            "meta": {
+                "type": "books.K12BookSubjects"
+            },
+            "subject_name": "Precalculus",
+            "subject_category": "Math"
+        }
+    ],
+    "is_ap": false,
+    "description": "<p data-block-key=\"sj859\"><i>Precalculus 2e</i> provides a comprehensive exploration of mathematical principles and meets scope and sequence requirements for a typical precalculus course. The text proceeds from functions through trigonometry and ends with an introduction to calculus. The modular approach and the richness of content ensure that the book addresses the needs of a variety of courses. <i>Precalculus 2e</i> offers a wealth of examples with detailed, conceptual explanations, building a strong foundation in the material before asking students to apply what they’ve learned.</p><p data-block-key=\"9t0ce\"></p><p data-block-key=\"9ac6p\">The <i>Precalculus 2e</i> revision focused on improving relevance and representation as well as mathematical clarity and accuracy. Introductory narratives, examples, and problems were reviewed and revised using a diversity, equity, and inclusion framework. Many contexts, scenarios, and images have been changed to become even more relevant to students’ lives and interests. To maintain our commitment to accuracy and precision, examples, exercises, and solutions were reviewed by multiple faculty experts. All improvement suggestions and errata updates from the first edition were considered and unified across the different formats of the text. The first edition of <i>Precalculus</i> by OpenStax is available in web view <a href=\"https://openstax.org/books/precalculus/pages/1-introduction-to-functions\">here</a>.</p><p data-block-key=\"dhsuv\"></p><p data-block-key=\"848f8\">If you have encountered a white screen while accessing your OpenStax textbook, our developers suggest closing all of your <a href=\"http://openstax.org/\">OpenStax.org</a> tabs and then loading the book again.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/precalculus_2e.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/precalculus_2e_1.svg",
+    "cover_color": "blue",
+    "book_cover_text_color": "white_orange",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 1254,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide.pdf",
+            "link_document_title": "OpenStax Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1274,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 1275,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 3578,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3579,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3612,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Transition Guide",
+            "resource_description": "<p data-block-key=\"bb5co\">This summary of the key changes from 1e to 2e is designed to assist faculty in using the new edition.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Algebra_and_Precalculus_Series_Transition_Guide.pdf",
+            "link_document_title": "PrecalTrio_2e_TransitionGuide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3671,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Solutions Manual",
+            "resource_description": "<p data-block-key=\"v5k04\">The instructor solutions manual contains the instructor-facing answers to the problems and exercises within the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Precalculus2e-ISM_RlfthRq.zip",
+            "link_document_title": "Precalculus2e-ISM",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3674,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "PowerPoint Slides",
+            "resource_description": "<p data-block-key=\"c9ta8\">Let us make lectures a little easier for you. We’ve got PowerPoint slides with all the images from the book, organized by chapter.<br/></p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Precalculus2e-Powerpoints.zip",
+            "link_document_title": "Precalculus2e-Powerpoints",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 3710,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/precalculus-2e.zip",
+            "link_document_title": "precalculus-2e",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2021-12-21",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "Jay Abramson",
+                "university": "Arizona State University",
+                "country": "",
+                "senior_author": true,
+                "display_at_top": true
+            },
+            "id": "badd01d3-7809-475a-bf25-8b90e070d837"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Valeree Falduto",
+                "university": "Palm Beach State College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "5c66d83a-76f8-4141-9337-ae36909fc16c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rachael Gross",
+                "university": "Towson University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "091118ec-c804-4508-aca2-4ed4ab5f0cf2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "David Lippman",
+                "university": "Pierce College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "c9e85c4a-16bd-43fe-8eee-8e535eb343bc"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Melonie Rasmussen",
+                "university": "Pierce College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "170af0ed-d58b-49a8-95ea-163d1fe4b6a2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Rick Norwood",
+                "university": "East Tennessee State University",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "37fc54ba-5f8b-4c5f-9b8d-bbaa9e8641e4"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Nicholas Belloit",
+                "university": "Florida State College at Jacksonville",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "633b4be4-de2a-4c20-8c1e-ea85fc79ab24"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Harold Whipple",
+                "university": "Formerly of Columbia College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "42839c48-3d60-4c68-8876-fac074e5e5f4"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jean-Marie Magnier",
+                "university": "Springfield Technical Community College",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "3de5caaa-5d8d-4587-8817-183baee5ad90"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Christina Fernandez",
+                "university": "",
+                "country": "",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "53c9715c-2fa5-41ca-a78a-4b2ff32b777c"
+        }
+    ],
+    "print_isbn_10": null,
+    "print_isbn_13": "978-1-711494-00-5",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-711493-99-2",
+    "digital_isbn_10": null,
+    "digital_isbn_13": "978-1-951693-39-8",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "Attribution 4.0 International (CC BY 4.0)",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/Precalculus_2e-WEB.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "efe3c097-f479-4339-9be8-9bfa5f0c78a9"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "fd0244e7-53da-4dad-9447-90dd3a2aee62"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-precalculus/1076/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our precalculus book. Find resources and submit your own.",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "7c39d812-e797-4ae9-9ef7-6bb55c919035"
+        },
+        {
+            "type": "link",
+            "value": "https://openstax.org/webinars",
+            "id": "f3c88fb1-4044-47f1-8cb1-5cdac6c9b771"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/f021395f-fd63-46cd-ab95-037c6f051730",
+    "webview_rex_link": "https://openstax.org/books/precalculus-2e/pages/1-introduction-to-functions",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Highlight and add notes — it’s 100% free!",
+    "enable_study_edge": false,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "",
+    "kindle_link": "",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "link",
+            "value": "",
+            "id": "edf835fc-50b0-4df4-a527-e5c4adc79536"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "20334848-a2e3-4169-affc-6f7e75dfd435"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "739b0d7f-6183-454a-be8d-72ade48daa23"
+        }
+    ],
+    "comp_copy_available": false,
+    "comp_copy_content": [],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [],
+    "translations": [
+        {
+            "type": "translation",
+            "value": [
+                {
+                    "locale": "es",
+                    "slug": "precálculo-2ed"
+                }
+            ],
+            "id": "c8d418e9-8f63-4e38-a09e-c3d30632a7bd"
+        }
+    ],
+    "promote_image": {
+        "id": 1331,
+        "meta": {
+            "width": 975,
+            "height": 650,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1331/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/Precalculus2e_promote.jpeg"
+        },
+        "title": "Precalculus2e_promote"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": "Resources for taking your course online",
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": null,
+    "savings": null
+}

@@ -1,0 +1,803 @@
+{
+    "id": 304,
+    "meta": {
+        "slug": "principles-management",
+        "seo_title": "",
+        "search_description": "Principles of Management meets scope and sequence of introductory management courses and covers many areas such as human resource and strategic management.",
+        "type": "books.Book",
+        "detail_url": "https://openstax.org/apps/cms/api/v2/pages/304/",
+        "html_url": "https://openstax.org/details/books/principles-management",
+        "show_in_menus": false,
+        "first_published_at": "2019-02-28T14:08:03.807631-06:00",
+        "alias_of": null,
+        "parent": {
+            "id": 30,
+            "meta": {
+                "type": "books.BookIndex",
+                "detail_url": "https://openstax.org/apps/cms/api/v2/pages/30/",
+                "html_url": "https://openstax.org/subjects/"
+            },
+            "title": "Subjects"
+        },
+        "locale": "en"
+    },
+    "title": "Principles of Management",
+    "created": "2019-02-28T14:08:02.368000-06:00",
+    "updated": "2023-03-15T12:57:32.586757-05:00",
+    "book_state": "live",
+    "cnx_id": "c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e",
+    "salesforce_abbreviation": "Management",
+    "salesforce_name": "Management",
+    "salesforce_book_id": null,
+    "book_subjects": [
+        {
+            "id": 132,
+            "meta": {
+                "type": "books.BookSubjects"
+            },
+            "subject_name": "Business",
+            "subject_page_content": "",
+            "subject_search_description": null
+        }
+    ],
+    "book_categories": [
+        {
+            "id": 82,
+            "meta": {
+                "type": "books.BookCategories"
+            },
+            "subject_name": "Business",
+            "subject_category": "Management"
+        }
+    ],
+    "k12book_subjects": [
+        {
+            "id": 30,
+            "meta": {
+                "type": "books.K12BookSubjects"
+            },
+            "subject_name": "Business",
+            "subject_category": "Career and Technical Education"
+        }
+    ],
+    "is_ap": false,
+    "description": "<p data-block-key=\"2klic\"><i>Principles of Management</i> is designed to meet the scope and sequence requirements of the introductory course on management. This is a traditional approach to management using the leading, planning, organizing, and controlling approach. Management is a broad business discipline, and the Principles of Management course covers many management areas such as human resource management and strategic management, as well as behavioral areas such as motivation. No one individual can be an expert in all areas of management, so an additional benefit of this text is that specialists in a variety of areas have authored individual chapters.</p>",
+    "cover_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles_of_management_book_card.svg",
+    "title_image_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles_of_management_7reH2lj.svg",
+    "cover_color": "blue",
+    "book_cover_text_color": "yellow",
+    "reverse_gradient": false,
+    "book_student_resources": [
+        {
+            "id": 780,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Getting Started Guide",
+            "resource_description": "<p data-block-key=\"ku2u8\">Congratulations! You&#x27;ve got a free textbook. Download this guide to learn how to use it.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/student_getting_started_guide_3XA7W8Y.pdf",
+            "link_document_title": "Student Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 781,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Reading and Notetaking Guide",
+            "resource_description": "<p data-block-key=\"8gs86\">Adapted from OpenStax <i>College Success</i>, this guide discusses effective reading approaches, study tips, and notetaking strategies for students.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Effective.Reading.and.Notetaking.Guide_E7WFZSP.pdf",
+            "link_document_title": "Reading and Notetaking Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 860,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Student Time Management Guide",
+            "resource_description": "<p data-block-key=\"eztlp\">Adapted from OpenStax College Success, this guide includes information about estimating time on tasks, avoiding procrastination, and using strategies to stick to your priorities.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax.Managing.Time.and.Priorities.Guide_V3UHava_6gJlYq4.pdf",
+            "link_document_title": "Student Time Management Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": true
+        },
+        {
+            "id": 975,
+            "meta": {
+                "type": "books.BookStudentResources"
+            },
+            "resource_heading": "Review Questions",
+            "resource_description": "<p data-block-key=\"5ypto\">These study guides contain chapter section summaries and review questions that cover key concepts, terms, and practical applications.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon_2.png",
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_PrinciplesofManagement_Review_Questions.zip",
+            "link_document_title": "PoM_Review_Questions",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "updated": null,
+            "print_link": null,
+            "display_on_k12": false
+        }
+    ],
+    "book_faculty_resources": [
+        {
+            "id": 2332,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor Getting Started Guide",
+            "resource_description": "<p data-block-key=\"yoxee\">Download our helpful guide to all things OpenStax.<br/></p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/instructor_getting_started_guide_C4RRiwe.pdf",
+            "link_document_title": "OpenStax Instructor Getting Started Guide 2020",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2333,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Enhanced Lecture PowerPoint Slides with Videos",
+            "resource_description": "<p data-block-key=\"zt4qa\">These lecture slides include selected graphics from the text, key concepts and definitions, examples, discussion questions, and selected YouTube videos.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_PrinciplesofManagement_Enhanced_Lecture_Slides.zip",
+            "link_document_title": "POM Lecture PowerPoint Slides with Videos",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2334,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Test Bank",
+            "resource_description": "<p data-block-key=\"z3sra\">The test bank contains multiple choice, short answer, and essay questions for each chapter of the textbook. Since many instructors use these questions in graded assignments, we ask that you not post these questions and the answers on any publicly available websites.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/PrinciplesofManagement-TestBank_aKAGco1.zip",
+            "link_document_title": "Principles of Management Test Bank",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2335,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Instructor's Manual",
+            "resource_description": "<p data-block-key=\"ysgx5\">Developed in response to numerous suggestions from instructors teaching this course, this Instructor’s Manual is designed to provide maximum guidance for delivering the book’s content in an interesting and dynamic manner.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/PrinciplesofManagement-InstructorsManual_A6ybxY9.zip",
+            "link_document_title": "Principles of Management Instructor's Manual",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2336,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Diversity and Representation Development Guidelines",
+            "resource_description": "<p data-block-key=\"fvo6u\">These guidelines support OpenStax efforts to ensure diverse representation in the development and improvement of our materials. These guidelines can be used to develop and improve all open educational resources.</p>",
+            "resource_unlocked": true,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Diversity_Equity_Inclusion_Development_Guidelines_2022_NzDc7kA.pdf",
+            "link_document_title": "OpenStax Representation and Diversity Development Guidelines",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2337,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Blackboard Course Package",
+            "resource_description": "<p data-block-key=\"eyg89\">San Jacinto College created a course package for this title to integrate your OpenStax books into the Blackboard learning management system. Download this file and work with your campus Blackboard administrator to add to your course.</p><p data-block-key=\"910lm\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Ultra-Course-Package\">Instructions</a> for using the package with Blackboard Ultra</p><p data-block-key=\"4r5qs\"><a href=\"https://help.openstax.org/s/article/Downloading-the-Blackboard-Learn-Course-Package\">Instructions</a> for using the package with Blackboard Learn</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/ExportFile_OpenStax_Principles_of_Management_1e.zip",
+            "link_document_title": "Blackboard Course Cartridge - Principles of Management",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2338,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Canvas Course Cartridge",
+            "resource_description": "<p data-block-key=\"9curp\">The California Community Colleges’ Online Education Initiative created a course cartridge for this title to integrate your OpenStax books and resources into the Canvas learning management system. Download this course file and read the attached help article to import this resource into Canvas.</p><p data-block-key=\"3r6s2\"><a href=\"https://help.openstax.org/s/article/Importing-Canvas-Cartridges\">Instructions</a> for importing the Canvas Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles-of-management-export.imscc",
+            "link_document_title": "principles-of-management-export",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2339,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "D2L Course Cartridge",
+            "resource_description": "<p data-block-key=\"hri6m\">Minnesota State University, Mankato created a course cartridge for this title to integrate your OpenStax book into the D2L learning management system. Download this file and read the attached help article to import this resource into D2L. Please note that to use the book&#x27;s highlighting and note-taking feature in D2L, you and your students will need to be logged into your individual OpenStax accounts on openstax.org.</p><p data-block-key=\"eebq3\"></p><p data-block-key=\"hmqxo\"><a href=\"https://help.openstax.org/s/article/How-to-import-the-D2L-Course-Cartridge\">Instructions</a> for importing the D2L Cartridge</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/D2LExport_Principles_of_Management.zip",
+            "link_document_title": "Principles of Management D2L Course Cartridge",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2340,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Moodle Course Cartridge",
+            "resource_description": "<p data-block-key=\"46tn4\">OpenStax created a course cartridge for this title to integrate into the Moodle learning management system. The file is formally a “backup” of the original course. Download it and work with your administrator or use the Restore function to add to your course.<br/><br/><a href=\"https://help.openstax.org/s/article/Downloading-the-Moodle-Course-Cartridge\">Instructions</a> for importing the Moodle Cartridge.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/backup-moodle2-course-6-os_principles_mgmt-20200518-1007-nu.mbz",
+            "link_document_title": "Moodle Course Cartridge",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2341,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Annotated Video Guide",
+            "resource_description": "<p data-block-key=\"j0a2n\">Expert faculty have selected 5 – 10 openly licensed videos for each chapter that unpack key concepts. In addition to video links, this resource provides metadata like time stamps, synopses, and PowerPoint alignment to facilitate seamless integration into your course materials.</p>",
+            "resource_unlocked": false,
+            "resource_icon": "https://assets.openstax.org/oscms-prodcms/media/original_images/resource_icon.jpg",
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_Principles_of_Management_Video_Guide.zip",
+            "link_document_title": "Video Guide",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": true,
+            "print_link": null
+        },
+        {
+            "id": 2447,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "QTI Test Bank",
+            "resource_description": "<p data-block-key=\"0kmag\">This resource contains the textbook test bank in QTI 2.1 format, for  uploading into Canvas. To use these questions in your course, download  the file from openstax.org, open the folder, and then upload each  chapter&#x27;s QTI zip file individually using the LMS import functions.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "https://drive.google.com/drive/folders/1D9ltVAhvpab4xrOqQp63MyKCcR2UE1sp?usp=sharing",
+            "link_page": null,
+            "link_text": "Go",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": true,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 2698,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Review Questions",
+            "resource_description": "<p>These study guides contain chapter section summaries and review questions that cover key concepts, terms, and practical applications.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OpenStax_PrinciplesofManagement_Review_Questions.zip",
+            "link_document_title": "PoM_Review_Questions",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        },
+        {
+            "id": 3716,
+            "meta": {
+                "type": "books.BookFacultyResources"
+            },
+            "resource_heading": "Book Customization",
+            "resource_description": "<p data-block-key=\"cjwlg\">OpenStax generates Docx files for each section of this textbook to provide an easy way for instructors who need to customize OpenStax content. The Docx files are converted automatically and may contain some conversion errors. These files are provided to instructors as a helpful resource, but the <a href=\"http://openstax.org\">OpenStax website</a> is the preferred method for students to access our books. Once these files are downloaded, they will no longer receive content updates from OpenStax. Docx files can be used in Microsoft Word, LibreOffice, OpenOffice, or uploaded to Google Docs by instructors for use there, if desired.</p>",
+            "resource_unlocked": false,
+            "resource_icon": null,
+            "creator_fest_resource": false,
+            "link_external": "",
+            "link_page": null,
+            "link_document_url": "https://assets.openstax.org/oscms-prodcms/media/documents/principles-management.zip",
+            "link_document_title": "principles-management",
+            "link_text": "Download",
+            "coming_soon_text": null,
+            "video_reference_number": null,
+            "updated": null,
+            "featured": false,
+            "k12": false,
+            "display_on_k12": false,
+            "print_link": null
+        }
+    ],
+    "publish_date": "2019-03-20",
+    "authors": [
+        {
+            "type": "author",
+            "value": {
+                "name": "David S. Bright",
+                "university": "Wright State University",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "532a2f86-adca-4b8d-b71e-01eac2658af9"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Anastasia H. Cortes",
+                "university": "Virginia Tech University",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "66fdd3da-9b99-4ce3-af08-6bd3b81bfae2"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Eva Hartmann",
+                "university": "University of Richmond",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0984cda9-d932-4828-a26f-fc32a10ac6be"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "K. Praveen Parboteeah",
+                "university": "University of Wisconsin-Whitewater",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "89309dfe-2e68-4685-ac3c-03bedbb9de89"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jon L. Pierce",
+                "university": "University of Minnesota-Duluth",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "2301d903-81f1-4e87-bdc6-69d327dfbb7c"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Monique Reece",
+                "university": "",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "e5b115dd-c560-4d98-acbc-7286fa25f2a3"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Amit Shah",
+                "university": "Frostburg State University",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "2ee0e539-28fd-481a-9fad-b3cdf1905142"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Siri Terjesen",
+                "university": "American University",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "453e4096-5f00-4166-9ed9-a800211642c0"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Joseph Weiss",
+                "university": "Bentley University",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "587f2c2c-29c9-4a27-b834-0b9aa9191eec"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Margaret A. White",
+                "university": "Oklahoma State University",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "6a0413a4-d70b-435b-93f5-72d553d9b177"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Donald G. Gardner",
+                "university": "University of Colorado-Colorado Springs",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "62ddda96-87ad-4682-a875-7862593c21a6"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jason Lambert",
+                "university": "Texas Woman’s University",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "0fa057bd-bd06-4bdd-8f5e-d1b94a68dc82"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Laura M. Leduc",
+                "university": "James Madison University",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "63a3f3ee-0416-4c2a-9e0b-78bee980afe8"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Joy Leopold",
+                "university": "Webster University",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "4775d5c2-2dfc-4f9a-a259-1e934a465790"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "Jeffrey Muldoon",
+                "university": "Emporia State University",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "dcec803f-0e70-4dbd-af44-ff9aa43b6396"
+        },
+        {
+            "type": "author",
+            "value": {
+                "name": "James S. O’Rourke",
+                "university": "University of Notre Dame",
+                "country": "United States of America",
+                "senior_author": false,
+                "display_at_top": false
+            },
+            "id": "582e5786-3a33-4820-b1f2-e4de5ccfaf40"
+        }
+    ],
+    "print_isbn_10": "0-9986257-6-0",
+    "print_isbn_13": "978-0-9986257-6-8",
+    "print_softcover_isbn_10": null,
+    "print_softcover_isbn_13": "978-1-59399-876-9",
+    "digital_isbn_10": "0-9986257-7-9",
+    "digital_isbn_13": "978-0-9986257-7-5",
+    "ibook_isbn_10": null,
+    "ibook_isbn_13": null,
+    "ibook_volume_2_isbn_10": null,
+    "ibook_volume_2_isbn_13": null,
+    "license_text": "",
+    "license_name": "Creative Commons Attribution License",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "high_resolution_pdf_url": "https://assets.openstax.org/oscms-prodcms/media/documents/PrinciplesofManagement-OP_mGBMvoU.pdf",
+    "low_resolution_pdf_url": null,
+    "free_stuff_instructor": [
+        {
+            "type": "content",
+            "value": {
+                "id": 1,
+                "heading": "<b>Academic freedom.</b> No catch.",
+                "content": "<p>Access free resources integrated with your book. <a href=\"https://accounts.openstax.org/signup\">Sign up</a> for an account to access locked content.</p>",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "32123c0f-e7b7-4447-b09c-463928842e4c"
+        }
+    ],
+    "free_stuff_student": [
+        {
+            "type": "content",
+            "value": {
+                "id": 2,
+                "heading": "<b>Academic success.</b> You've got this.",
+                "content": "<p>And we've got resources that will help you ace your course.</p> <a",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "406be68d-582f-4b46-a314-f5034e3a99f1"
+        }
+    ],
+    "community_resource_heading": "OER Commons Hub Resources",
+    "community_resource_logo_url": "https://assets.openstax.org/oscms-prodcms/media/documents/OERC_logo.jpg",
+    "community_resource_url": "https://www.oercommons.org/groups/openstax-principles-of-management/4545/?__hub_id=27",
+    "community_resource_cta": "Visit the Hub",
+    "community_resource_blurb": "Members of the OpenStax community can join the Hub to share resources they've created to use with our books. Submit a resource to help us get start",
+    "community_resource_feature_text": "",
+    "webinar_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 3,
+                "heading": "Find a webinar",
+                "content": "Learn more by attending one of our free webinars featuring OpenStax authors, staff, and partners.",
+                "content_logged_in": "",
+                "button_text": null,
+                "button_url": "https://openstax.org/webinars"
+            },
+            "id": "4ca7141f-be52-4dd9-b640-e9ffa17f573b"
+        },
+        {
+            "type": "link",
+            "value": "http://openstax.org/webinars",
+            "id": "7eb49523-8b13-469f-bc18-036ae65c2255"
+        }
+    ],
+    "ibook_link": "",
+    "ibook_link_volume_2": "",
+    "webview_link": "https://cnx.org/contents/c3acb2ab-7d5c-45ad-b3cd-e59673fedd4e",
+    "webview_rex_link": "https://openstax.org/books/principles-management/pages/1-introduction",
+    "rex_callout_title": "Recommended",
+    "rex_callout_blurb": "<b>New</b> Expert-created study guides for each chapter. 100% free!",
+    "enable_study_edge": true,
+    "bookshare_link": "",
+    "amazon_coming_soon": false,
+    "amazon_link": "https://buyprint.openstax.org/principles-management",
+    "kindle_link": "https://amzn.to/3oH9bFO",
+    "chegg_link": null,
+    "chegg_link_text": null,
+    "bookstore_coming_soon": false,
+    "bookstore_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 9,
+                "heading": "Individual",
+                "content": "<p>Order a personal copy</p>",
+                "content_logged_in": "",
+                "button_text": "Order a personal copy",
+                "button_url": null
+            },
+            "id": "f8efe54d-0fd5-43ac-8137-95b80b1a71c3"
+        },
+        {
+            "type": "content",
+            "value": {
+                "id": 10,
+                "heading": "Bookstore",
+                "content": "<p>Place a bulk order</p>",
+                "content_logged_in": "",
+                "button_text": "Place a bulk order",
+                "button_url": "https://buyprint.openstax.org/bookstore-suppliers"
+            },
+            "id": "02935e84-481a-4fa8-bd8a-7644924e4586"
+        }
+    ],
+    "comp_copy_available": false,
+    "comp_copy_content": [
+        {
+            "type": "content",
+            "value": {
+                "id": 7,
+                "heading": "iBooks comp copy request",
+                "content": "",
+                "content_logged_in": null,
+                "button_text": null,
+                "button_url": null
+            },
+            "id": "ef74b324-8ea8-446c-8b09-5d08f7d8ee78"
+        }
+    ],
+    "errata_content": "All OpenStax textbooks undergo a rigorous review process. However, like any professional-grade textbook, errors sometimes occur. The good part is, since our books are web-based, we can make updates periodically. If you have a correction to suggest, submit it here. We review your suggestion and make necessary changes.",
+    "tutor_marketing_book": false,
+    "partner_list_label": "Technology Partners",
+    "partner_page_link_text": "See more!",
+    "customization_form_heading": "Customization Form",
+    "customization_form_subheading": "Please select the modules (up to 10), that you want to customize with Google Docs.",
+    "customization_form_disclaimer": "<p data-block-key=\"4ayna\"><b>Disclaimer</b></p><p data-block-key=\"w8919\">The following features and functionality are not available to teachers and students using Google Docs customized content:</p><ul><li data-block-key=\"txxty\"><b>Errata updates</b>. OpenStax webview is updated at least twice yearly. Customized Google Docs will not receive these content updates.</li><li data-block-key=\"36n1p\"><b>Access to study tools</b>. OpenStax webview has in-book search, highlighting, study guides, and more available for free. This functionality will not be available in Google Docs versions.</li><li data-block-key=\"s9hec\"><b>Formatting.</b> Print books and webview have a specific design and structure format developed for those platforms. These functionalities are not available in the Google Docs versions.</li></ul>",
+    "customization_form_next_steps": "<p data-block-key=\"tgdcd\"><b>Next Steps</b></p><ol><li data-block-key=\"p8sbx\">Within two business days, you will receive an email for each module that you have requested access to customize.</li><li data-block-key=\"mhtdc\">The link provided in the email will be your own copy of the Google Doc that OpenStax generated for you.</li><li data-block-key=\"b715n\">Once you have accessessed the document you can make the changes you desire and share with your students. We recommend using the &quot;Publish to the Web&quot; functionality under the file menu for sharing with students.</li></ol>",
+    "videos": [
+        {
+            "type": "video",
+            "value": [
+                {
+                    "title": "Interface",
+                    "description": "<p data-block-key=\"gkczj\">As the world’s largest producer of carpet tile and other flooring materials, Interface is everywhere. Their modular products foster a great degree of creativity and innovation in interior design and function, and allow their clients to have a positive impact on the world around them. Interface’s sustainability principles and initiatives -- Mission Zero and Climate Take Back -- have led to powerful community engagement and revolutionary technological enhancements.<br/><br/>This video is part of the OpenStax Business series, which showcases entrepreneurs and businesses with a focus on purpose, principles, and best business practices. It can be used with any OpenStax business textbook.</p>",
+                    "embed": "<script src=\"https://fast.wistia.com/embed/medias/hyb2pj6nrg.jsonp\" async></script><script src=\"https://fast.wistia.com/assets/external/E-v1.js\" async></script><div class=\"wistia_embed wistia_async_hyb2pj6nrg\" style=\"height:360px;position:relative;width:640px\"><div class=\"wistia_swatch\" style=\"height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;\"><img src=\"https://fast.wistia.com/embed/medias/hyb2pj6nrg/swatch\" style=\"filter:blur(5px);height:100%;object-fit:contain;width:100%;\" alt=\"\" aria-hidden=\"true\" onload=\"this.parentNode.style.opacity=1;\" /></div></div>"
+                },
+                {
+                    "title": "Alto",
+                    "description": "<p data-block-key=\"udjju\">Alto is a new ride-sharing company based in Dallas, Texas. Through its unique relationships with drivers and an intense focus on safety, Alto differentiates itself with a one-of-a-kind customer experience. Will Coleman and Alex Halbardier share their strategies for empowering employees and sustaining growth in an emerging and challenging business category.<br/><br/> This video is part of the OpenStax Business series, which showcases entrepreneurs and businesses with a focus on purpose, principles, and best business practices. It can be used with any OpenStax business textbook.</p>",
+                    "embed": "<script src=\"https://fast.wistia.com/embed/medias/d9kwh0seaz.jsonp\" async></script><script src=\"https://fast.wistia.com/assets/external/E-v1.js\" async></script><div class=\"wistia_embed wistia_async_d9kwh0seaz\" style=\"height:360px;position:relative;width:640px\"><div class=\"wistia_swatch\" style=\"height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;\"><img src=\"https://fast.wistia.com/embed/medias/d9kwh0seaz/swatch\" style=\"filter:blur(5px);height:100%;object-fit:contain;width:100%;\" alt=\"\" aria-hidden=\"true\" onload=\"this.parentNode.style.opacity=1;\" /></div></div>"
+                },
+                {
+                    "title": "Evernote",
+                    "description": "<p data-block-key=\"56nsx\">This video shares the story of Evernote, the leading note-taking and memory app. Business Development Manager Manav Khurana discusses the company’s founding, mission, culture, and future direction. He also shares Evernote’s commitment to its community and offers guidance for students. This video is part of the OpenStax Business series, which showcases entrepreneurs and businesses with a focus on purpose, principles, and best business practices. It can be used with any OpenStax business textbook.<br/><br/>This video is part of the OpenStax Business series, which showcases entrepreneurs and businesses with a focus on purpose, principles, and best business practices. It can be used with any OpenStax business textbook.</p>",
+                    "embed": "<script src=\"https://fast.wistia.com/embed/medias/iab1qxihpo.jsonp\" async></script><script src=\"https://fast.wistia.com/assets/external/E-v1.js\" async></script><div class=\"wistia_embed wistia_async_iab1qxihpo\" style=\"height:360px;position:relative;width:640px\"><div class=\"wistia_swatch\" style=\"height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;\"><img src=\"https://fast.wistia.com/embed/medias/iab1qxihpo/swatch\" style=\"filter:blur(5px);height:100%;object-fit:contain;width:100%;\" alt=\"\" aria-hidden=\"true\" onload=\"this.parentNode.style.opacity=1;\" /></div></div>"
+                },
+                {
+                    "title": "Google Home",
+                    "description": "<p data-block-key=\"4t1kc\">Google Home is an interconnected, interactive ecosystem that improves the way we live. Product lead Mark Spates discusses the ways Google focuses on its users’ experiences to innovate and evolve. He shares his outlook on the company’s future through its research into machine learning, AI, and natural language understanding. And he describes the journey of creatively exploring an array of problem-solving pathways.<br/><br/>This video is part of the OpenStax Business series, which showcases entrepreneurs and businesses with a focus on purpose, principles, and best business practices. It can be used with any OpenStax business textbook.</p>",
+                    "embed": "<script src=\"https://fast.wistia.com/embed/medias/rf6971n2hy.jsonp\" async></script><script src=\"https://fast.wistia.com/assets/external/E-v1.js\" async></script><div class=\"wistia_embed wistia_async_rf6971n2hy\" style=\"height:360px;position:relative;width:640px\"><div class=\"wistia_swatch\" style=\"height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;\"><img src=\"https://fast.wistia.com/embed/medias/rf6971n2hy/swatch\" style=\"filter:blur(5px);height:100%;object-fit:contain;width:100%;\" alt=\"\" aria-hidden=\"true\" onload=\"this.parentNode.style.opacity=1;\" /></div></div>"
+                }
+            ],
+            "id": "da8cd787-226c-42ce-a04e-b59ba3cf70b8"
+        }
+    ],
+    "translations": [],
+    "promote_image": {
+        "id": 1244,
+        "meta": {
+            "width": 1750,
+            "height": 719,
+            "type": "wagtailimages.Image",
+            "detail_url": "https://openstax.org/apps/cms/api/v2/images/1244/",
+            "download_url": "https://assets.openstax.org/oscms-prodcms/media/original_images/Management.jpeg"
+        },
+        "title": "Management.jpeg"
+    },
+    "last_updated_pdf": null,
+    "featured_resources_header": "Resources for taking your course online",
+    "support_statement": "With philanthropic support, this book is used in <span id='adoption_number'></span> classrooms, saving students <span id='savings'></span> dollars this school year. <a href='/impact'>Learn more about our impact</a> and how you can help.",
+    "adoptions": 294,
+    "savings": 7824839
+}
