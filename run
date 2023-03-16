@@ -4,15 +4,16 @@ set -eou pipefail
 
 simple_fields=()
 simple_fields_boilerplate=()
-simple_fields+=('.created')
-simple_fields+=('.updated')
 simple_fields+=('.meta.slug')
 simple_fields_boilerplate+=('.meta.slug')
-simple_fields+=('.title')
 simple_fields+=('.book_state')
+simple_fields+=('.title')
 simple_fields+=('.salesforce_abbreviation')
 simple_fields+=('.salesforce_name')
 simple_fields+=('.salesforce_book_id')
+simple_fields+=('.publish_date')
+simple_fields+=('.created')
+simple_fields+=('.updated')
 simple_fields+=('.book_subjects[0].subject_name')
 simple_fields+=('.is_ap')
 simple_fields+=('.cover_url')
@@ -20,7 +21,6 @@ simple_fields+=('.title_image_url')
 simple_fields+=('.cover_color')
 simple_fields+=('.book_cover_text_color')
 simple_fields+=('.reverse_gradient')
-simple_fields+=('.publish_date')
 simple_fields+=('.print_isbn_10')
 simple_fields+=('.print_isbn_13')
 simple_fields+=('.print_softcover_isbn_10')
@@ -56,7 +56,7 @@ simple_fields+=('.amazon_coming_soon')
 simple_fields+=('.amazon_link')
 simple_fields+=('.kindle_link')
 simple_fields+=('.chegg_link')
-simple_fields+=('.chegg_link_text')
+simple_fields_boilerplate+=('.chegg_link_text')
 simple_fields+=('.bookstore_coming_soon')
 simple_fields+=('.comp_copy_available')
 simple_fields_boilerplate+=('.errata_content')
@@ -67,8 +67,8 @@ simple_fields_boilerplate+=('.customization_form_heading')
 simple_fields_boilerplate+=('.customization_form_subheading')
 simple_fields_boilerplate+=('.customization_form_disclaimer')
 simple_fields_boilerplate+=('.customization_form_next_steps')
-simple_fields+=('.seo_title')
-simple_fields+=('.search_description')
+# simple_fields+=('.seo_title')
+# simple_fields+=('.search_description')
 # simple_fields+=('.promote_image') .meta.download_url
 simple_fields+=('.last_updated_pdf')
 simple_fields_boilerplate+=('.featured_resources_header')
@@ -98,7 +98,7 @@ make_file() {
 [[ -d ./input/ ]] || mkdir ./input/
 [[ -d ./output/ ]] || mkdir ./output/
 
-
+# https://stackoverflow.com/a/53839433
 printf -v joined '%s,' "${simple_fields[@]}"
 echo "${joined%,}" > ./output/_books.csv
 jq_selector="${joined%,}"
