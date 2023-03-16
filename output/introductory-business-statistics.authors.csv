@@ -1,0 +1,5 @@
+.value.value.name, .value.value.university, .value.value.country, .value.value.senior_author, .value.value.display_at_top
+"Alexander Holmes","The University of Oklahoma","",true,true
+"Barbara Illowsky","De Anza College","",true,true
+"Susan Dean","De Anza College","",true,true
+"Kevin Hadley","Federal Reserve Bank of Kansas City","",false,false

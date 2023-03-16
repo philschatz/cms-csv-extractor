@@ -1,0 +1,28 @@
+.value.value.name, .value.value.university, .value.value.country, .value.value.senior_author, .value.value.display_at_top
+"Andrew Fraknoi","Foothill College","",true,true
+"David Morrison","NASA Ames Research Center","",true,true
+"Sidney C. Wolff","National Optical Astronomy Observatory","",true,true
+"John Beck","Stanford University","",false,false
+"Susan D. Benecchi","Planetary Science Institute","",false,false
+"John Bochanski","Rider University","",false,false
+"Howard Bond","Pennsylvania State University, Emeritus, Space Telescope Science Institute","",false,false
+"Jennifer Carson","Occidental College","",false,false
+"Bryan Dunne","University of Illinois at Urbana-Champaign","",false,false
+"Martin Elvis","Harvard-Smithsonian Center for Astrophysics","",false,false
+"Debra Fischer","Yale University","",false,false
+"Heidi Hammel","Association of Universities for Research in Astronomy","",false,false
+"Tori Hoehler","NASA Ames Research Center","",false,false
+"Douglas Ingram","Texas Christian University","",false,false
+"Steven Kawaler","Iowa State University","",false,false
+"Lloyd Knox","University of California, Davis","",false,false
+"Todd Young","Wayne State College","",false,false
+"Mark Krumholz","Australian National University","",false,false
+"James Lowenthal","Smith College","",false,false
+"Siobahn Morgan","University of Northern Iowa","",false,false
+"Daniel Perley","California Institute of Technology","",false,false
+"Claire Raftery","National Solar Observatory","",false,false
+"Deborah Scherrer","retired, Stanford University","",false,false
+"Phillip Scherrer","Stanford University","",false,false
+"Sanjoy Som","Blue Marble Space Institute of Science, NASA Ames Research Center","",false,false
+"Wes Tobin","Indiana University East","",false,false
+"William H. Waller","retired, Tufts University, Rockport (MA) Public Schools","",false,false

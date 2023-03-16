@@ -1,0 +1,7 @@
+.value.value.name, .value.value.university, .value.value.country, .value.value.senior_author, .value.value.display_at_top
+"Paul Peter Urone","California State University, Sacramento","",true,true
+"Roger Hinrichs","State University of New York, College at Oswego","",true,true
+"Kim Dirks","University of Auckland","New Zealand",false,false
+"Manjula Sharma","University of Sydney","Australia",false,false
+"Kenneth Podolak","State University of New York, Plattsburgh","",false,false
+"Henry Smith","River Parishes Community College","",false,false

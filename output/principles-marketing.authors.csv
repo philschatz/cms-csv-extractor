@@ -1,0 +1,11 @@
+.value.value.name, .value.value.university, .value.value.country, .value.value.senior_author, .value.value.display_at_top
+"Dr. Maria Gomez Albrecht","University of Texas at Dallas","",true,false
+"Dr. Mark Green","Simpson College","",true,false
+"Linda Hoffman","Ivy Tech Community College","",true,false
+"Jacqueline Babb","Northwestern University","",false,false
+"Lauren M. Donovan","Delaware County Community College","",false,false
+"Debra Ellerbrook","Concordia University Wisconsin","",false,false
+"Lisa S. Goolsby","Southern New Hampshire University","",false,false
+"Jaciel Keltgen","Minnesota State University","",false,false
+"Sarah M. Shepler","Ivy Tech Community College","",false,false
+"Deborah Toomey","Northwest Missouri State University","",false,false

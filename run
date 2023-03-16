@@ -3,7 +3,6 @@
 set -eou pipefail
 
 simple_fields=()
-simple_fields+=('.id')
 simple_fields+=('.created')
 simple_fields+=('.updated')
 simple_fields+=('.meta.slug')
@@ -12,7 +11,7 @@ simple_fields+=('.book_state')
 simple_fields+=('.salesforce_abbreviation')
 simple_fields+=('.salesforce_name')
 simple_fields+=('.salesforce_book_id')
-# simple_fields+=('.book_subjects') # [].subject_name
+simple_fields+=('.book_subjects[0].subject_name') # [].subject_name
 # simple_fields+=('.book_categories') # [].subject_name
 simple_fields+=('.is_ap')
 simple_fields+=('.description')
@@ -129,4 +128,6 @@ for book_id in $book_ids; do
     book_slug=$(jq -r ".meta.slug" < "$book_json")
 
     make_file $book_json $book_slug 'book_student_resources'    '.value.resource_heading, .value.resource_description, .value.resource_unlocked, .value.resource_icon, .value.link_external, .value.link_page, .value.link_document_url, .value.link_document_title, .value.link_text, .value.coming_soon_text, .value.updated, .value.print_link, .value.display_on_k12'
+    make_file $book_json $book_slug 'authors'                   '.value.value.name, .value.value.university, .value.value.country, .value.value.senior_author, .value.value.display_at_top'
+    # make_file $book_json $book_slug 'book_subjects'             '.value.subject_name'
 done

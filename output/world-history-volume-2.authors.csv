@@ -1,0 +1,23 @@
+.value.value.name, .value.value.university, .value.value.country, .value.value.senior_author, .value.value.display_at_top
+"Ann Kordas","Johnson & Wales University","",true,true
+"Ryan J. Lynch","Columbus State University","",true,false
+"Brooke Nelson","formerly California State University","",true,false
+"Julie Tatlock","Mount Mary University","",true,false
+"Chris Bingley","UCLA","",false,false
+"Celeste Chamberland","Roosevelt University","",false,false
+"Scott Corbett","Ventura College","",false,false
+"Rick Gianni","Grand Canyon University","",false,false
+"Jennifer Lawrence","Tarrant County College","",false,false
+"Jamie McCandless","Kennesaw State University","",false,false
+"Cristina Mehrtens","University of Massachusetts Dartmouth","",false,false
+"Anthony Miller","Hanover College","",false,false
+"Abigail Owen","Carnegie Mellon University","",false,false
+"David Price","Santa Fe College","",false,false
+"Kim Richardson","University of South Carolina Lancaster","",false,false
+"Chris Rose","The University of Texas at Austin","",false,false
+"Joseph Snyder","Southeast Missouri State University","",false,false
+"Christopher Thrasher","National Park College","",false,false
+"David Toye","Northeast State Community College","",false,false
+"Alexander Wathen","University of Houston-Downtown","",false,false
+"Grace Hunt Watkinson","Kennesaw State University","",false,false
+"Joel Webb","Auburn University","",false,false

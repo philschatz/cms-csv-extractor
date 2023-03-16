@@ -1,0 +1,11 @@
+.value.value.name, .value.value.university, .value.value.country, .value.value.senior_author, .value.value.display_at_top
+"Barbara Illowsky","De Anza College","",true,true
+"Susan Dean","De Anza College","",true,true
+"Daniel Birmajer","Nazareth College","",false,false
+"Bryan Blount","Kentucky Wesleyan College","",false,false
+"Sheri Boyd","Rollins College","",false,false
+"Matthew Einsohn","Prescott College","",false,false
+"James Helmreich","Marist College","",false,false
+"Lynette Kenyon","Collin County Community College","",false,false
+"Sheldon Lee","Viterbo University","",false,false
+"Jeff Taub","Maine Maritime Academy","",false,false

@@ -1,0 +1,12 @@
+.value.value.name, .value.value.university, .value.value.country, .value.value.senior_author, .value.value.display_at_top
+"Steven A. Greenlaw","University of Mary Washington","",true,true
+"Timothy Taylor","Macalester College","",true,true
+"Eric Dodge","Hanover College","",false,false
+"Cynthia Gamez","University of Texas at El Paso","",false,false
+"Ralph Sonenshine","American University","",false,false
+"Andres Jauregui","Columbus State University","",false,false
+"Diane Keenan","Cerritos College","",false,false
+"Dan MacDonald","California State University San Bernardino","",false,false
+"Amyaz Moledina","The College of Wooster","",false,false
+"Craig Richardson","Winston-Salem State University","",false,false
+"David Shapiro","Pennsylvania State University","",false,false
